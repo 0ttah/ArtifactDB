@@ -23,6 +23,7 @@ I have tried to future proof the schema of the JSON manifest of changes by inclu
 
 # Card Schema
 - **Id** : Id of the card used for matching it with signature/related cards. Currently the Id is just a random number as we don't know the card collection number.
+- **RelatedId** : array : IDs of related cards such as signature spells and tokens.
 - **Name** : string : Card name
 - **CardType** : string : **Hero/Creep/Improvement/Spell/Item**
 - **ItemType** : string : __Consumable/Weapon/Armor/Accessory__
