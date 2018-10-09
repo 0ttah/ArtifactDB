@@ -2941,6 +2941,17 @@
           "Bounty": 1,
           "Artist": "Jakub Kasper",
           "Lore": "The Treants of Roseleaf and the Vhoul have lived together peacefully for generations. But now interlopers have turned our home into a battlefield. We have made the call to our cousins in the Vale of Augery - the Vhoul must be protected..."
+        },
+        {
+          "Id": 1000,
+          "Name": "Stars Align",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Green",
+          "Text": "Give your tower +3 Mana this round.",
+          "ManaCost": 1,
+          "Artist": "John Stanko",
+          "Lore": ""
         }
       ]
     }
