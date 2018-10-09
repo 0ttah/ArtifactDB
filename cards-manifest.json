@@ -123,11 +123,11 @@
               "Name": "Apotheosis Blade : Effect",
               "Type": "Continuous",
               "Text": "Equipped Hero has +8 Attack and +4 Siege. Condemn units equipped hero deals battle damage to."
-            }
+            },
             {
               "Name": "Apotheosis Blade : Active",
               "Type": "Active",
-              "Text": "Condemn enemy improvements. Condemn each item equipped by equipped hero's combat target"
+              "Text": "Condemn enemy improvements. Condemn each item equipped by equipped hero's combat target",
               "Cooldown": 1
             }
           ],
@@ -325,7 +325,7 @@
               "Text": "After the combat phase, remove a charge from Bitter Enemies. Before the action phase, if there are zero charges on Bitter Enemies, deal 6 damage to both towers."
             }
           ],
-          "Charges": 3
+          "Charges": 3,
           "Artist": "Lius Lasahido",
           "Lore": "\"Look around you commander, this is what awaits your beloved Stonehall.\" \"You're very confident for a woman who's about to die.\" - Roseleaf in flames"
         },
