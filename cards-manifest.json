@@ -2920,6 +2920,27 @@
           "Token": true,
           "Artist": "",
           "Lore": ""
+        },
+        {
+          "Id": 9999,
+          "Name": "Roseleaf Rejuvenator",
+          "CardType": "Creep",
+          "Rarity": "Common",
+          "Color": "Green",
+          "Text": "Play Effect: Heal your tower 7.",
+          "Attack": 7,
+          "Armor": 0,
+          "Health": 7,
+          "Abilities": [
+            {
+              "Name": "Roseleaf Rejuvenator : Effect",
+              "Type": "Play",
+              "Text": "Heal your tower 7."
+            }
+          ],
+          "Bounty": 1,
+          "Artist": "Jakub Kasper",
+          "Lore": "The Treants of Roseleaf and the Vhoul have lived together peacefully for generations. But now interlopers have turned our home into a battlefield. We have made the call to our cousins in the Vale of Augery - the Vhoul must be protected..."
         }
       ]
     }
