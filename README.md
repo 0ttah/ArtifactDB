@@ -62,9 +62,7 @@ Abilities too! /card/ability/ use the ability name instead of card name, followi
 
 ![Static field ability](https://raw.githubusercontent.com/ottah/ArtifactDB/master/card/ability/static_field.jpg)
 
-Card rarity icons are available as SVGs in the /card/icon/base_set_rarity folder.
-
-![Rare set icon](https://raw.githubusercontent.com/ottah/ArtifactDB/master/card/base_set_rarity/rare.svg "Rare set icon")
+Card rarity icons are available as SVG/PNG in the /card/icon/base_set_rarity folder.
 
 ## Full Card Artwork
 The path to get full artwork is /fullcardart/**card_name**.png
