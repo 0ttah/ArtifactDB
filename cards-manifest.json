@@ -319,8 +319,8 @@
               "Text": "After the combat phase, remove a charge from Bitter Enemies. Before the action phase, if there are zero charges on Bitter Enemies, deal 6 damage to both towers."
             }
           ],
-          "Artist": "",
-          "Lore": ""
+          "Artist": "Lius Lasahido",
+          "Lore": "\"Look around you commander, this is what awaits your beloved Stonehall.\" \"You're very confident for a woman who's about to die.\" - Roseleaf in flames"
         },
         {
           "Id": 49,
@@ -419,7 +419,7 @@
             }
           ],
           "Bounty": 5,
-          "Artist": "",
+          "Artist": "Erik M. Gist",
           "Lore": ""
         },
         {
@@ -684,7 +684,7 @@
             }
           ],
           "Bounty": 1,
-          "Artist": "",
+          "Artist": "Alix Branwyn",
           "Lore": ""
         },
         {
@@ -1844,8 +1844,8 @@
               "Text": "Equipped hero has +2 Attack. Get 5 gold after an enemy hero dies. Get 1 gold after an enemy creep dies."
             }
           ],
-          "Artist": "",
-          "Lore": ""
+          "Artist": "Pauline Voß",
+          "Lore": "Know that this gold must coin a stratagem, Which, cunningly effected, will beget. A very excellent piece of villainy."
         },
         {
           "Id": 346,
@@ -2177,7 +2177,7 @@
             }
           ],
           "Bounty": 1,
-          "Artist": "",
+          "Artist": "Alix Branwyn",
           "Lore": ""
         },
         {
@@ -2529,8 +2529,8 @@
               "Text": "All equipped heroes have +2 Attack and +1 Armor."
             }
           ],
-          "Artist": "",
-          "Lore": ""
+          "Artist": "Titus Lunter",
+          "Lore": "\"Our god is strange to the Vhoul. I understand. Once She was strange to me. But in time they will learn to love her as we do.\" — Legion Commander on the re-purposing of a Vhoul place of worship."
         },
         {
           "Id": 670,
@@ -2677,7 +2677,7 @@
           "Color": "Black",
           "Text": "Give a hero +10 Bounty until it dies.",
           "ManaCost": 3,
-          "Artist": "",
+          "Artist": "Erik M. Gist",
           "Lore": ""
         },
         {
@@ -2716,8 +2716,8 @@
             }
           ],
           "Bounty": 5,
-          "Artist": "",
-          "Lore": ""
+          "Artist": "Alix Branwyn",
+          "Lore": "My feelings on the war in Roseleaf are... complicated. Neither the Bronze Legion nor the Red Mist are threats to my people, and yet my cousins willingly intercede on the Vhoul's behalf. Their fondness for such frail creatures is strange to me."
         },
         {
           "Id": 157,
