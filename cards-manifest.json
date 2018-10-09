@@ -2952,6 +2952,26 @@
           "ManaCost": 1,
           "Artist": "John Stanko",
           "Lore": ""
+        },
+        {
+          "Id": 1001,
+          "Name": "Keenfolk Turret",
+          "CardType": "Improvement",
+          "Rarity": "Uncommon",
+          "Color": "Black",
+          "Text": "Active 1: Deal 2 piercing damage to unit.",
+          "ManaCost": 4,
+          "CrossLane": true,
+          "Abilities": [
+            {
+              "Name": "Keenfolk Turret : Effect",
+              "Type": "Active",
+              "Text": "Deal 2 piercing damage to unit.",
+              "Cooldown": 1
+            }
+          ],
+          "Artist": "Robbie Trevino",
+          "Lore": ""
         }
       ]
     }
