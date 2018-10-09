@@ -42,6 +42,7 @@ I have tried to future proof the schema of the JSON manifest of changes by inclu
 - **ManaCost** : int : Mana cost for card.
 - **GetInitiative** : boolean : True if this card gives player initiative. If null/false it cannot.
 - **CrossLane** : boolean : If true this card can be cast across lanes. If null/false it cannot.
+- **Token** : boolean : If true this card is a token created by another card.
 - **Artist** : string : Artist name
 - **Lore** : string : Lore description for the card.
 
