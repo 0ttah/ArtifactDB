@@ -3207,11 +3207,22 @@
           "Name": "Mana Drain",
           "CardType": "Spell",
           "Rarity": "Common",
-          "Color": "black",
+          "Color": "Black",
           "Text": "Give the enemy tower -2 Mana this round and give your tower +2 Mana this round.",
           "ManaCost": 2,
           "Artist": "Stepan Alekseev",
           "Lore": ""
+        },
+        {
+          "Id": 1004,
+          "Name": "Lightning Strike",
+          "CardType": "Spell",
+          "Rarity": "Common",
+          "Color": "Blue",
+          "Text": "Deal 6 damage to the enemy tower.",
+          "ManaCost": 2,
+          "Artist": "Daniel Romanovsky",
+          "Lore": "\"Be grateful you only annoyed me mortal, had you offended me the results would be far more... interesting.\" — Zeus, 'Merciful' God"
         }
       ]
     }
