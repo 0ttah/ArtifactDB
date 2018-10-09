@@ -167,7 +167,7 @@
             }
           ],
           "Bounty": 1,
-          "Artist": "",
+          "Artist": "David Palumbo",
           "Lore": ""
         },
         {
@@ -400,8 +400,8 @@
             }
           ],
           "Bounty": 5,
-          "Artist": "",
-          "Lore": ""
+          "Artist": "Lake Hurwitz",
+          "Lore": "\"My role is a sacred one. The holy blades and armor I wield allows me to be a conduit to the Flayed Ones... and the blood I spill in combat becomes tribute, given in the name of my people.\" - Bloodseeker"
         },
         {
           "Id": 559,
@@ -931,8 +931,8 @@
             }
           ],
           "Bounty": 5,
-          "Artist": "",
-          "Lore": ""
+          "Artist": "Randy Vargas",
+          "Lore": "\"I'm not a fighter. I'm a protector. It's not too late for you to walk away, but if you try to hurt these people, I promise it will not go well for you.\" — Enchantress."
         },
         {
           "Id": 481,
@@ -1146,7 +1146,7 @@
             }
           ],
           "Bounty": 1,
-          "Artist": "",
+          "Artist": "Vance Kovacs",
           "Lore": ""
         },
         {
@@ -1284,8 +1284,8 @@
               "Text": "Get 3 gold after the combat phase."
             }
           ],
-          "Artist": "",
-          "Lore": ""
+          "Artist": "James Paick",
+          "Lore": "\"Iron Fog. A city of industry. Of Precision. Of perfection. I guided not only its construction, but its conception. And while some take issue with our labor practices, the results speak for themselves.\"  — The Brass Herald, King of Iron Fog."
         },
         {
           "Id": 280,
@@ -2291,7 +2291,7 @@
             }
           ],
           "Artist": "",
-          "Lore": ""
+          "Lore": "To those willing to step into a world of Demonic etiquette and politics, the Court of Ristul is willing to offer considerable power... for a price. — Jolixia"
         },
         {
           "Id": 118,
@@ -2445,7 +2445,7 @@
               "Text": "Equipped hero has +2 Armor. All units have -2 Attack."
             }
           ],
-          "Artist": "",
+          "Artist": "Magali Villeneuve",
           "Lore": ""
         },
         {
@@ -2505,7 +2505,7 @@
             }
           ],
           "Bounty": 1,
-          "Artist": "",
+          "Artist": "Anthony Palumbo",
           "Lore": ""
         },
         {
@@ -2946,7 +2946,7 @@
           "Armor": 0,
           "Health": 2,
           "Bounty": 1,
-          "Artist": "",
+          "Artist": "Jason Kang",
           "Lore": ""
         },
         {
@@ -3002,7 +3002,7 @@
               "Text": "Allies have +1 Armor."
             }
           ],
-          "Artist": "",
+          "Artist": "Chris Rallis",
           "Lore": ""
         },
         {
@@ -3223,6 +3223,48 @@
           "ManaCost": 2,
           "Artist": "Daniel Romanovsky",
           "Lore": "\"Be grateful you only annoyed me mortal, had you offended me the results would be far more... interesting.\" — Zeus, 'Merciful' God"
+        },
+        {
+          "Id": 1005,
+          "RelatedId": [
+            1006
+          ],
+          "Name": "Defensive Bloom",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Green",
+          "Text": "Summon two Roseleaf Walls",
+          "ManaCost": 4,
+          "Artist": "Jana Schirmer",
+          "Lore": ""
+        },
+        {
+          "Id": 1006,
+          "RelatedId": [
+            1005
+          ],
+          "Name": "Roseleaf Wall",
+          "CardType": "Creep",
+          "Rarity": "Basic",
+          "Color": "Green",
+          "Text": "",
+          "Attack": 0,
+          "Armor": 0,
+          "Health": 8,
+          "Bounty": 1,
+          "Artist": "Pauline Voß",
+          "Lore": ""
+        },
+        {
+          "Id": 1007,
+          "Name": "Crack the Whip",
+          "CardType": "Spell",
+          "Rarity": "Rare",
+          "Color": "Black",
+          "Text": "Modify a black hero with \"After you play a black card give this hero and its allied neighbors +2 Attack this round.\"",
+          "ManaCost": 4,
+          "Artist": "Wisnu Tan",
+          "Lore": ""
         }
       ]
     }
