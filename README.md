@@ -44,3 +44,29 @@ I have tried to future proof the schema of the JSON manifest of changes by inclu
 - **CrossLane** : boolean : If true this card can be cast across lanes. If null/false it cannot.
 - **Artist** : string : Artist name
 - **Lore** : string : Lore description for the card.
+
+# Artwork
+
+## Card Art
+Card art is available in the folder /card/. When getting a card change the card's name to lowercase, replace spaces with _ and ' with -.
+
+Hero icons are available at /card/icon/hero/**hero_name**.png where **hero_name** is the card's name lowercase with spaces repaced with _ and ' replaced with -. E.g. _J'Muy The Wise_ = _j-muy_the_wise_
+
+![Hero icon](https://raw.githubusercontent.com/ottah/ArtifactDB/master/card/icon/hero/j-muy_the_wise.png)
+
+Not all card art has been made available but the ones that have are in the folder /card/artwork/
+
+![Axe hero art](https://raw.githubusercontent.com/ottah/ArtifactDB/master/card/artwork/axe.jpg)
+
+Abilities too! /card/ability/ use the ability name instead of card name, following the same rules for naming above.
+
+![Static field ability](https://raw.githubusercontent.com/ottah/ArtifactDB/master/card/ability/static_field.jpg)
+
+Card rarity icons are available as SVGs in the /card/icon/base_set_rarity folder.
+
+![Rare set icon](https://raw.githubusercontent.com/ottah/ArtifactDB/master/card/base_set_rarity/rare.svg "Rare set icon")
+
+## Full Card Artwork
+The path to get full artwork is /fullcardart/**card_name**.png
+where **card_name** is the card's name lowercase with spaces repaced with _ and ' replaced with -. E.g. _Keenfolk Turret_ = _keenfolk_turret_
+![Full artwork card](https://raw.githubusercontent.com/ottah/ArtifactDB/master/fullcardart/keenfolk_turret.png "Full artwork for Keenfolk Turret")
