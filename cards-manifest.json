@@ -1,7 +1,7 @@
 {
   "Sets": [
     {
-      "Name": "Base ",
+      "Name": "Base",
       "Count": 280,
       "ReleaseDate": "2018-11-28T00:00:00",
       "Cards": [
@@ -278,7 +278,7 @@
             }
           ],
           "Bounty": 5,
-          "Artist": "",
+          "Artist": "Clint Cearley",
           "Lore": ""
         },
         {
@@ -581,7 +581,7 @@
           "Color": "Blue",
           "Text": "Choose a unit. Choose a combat target for it. Draw a card.",
           "ManaCost": 3,
-          "Artist": "",
+          "Artist": "Lake Hurwitz",
           "Lore": ""
         },
         {
@@ -886,7 +886,7 @@
               "Cooldown": 1
             }
           ],
-          "Artist": "",
+          "Artist": "Bayard Wu",
           "Lore": ""
         },
         {
@@ -1378,7 +1378,7 @@
           ],
           "Bounty": 1,
           "Token": true,
-          "Artist": "",
+          "Artist": "Clint Cearley",
           "Lore": ""
         },
         {
@@ -1897,7 +1897,7 @@
           "Color": "Red",
           "Text": "Stun a unit blocking an allied red hero this round. Move that unit's allied neighbors to random other lanes.",
           "ManaCost": 7,
-          "Artist": "",
+          "Artist": "Clint Cearley",
           "Lore": ""
         },
         {
@@ -2004,7 +2004,7 @@
             }
           ],
           "Bounty": 1,
-          "Artist": "",
+          "Artist": "Forrest Imel",
           "Lore": ""
         },
         {
@@ -2076,7 +2076,7 @@
           "Color": "Green",
           "Text": "Heal your tower 8.",
           "ManaCost": 4,
-          "Artist": "",
+          "Artist": "Mike Lim",
           "Lore": ""
         },
         {
@@ -2189,7 +2189,7 @@
           "Text": "Choose a lane. Modify allies in that lane with +3 Health.",
           "ManaCost": 3,
           "CrossLane": true,
-          "Artist": "",
+          "Artist": "John Stanko",
           "Lore": ""
         },
         {
@@ -2541,7 +2541,7 @@
           "Text": "Move an allied black hero to another lane. Give that hero +4 Attack and +7 Siege until end of its next combat phase.",
           "ManaCost": 7,
           "CrossLane": true,
-          "Artist": "",
+          "Artist": "Michael Kommark",
           "Lore": ""
         },
         {
