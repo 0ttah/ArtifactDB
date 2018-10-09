@@ -3174,6 +3174,44 @@
           ],
           "Artist": "Robbie Trevino",
           "Lore": ""
+        },
+        {
+          "Id": 1002,
+          "RelatedId": [
+            1003
+          ],
+          "Name": "Lion",
+          "CardType": "Hero",
+          "Rarity": "Common",
+          "Color": "Black",
+          "Attack": 6,
+          "Armor": 0,
+          "Health": 5,
+          "Abilities": [
+            {
+              "Name": "Finger of Death",
+              "Type": "Active",
+              "Text": "Deal 8 piercing damage to a unit.",
+              "Cooldown": 4
+            }
+          ],
+          "Bounty": 5,
+          "Artist": "Stepan Alekseev",
+          "Lore": "The demon's hand grants me not just the ability to snuff out life. But to consume their very essence."
+        },
+        {
+          "Id": 1003,
+          "RelatedId": [
+            1002
+          ],
+          "Name": "Mana Drain",
+          "CardType": "Spell",
+          "Rarity": "Common",
+          "Color": "black",
+          "Text": "Give the enemy tower -2 Mana this round and give your tower +2 Mana this round.",
+          "ManaCost": 2,
+          "Artist": "Stepan Alekseev",
+          "Lore": ""
         }
       ]
     }
