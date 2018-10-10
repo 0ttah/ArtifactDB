@@ -3265,6 +3265,17 @@
           "ManaCost": 4,
           "Artist": "Wisnu Tan",
           "Lore": ""
+        },
+        {
+          "Id": 1008,
+          "Name": "Rend Armor",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Red",
+          "Text": "Modify a unit with -X Armor where X is its Armor.",
+          "ManaCost": 3,
+          "Artist": "Forrest Imel",
+          "Lore": ""
         }
       ]
     }
