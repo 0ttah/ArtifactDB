@@ -130,6 +130,12 @@
               "Text": "Condemn enemy improvements. Condemn each item equipped by equipped hero's combat target",
               "Cooldown": 1
             }
+            {
+              "Name": "Apotheosis Blade : Active",
+              "Type": "Active",
+              "Text": "Condemn enemy improvements. Condemn each item equipped by equipped hero's combat target"
+              "Cooldown": 1
+            }
           ],
           "Artist": "",
           "Lore": ""
@@ -325,7 +331,11 @@
               "Text": "After the combat phase, remove a charge from Bitter Enemies. Before the action phase, if there are zero charges on Bitter Enemies, deal 6 damage to both towers."
             }
           ],
+<<<<<<< HEAD
           "Charges": 3,
+=======
+          "Charges": 3
+>>>>>>> 4d69723... Update cards-manifest.json
           "Artist": "Lius Lasahido",
           "Lore": "\"Look around you commander, this is what awaits your beloved Stonehall.\" \"You're very confident for a woman who's about to die.\" - Roseleaf in flames"
         },
@@ -2980,6 +2990,7 @@
           "Artist": "Robbie Trevino",
           "Lore": ""
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
         },
         {
@@ -3084,6 +3095,8 @@
           "Artist": "Forrest Imel",
           "Lore": ""
 >>>>>>> master
+=======
+>>>>>>> 4d69723... Update cards-manifest.json
         }
       ]
     }
