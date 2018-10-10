@@ -2979,6 +2979,111 @@
           ],
           "Artist": "Robbie Trevino",
           "Lore": ""
+<<<<<<< HEAD
+=======
+        },
+        {
+          "Id": 1002,
+          "RelatedId": [
+            1003
+          ],
+          "Name": "Lion",
+          "CardType": "Hero",
+          "Rarity": "Common",
+          "Color": "Black",
+          "Attack": 6,
+          "Armor": 0,
+          "Health": 5,
+          "Abilities": [
+            {
+              "Name": "Finger of Death",
+              "Type": "Active",
+              "Text": "Deal 8 piercing damage to a unit.",
+              "Cooldown": 4
+            }
+          ],
+          "Bounty": 5,
+          "Artist": "Stepan Alekseev",
+          "Lore": "The demon's hand grants me not just the ability to snuff out life. But to consume their very essence."
+        },
+        {
+          "Id": 1003,
+          "RelatedId": [
+            1002
+          ],
+          "Name": "Mana Drain",
+          "CardType": "Spell",
+          "Rarity": "Common",
+          "Color": "Black",
+          "Text": "Give the enemy tower -2 Mana this round and give your tower +2 Mana this round.",
+          "ManaCost": 2,
+          "Artist": "Stepan Alekseev",
+          "Lore": ""
+        },
+        {
+          "Id": 1004,
+          "Name": "Lightning Strike",
+          "CardType": "Spell",
+          "Rarity": "Common",
+          "Color": "Blue",
+          "Text": "Deal 6 damage to the enemy tower.",
+          "ManaCost": 2,
+          "Artist": "Daniel Romanovsky",
+          "Lore": "\"Be grateful you only annoyed me mortal, had you offended me the results would be far more... interesting.\" — Zeus, 'Merciful' God"
+        },
+        {
+          "Id": 1005,
+          "RelatedId": [
+            1006
+          ],
+          "Name": "Defensive Bloom",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Green",
+          "Text": "Summon two Roseleaf Walls",
+          "ManaCost": 4,
+          "Artist": "Jana Schirmer",
+          "Lore": ""
+        },
+        {
+          "Id": 1006,
+          "RelatedId": [
+            1005
+          ],
+          "Name": "Roseleaf Wall",
+          "CardType": "Creep",
+          "Rarity": "Basic",
+          "Color": "Green",
+          "Text": "",
+          "Attack": 0,
+          "Armor": 0,
+          "Health": 8,
+          "Bounty": 1,
+          "Artist": "Pauline Voß",
+          "Lore": ""
+        },
+        {
+          "Id": 1007,
+          "Name": "Crack the Whip",
+          "CardType": "Spell",
+          "Rarity": "Rare",
+          "Color": "Black",
+          "Text": "Modify a black hero with \"After you play a black card give this hero and its allied neighbors +2 Attack this round.\"",
+          "ManaCost": 4,
+          "Artist": "Wisnu Tan",
+          "Lore": ""
+        },
+        {
+          "Id": 1008,
+          "Name": "Rend Armor",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Red",
+          "Text": "Modify a unit with -X Armor where X is its Armor.",
+          "ManaCost": 3,
+          "Artist": "Forrest Imel",
+          "Lore": ""
+>>>>>>> master
         }
       ]
     }
