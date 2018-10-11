@@ -2266,6 +2266,9 @@
         },
         {
           "Id": 262,
+          "RelatedId": [
+            313
+          ],
           "Name": "Riley the Cunning",
           "CardType": "Hero",
           "Rarity": "Basic",
