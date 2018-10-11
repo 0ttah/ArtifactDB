@@ -1954,6 +1954,9 @@
         },
         {
           "Id": 646,
+          "RelatedId": [
+            595, 598
+          ],
           "Name": "Plague Ward",
           "CardType": "Creep",
           "Rarity": "Uncommon",
@@ -2226,7 +2229,7 @@
             }
           ],
           "Bounty": 1,
-          "Artist": "",
+          "Artist": "Lars Grant-West",
           "Lore": ""
         },
         {
@@ -2297,7 +2300,7 @@
               "Text": "Equipped Hero has +4 Health and -2 Armor. The unit blocking equipped Hero has -2 Armor."
             }
           ],
-          "Artist": "",
+          "Artist": "Christine Choi",
           "Lore": "To those willing to step into a world of Demonic etiquette and politics, the Court of Ristul is willing to offer considerable power... for a price. — Jolixia"
         },
         {
@@ -2959,7 +2962,7 @@
         {
           "Id": 595,
           "RelatedId": [
-            598
+            598, 646
           ],
           "Name": "Venomancer",
           "CardType": "Hero",
@@ -3031,7 +3034,7 @@
           ],
           "Bounty": 1,
           "Artist": "",
-          "Lore": ""
+          "Lore": "I knew this day would come the moment I agreed to host Rix's gatherings in my wine cellar... [...] I know it's only a matter of time before Tresdin has me executed, and I won't lie. I'm scared. But we all have our parts to play. — Papa Samet, Vhoul Martyr"
         },
         {
           "Id": 133,
