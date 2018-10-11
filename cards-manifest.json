@@ -3289,6 +3289,25 @@
           "ManaCost": 3,
           "Artist": "Forrest Imel",
           "Lore": ""
+        },
+        {
+          "Id": 1009,
+          "Name": "Shop Deed",
+          "CardType": "Item",
+          "Rarity": "Rare",
+          "Color": "Yellow",
+          "Text": "Each item in your Secret Shop costs X less gold, where X is equal to its base cost.",
+          "ItemType": "Weapon",
+          "GoldCost": 22,
+          "Abilities": [
+            {
+              "Name": "Shop Deed : Effect",
+              "Type": "Continuous",
+              "Text": "Each item in your Secret Shop costs X less gold, where X is equal to its base cost."
+            }
+          ],
+          "Artist": "",
+          "Lore": ""
         }
       ]
     }
