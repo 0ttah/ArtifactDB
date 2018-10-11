@@ -2295,7 +2295,7 @@
           "Color": "Yellow",
           "Text": "Equipped Hero has +4 Health and -2 Armor. The unit blocking equipped Hero has -2 Armor.",
           "ItemType": "Accessory",
-          "GoldCost": 0,
+          "GoldCost": 4,
           "Abilities": [
             {
               "Name": "Ristul Emblem : Effect",
