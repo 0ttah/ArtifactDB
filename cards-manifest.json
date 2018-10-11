@@ -392,6 +392,9 @@
         },
         {
           "Id": 394,
+          "RelatedId": [
+            601
+          ],
           "Name": "Bloodseeker",
           "CardType": "Hero",
           "Rarity": "Common",
