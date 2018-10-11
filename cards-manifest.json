@@ -1964,7 +1964,8 @@
         {
           "Id": 646,
           "RelatedId": [
-            595, 598
+            595,
+            598
           ],
           "Name": "Plague Ward",
           "CardType": "Creep",
@@ -2974,7 +2975,8 @@
         {
           "Id": 595,
           "RelatedId": [
-            598, 646
+            598,
+            646
           ],
           "Name": "Venomancer",
           "CardType": "Hero",
@@ -3316,6 +3318,43 @@
             }
           ],
           "Artist": "",
+          "Lore": ""
+        },
+        {
+          "Id": 1010,
+          "RelatedId": [
+            1011
+          ],
+          "Name": "Viper",
+          "CardType": "Hero",
+          "Rarity": "Uncommon",
+          "Color": "Green",
+          "Attack": 4,
+          "Armor": 0,
+          "Health": 10,
+          "Abilities": [
+            {
+              "Name": "Corrosive Skin",
+              "Type": "Reactive",
+              "Text": "When a unit deals battle damage to Viper, modify that unit with -1 Attack."
+            }
+          ],
+          "Bounty": 5,
+          "Artist": "Lars Grant-West",
+          "Lore": ""
+        },
+        {
+          "Id": 1011,
+          "RelatedId": [
+            1010
+          ],
+          "Name": "Viper Strike",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Green",
+          "Text": "Give a unit \"Deal 2 piercing damage to this unit before the action phase\" until it dies.",
+          "ManaCost": 2,
+          "Artist": "Lars Grant-West",
           "Lore": ""
         }
       ]
