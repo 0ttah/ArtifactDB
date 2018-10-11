@@ -623,7 +623,7 @@
           "Color": "Red",
           "Text": "Give allied heroes +4 Cleave this round.",
           "ManaCost": 4,
-          "Artist": "",
+          "Artist": "Bayard Wu",
           "Lore": ""
         },
         {
@@ -2402,7 +2402,7 @@
             }
           ],
           "Bounty": 1,
-          "Artist": "",
+          "Artist": "Alix Branwin",
           "Lore": ""
         },
         {
@@ -2539,7 +2539,7 @@
             }
           ],
           "Bounty": 5,
-          "Artist": "",
+          "Artist": "Greg Opalinski",
           "Lore": ""
         },
         {
@@ -2550,7 +2550,7 @@
           "Color": "Red",
           "Text": "Condemn an improvement. Draw a card.",
           "ManaCost": 3,
-          "Artist": "",
+          "Artist": "JiHun Lee",
           "Lore": ""
         },
         {
@@ -2681,7 +2681,7 @@
           "Color": "Blue",
           "Text": "Deal 2 damage to each enemy creep.",
           "ManaCost": 1,
-          "Artist": "",
+          "Artist": "Mike Lim",
           "Lore": ""
         },
         {
@@ -2760,7 +2760,7 @@
               "Text": "Both towers have -2 Mana."
             }
           ],
-          "Artist": "",
+          "Artist": "Dimitar Marinski",
           "Lore": ""
         },
         {
@@ -2943,7 +2943,7 @@
               "Text": "Draw a card after the combat phase if your tower was dealt damage this round."
             }
           ],
-          "Artist": "",
+          "Artist": "David Palumbo",
           "Lore": ""
         },
         {
@@ -3071,7 +3071,7 @@
             }
           ],
           "Bounty": 5,
-          "Artist": "",
+          "Artist": "Sung Choi",
           "Lore": ""
         },
         {
