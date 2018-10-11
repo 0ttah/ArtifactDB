@@ -18,6 +18,9 @@
         },
         {
           "Id": 238,
+          "RelatedId": [
+            124
+          ],
           "Name": "Abaddon",
           "CardType": "Hero",
           "Rarity": "Rare",
@@ -27,7 +30,7 @@
           "Health": 9,
           "Abilities": [
             {
-              "Name": "Borrowed Time : Active",
+              "Name": "Borrowed Time",
               "Type": "Active",
               "Text": "Fully heal Abaddon and give it Damage Immunity this round.",
               "Cooldown": 2
@@ -48,7 +51,7 @@
           "CrossLane": true,
           "Abilities": [
             {
-              "Name": "Aghanim's Sanctum : Active",
+              "Name": "Aghanim's Sanctum : Effect",
               "Type": "Active",
               "Text": "Fully restore your tower's Mana.",
               "Cooldown": 1
@@ -59,6 +62,9 @@
         },
         {
           "Id": 253,
+          "RelatedId": [
+            250
+          ],
           "Name": "Allseeing One's Favor",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -100,6 +106,9 @@
         },
         {
           "Id": 124,
+          "RelatedId": [
+            238
+          ],
           "Name": "Aphotic Shield",
           "CardType": "Spell",
           "Rarity": "Basic",
@@ -125,15 +134,9 @@
               "Text": "Equipped Hero has +8 Attack and +4 Siege. Condemn units equipped hero deals battle damage to."
             },
             {
-              "Name": "Apotheosis Blade : Active",
+              "Name": "Apotheosis Blade : Effect",
               "Type": "Active",
               "Text": "Condemn enemy improvements. Condemn each item equipped by equipped hero's combat target",
-              "Cooldown": 1
-            }
-            {
-              "Name": "Apotheosis Blade : Active",
-              "Type": "Active",
-              "Text": "Condemn enemy improvements. Condemn each item equipped by equipped hero's combat target"
               "Cooldown": 1
             }
           ],
@@ -148,7 +151,7 @@
           "Color": "Black",
           "Text": "Modify the enemy tower with -1 Mana.",
           "ManaCost": 4,
-          "Artist": "Alix Branwyn",
+          "Artist": "",
           "Lore": ""
         },
         {
@@ -163,7 +166,7 @@
           "Health": 2,
           "Abilities": [
             {
-              "Name": "Assassin's Apprentice : Active",
+              "Name": "Assassin's Apprentice : Effect",
               "Type": "Active",
               "Text": "Choose a combat target for Assassin's Apprentice.",
               "Cooldown": 1
@@ -175,6 +178,9 @@
         },
         {
           "Id": 7,
+          "RelatedId": [
+            4
+          ],
           "Name": "Assault Ladders",
           "CardType": "Improvement",
           "Rarity": "Basic",
@@ -212,6 +218,9 @@
         },
         {
           "Id": 1,
+          "RelatedId": [
+            46
+          ],
           "Name": "Axe",
           "CardType": "Hero",
           "Rarity": "Rare",
@@ -244,6 +253,9 @@
         },
         {
           "Id": 382,
+          "RelatedId": [
+            279
+          ],
           "Name": "Barracks",
           "CardType": "Improvement",
           "Rarity": "Uncommon",
@@ -263,6 +275,9 @@
         },
         {
           "Id": 277,
+          "RelatedId": [
+            280
+          ],
           "Name": "Battlefield Control",
           "CardType": "Spell",
           "Rarity": "Basic",
@@ -274,6 +289,10 @@
         },
         {
           "Id": 61,
+          "RelatedId": [
+            655,
+            658
+          ],
           "Name": "Beastmaster",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -283,7 +302,7 @@
           "Health": 12,
           "Abilities": [
             {
-              "Name": "Call of the Wild : Active",
+              "Name": "Call of the Wild",
               "Type": "Active",
               "Text": "Summon a Loyal Beast.",
               "Cooldown": 3
@@ -295,6 +314,9 @@
         },
         {
           "Id": 46,
+          "RelatedId": [
+            1
+          ],
           "Name": "Berserker's Call",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -331,11 +353,7 @@
               "Text": "After the combat phase, remove a charge from Bitter Enemies. Before the action phase, if there are zero charges on Bitter Enemies, deal 6 damage to both towers."
             }
           ],
-<<<<<<< HEAD
           "Charges": 3,
-=======
-          "Charges": 3
->>>>>>> 4d69723... Update cards-manifest.json
           "Artist": "Lius Lasahido",
           "Lore": "\"Look around you commander, this is what awaits your beloved Stonehall.\" \"You're very confident for a woman who's about to die.\" - Roseleaf in flames"
         },
@@ -360,6 +378,9 @@
         },
         {
           "Id": 601,
+          "RelatedId": [
+            394
+          ],
           "Name": "Blood Rage",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -387,7 +408,7 @@
           ],
           "Bounty": 5,
           "Artist": "Lake Hurwitz",
-          "Lore": ""
+          "Lore": "\"My role is a sacred one. The holy blades and armor I wield allows me to be a conduit to the Flayed Ones... and the blood I spill in combat becomes tribute, given in the name of my people.\" - Bloodseeker"
         },
         {
           "Id": 559,
@@ -421,6 +442,9 @@
         },
         {
           "Id": 634,
+          "RelatedId": [
+            637
+          ],
           "Name": "Bounty Hunter",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -441,6 +465,9 @@
         },
         {
           "Id": 64,
+          "RelatedId": [
+            133
+          ],
           "Name": "Bristleback",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -507,6 +534,9 @@
         },
         {
           "Id": 67,
+          "RelatedId": [
+            439
+          ],
           "Name": "Centaur Warrunner",
           "CardType": "Hero",
           "Rarity": "Rare",
@@ -527,6 +557,9 @@
         },
         {
           "Id": 463,
+          "RelatedId": [
+            397
+          ],
           "Name": "Chain Frost",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -560,6 +593,9 @@
         },
         {
           "Id": 2,
+          "RelatedId": [
+            19
+          ],
           "Name": "Chen",
           "CardType": "Hero",
           "Rarity": "Rare",
@@ -643,6 +679,9 @@
         },
         {
           "Id": 151,
+          "RelatedId": [
+            115
+          ],
           "Name": "Coup de Grace",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -654,6 +693,9 @@
         },
         {
           "Id": 91,
+          "RelatedId": [
+            292
+          ],
           "Name": "Crystal Maiden",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -707,6 +749,9 @@
         {
           "Id": 691,
           "Name": "Dark Seer",
+          "RelatedId": [
+            694
+          ],
           "CardType": "Hero",
           "Rarity": "Common",
           "Color": "Green",
@@ -770,6 +815,9 @@
         },
         {
           "Id": 244,
+          "RelatedId": [
+            106
+          ],
           "Name": "Divided We Stand",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -792,6 +840,9 @@
         },
         {
           "Id": 439,
+          "RelatedId": [
+            67
+          ],
           "Name": "Double Edge",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -804,6 +855,9 @@
         {
           "Id": 352,
           "Name": "Duel",
+          "RelatedId": [
+            70
+          ],
           "CardType": "Spell",
           "Rarity": "Uncommon",
           "Color": "Red",
@@ -814,6 +868,9 @@
         },
         {
           "Id": 97,
+          "RelatedId": [
+            259
+          ],
           "Name": "Earthshaker",
           "CardType": "Hero",
           "Rarity": "Rare",
@@ -835,6 +892,9 @@
         },
         {
           "Id": 259,
+          "RelatedId": [
+            97
+          ],
           "Name": "Echo Slam",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -846,6 +906,9 @@
         },
         {
           "Id": 154,
+          "RelatedId": [
+            103
+          ],
           "Name": "Eclipse",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -857,6 +920,9 @@
         },
         {
           "Id": 391,
+          "RelatedId": [
+            604
+          ],
           "Name": "Enchantress",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -873,7 +939,7 @@
           ],
           "Bounty": 5,
           "Artist": "Randy Vargas",
-          "Lore": ""
+          "Lore": "\"I'm not a fighter. I'm a protector. It's not too late for you to walk away, but if you try to hurt these people, I promise it will not go well for you.\" — Enchantress."
         },
         {
           "Id": 481,
@@ -908,6 +974,9 @@
         },
         {
           "Id": 343,
+          "RelatedId": [
+            241
+          ],
           "Name": "Fahrvhan the Dreamer",
           "CardType": "Hero",
           "Rarity": "Basic",
@@ -928,6 +997,9 @@
         },
         {
           "Id": 340,
+          "RelatedId": [
+            328
+          ],
           "Name": "Fighting Instinct",
           "CardType": "Spell",
           "Rarity": "Basic",
@@ -961,6 +1033,9 @@
         },
         {
           "Id": 292,
+          "RelatedId": [
+            91
+          ],
           "Name": "Frostbite",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -1034,6 +1109,9 @@
         },
         {
           "Id": 19,
+          "RelatedId": [
+            2
+          ],
           "Name": "Hand of God",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -1045,6 +1123,9 @@
         },
         {
           "Id": 295,
+          "RelatedId": [
+            283
+          ],
           "Name": "Heartstopper Aura",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -1171,6 +1252,9 @@
         },
         {
           "Id": 694,
+          "RelatedId": [
+            691
+          ],
           "Name": "Ion Shell",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -1208,10 +1292,13 @@
             }
           ],
           "Artist": "James Paick",
-          "Lore": ""
+          "Lore": "\"Iron Fog. A city of industry. Of Precision. Of perfection. I guided not only its construction, but its conception. And while some take issue with our labor practices, the results speak for themselves.\"  — The Brass Herald, King of Iron Fog."
         },
         {
           "Id": 280,
+          "RelatedId": [
+            277
+          ],
           "Name": "J'Muy the Wise",
           "CardType": "Hero",
           "Rarity": "Basic",
@@ -1233,6 +1320,9 @@
         },
         {
           "Id": 100,
+          "RelatedId": [
+            247
+          ],
           "Name": "Kanna",
           "CardType": "Hero",
           "Rarity": "Rare",
@@ -1253,6 +1343,9 @@
         },
         {
           "Id": 328,
+          "RelatedId": [
+            340
+          ],
           "Name": "Keefe the Bold",
           "CardType": "Hero",
           "Rarity": "Basic",
@@ -1285,6 +1378,9 @@
         },
         {
           "Id": 442,
+          "RelatedId": [
+            82
+          ],
           "Name": "Kraken Shell",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -1316,6 +1412,9 @@
         },
         {
           "Id": 70,
+          "RelatedId": [
+            352
+          ],
           "Name": "Legion Commander",
           "CardType": "Hero",
           "Rarity": "Basic",
@@ -1357,6 +1456,9 @@
         },
         {
           "Id": 397,
+          "RelatedId": [
+            463
+          ],
           "Name": "Lich",
           "CardType": "Hero",
           "Rarity": "Rare",
@@ -1400,6 +1502,9 @@
         },
         {
           "Id": 103,
+          "RelatedId": [
+            154
+          ],
           "Name": "Luna",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -1420,6 +1525,9 @@
         },
         {
           "Id": 112,
+          "RelatedId": [
+            232
+          ],
           "Name": "Lycan",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -1440,6 +1548,9 @@
         },
         {
           "Id": 106,
+          "RelatedId": [
+            244
+          ],
           "Name": "Meepo",
           "CardType": "Hero",
           "Rarity": "Rare",
@@ -1449,7 +1560,7 @@
           "Health": 5,
           "Abilities": [
             {
-              "Name": "Poof : Active",
+              "Name": "Poof",
               "Type": "Active",
               "Text": "Move Meepo to an allied Meepo's lane. Deal 2 damage to the new enemy neighbors.",
               "Cooldown": 2
@@ -1520,6 +1631,9 @@
         },
         {
           "Id": 427,
+          "RelatedId": [
+            430
+          ],
           "Name": "Mystic Flare",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -1531,6 +1645,9 @@
         },
         {
           "Id": 283,
+          "RelatedId": [
+            295
+          ],
           "Name": "Necrophos",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -1551,6 +1668,9 @@
         },
         {
           "Id": 361,
+          "RelatedId": [
+            58
+          ],
           "Name": "Nether Ward",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -1581,6 +1701,9 @@
         },
         {
           "Id": 313,
+          "RelatedId": [
+            262
+          ],
           "Name": "No Accident",
           "CardType": "Spell",
           "Rarity": "Basic",
@@ -1666,6 +1789,9 @@
         },
         {
           "Id": 250,
+          "RelatedId": [
+            253
+          ],
           "Name": "Omniknight",
           "CardType": "Hero",
           "Rarity": "Rare",
@@ -1774,6 +1900,9 @@
         },
         {
           "Id": 115,
+          "RelatedId": [
+            151
+          ],
           "Name": "Phantom Assassin",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -1877,6 +2006,9 @@
         },
         {
           "Id": 379,
+          "RelatedId": [
+            382
+          ],
           "Name": "Prellex",
           "CardType": "Hero",
           "Rarity": "Uncommon",
@@ -1897,6 +2029,9 @@
         },
         {
           "Id": 247,
+          "RelatedId": [
+            100
+          ],
           "Name": "Prey on the Weak",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -1908,6 +2043,9 @@
         },
         {
           "Id": 655,
+          "RelatedId": [
+            61
+          ],
           "Name": "Primal Roar",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -1919,6 +2057,9 @@
         },
         {
           "Id": 241,
+          "RelatedId": [
+            343
+          ],
           "Name": "Prowler Vanguard",
           "CardType": "Creep",
           "Rarity": "Basic",
@@ -1940,6 +2081,9 @@
         },
         {
           "Id": 58,
+          "RelatedId": [
+            361
+          ],
           "Name": "Pugna",
           "CardType": "Hero",
           "Rarity": "Rare",
@@ -2154,10 +2298,13 @@
             }
           ],
           "Artist": "",
-          "Lore": ""
+          "Lore": "To those willing to step into a world of Demonic etiquette and politics, the Court of Ristul is willing to offer considerable power... for a price. — Jolixia"
         },
         {
           "Id": 118,
+          "RelatedId": [
+            157
+          ],
           "Name": "Rix",
           "CardType": "Hero",
           "Rarity": "Uncommon",
@@ -2178,6 +2325,9 @@
         },
         {
           "Id": 622,
+          "RelatedId": [
+            619
+          ],
           "Name": "Roseleaf Druid",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -2254,6 +2404,9 @@
         },
         {
           "Id": 232,
+          "RelatedId": [
+            112
+          ],
           "Name": "Savage Wolf",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -2299,7 +2452,7 @@
               "Text": "Equipped hero has +2 Armor. All units have -2 Attack."
             }
           ],
-          "Artist": "",
+          "Artist": "Magali Villeneuve",
           "Lore": ""
         },
         {
@@ -2352,7 +2505,7 @@
           "Health": 5,
           "Abilities": [
             {
-              "Name": "Sister of the Veil : Active",
+              "Name": "Sister of the Veil : Effect",
               "Type": "Active",
               "Text": "Choose a combat target for Sister of the Veil.",
               "Cooldown": 1
@@ -2364,6 +2517,9 @@
         },
         {
           "Id": 430,
+          "RelatedId": [
+            427
+          ],
           "Name": "Skywrath Mage",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -2417,6 +2573,9 @@
         },
         {
           "Id": 4,
+          "RelatedId": [
+            7
+          ],
           "Name": "Sorla Khan",
           "CardType": "Hero",
           "Rarity": "Uncommon",
@@ -2437,6 +2596,9 @@
         },
         {
           "Id": 598,
+          "RelatedId": [
+            595
+          ],
           "Name": "Sow Venom",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -2600,6 +2762,9 @@
         },
         {
           "Id": 34,
+          "RelatedId": [
+            31
+          ],
           "Name": "Thunder God's Wrath",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -2645,6 +2810,9 @@
         },
         {
           "Id": 82,
+          "RelatedId": [
+            442
+          ],
           "Name": "Tidehunter",
           "CardType": "Hero",
           "Rarity": "Uncommon",
@@ -2688,6 +2856,9 @@
         },
         {
           "Id": 637,
+          "RelatedId": [
+            634
+          ],
           "Name": "Track",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -2718,6 +2889,9 @@
         },
         {
           "Id": 619,
+          "RelatedId": [
+            622
+          ],
           "Name": "Treant Protector",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -2738,6 +2912,9 @@
         },
         {
           "Id": 157,
+          "RelatedId": [
+            118
+          ],
           "Name": "Truth to Power",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -2781,6 +2958,9 @@
         },
         {
           "Id": 595,
+          "RelatedId": [
+            598
+          ],
           "Name": "Venomancer",
           "CardType": "Hero",
           "Rarity": "Uncommon",
@@ -2812,6 +2992,9 @@
         },
         {
           "Id": 604,
+          "RelatedId": [
+            391
+          ],
           "Name": "Verdant Refuge",
           "CardType": "Improvement",
           "Rarity": "Common",
@@ -2852,6 +3035,9 @@
         },
         {
           "Id": 133,
+          "RelatedId": [
+            64
+          ],
           "Name": "Viscous Nasal Goo",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -2863,6 +3049,9 @@
         },
         {
           "Id": 400,
+          "RelatedId": [
+            403
+          ],
           "Name": "Winter Wyvern",
           "CardType": "Hero",
           "Rarity": "Basic",
@@ -2907,6 +3096,9 @@
         {
           "Id": 31,
           "Name": "Zeus",
+          "RelatedId": [
+            34
+          ],
           "CardType": "Hero",
           "Rarity": "Common",
           "Color": "Blue",
@@ -2989,9 +3181,6 @@
           ],
           "Artist": "Robbie Trevino",
           "Lore": ""
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
         },
         {
           "Id": 1002,
@@ -3094,9 +3283,6 @@
           "ManaCost": 3,
           "Artist": "Forrest Imel",
           "Lore": ""
->>>>>>> master
-=======
->>>>>>> 4d69723... Update cards-manifest.json
         }
       ]
     }
