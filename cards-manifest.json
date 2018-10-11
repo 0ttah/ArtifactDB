@@ -13,7 +13,7 @@
           "Color": "Blue",
           "Text": "Choose a hero. Put a base copy of a random item equipped by that hero into your hand.",
           "ManaCost": 4,
-          "Artist": "",
+          "Artist": "Randy Vargas",
           "Lore": ""
         },
         {
@@ -90,7 +90,7 @@
               "Text": "Allied Melee Creeps have +2 Regeneration."
             }
           ],
-          "Artist": "",
+          "Artist": "Dimitar Marinski",
           "Lore": ""
         },
         {
@@ -101,7 +101,7 @@
           "Color": "Blue",
           "Text": "Condemn all units.",
           "ManaCost": 6,
-          "Artist": "",
+          "Artist": "Titus Lunter",
           "Lore": ""
         },
         {
@@ -124,7 +124,7 @@
           "CardType": "Item",
           "Rarity": "Rare",
           "Color": "Yellow",
-          "Text": "Equipped Hero has +8 Attack and +4 Siege. Condemn units equipped hero deals battle damage to.",
+          "Text": "Equipped Hero has +8 Attack and +4 Siege. Condemn units equipped hero deals battle damage to. Active 1: Condemn enemy improvements. Condemn each item equipped by equipped hero's combat target",
           "ItemType": "Weapon",
           "GoldCost": 25,
           "Abilities": [
@@ -132,6 +132,12 @@
               "Name": "Apotheosis Blade : Effect",
               "Type": "Continuous",
               "Text": "Equipped Hero has +8 Attack and +4 Siege. Condemn units equipped hero deals battle damage to."
+            },
+            {
+              "Name": "Apotheosis Blade : Effect",
+              "Type": "Active",
+              "Text": "Condemn enemy improvements. Condemn each item equipped by equipped hero's combat target",
+              "Cooldown": 1
             }
           ],
           "Artist": "",
@@ -207,7 +213,7 @@
               "Text": "All heroes have +4 Siege."
             }
           ],
-          "Artist": "",
+          "Artist": "Titus Lunter",
           "Lore": ""
         },
         {
@@ -264,7 +270,7 @@
               "Text": "Summon a Melee Creep into this lane each deployment phase."
             }
           ],
-          "Artist": "",
+          "Artist": "Louis Lasahido",
           "Lore": ""
         },
         {
@@ -347,6 +353,7 @@
               "Text": "After the combat phase, remove a charge from Bitter Enemies. Before the action phase, if there are zero charges on Bitter Enemies, deal 6 damage to both towers."
             }
           ],
+          "Charges": 3,
           "Artist": "Lius Lasahido",
           "Lore": "\"Look around you commander, this is what awaits your beloved Stonehall.\" \"You're very confident for a woman who's about to die.\" - Roseleaf in flames"
         },
@@ -380,7 +387,7 @@
           "Color": "Black",
           "Text": "Silence a unit this round. Give that unit +4 Attack this round.",
           "ManaCost": 5,
-          "Artist": "",
+          "Artist": "Lake Hurwitz",
           "Lore": ""
         },
         {
@@ -411,7 +418,7 @@
           "Color": "Blue",
           "Text": "Deal 20 damage to the enemy tower.",
           "ManaCost": 10,
-          "Artist": "",
+          "Artist": "Daniel Romanovsky",
           "Lore": ""
         },
         {
@@ -508,7 +515,7 @@
               "Text": "Your tower has +2 Retaliate."
             }
           ],
-          "Artist": "",
+          "Artist": "Mike Lim",
           "Lore": ""
         },
         {
@@ -522,7 +529,7 @@
           "Health": 8,
           "Bounty": 1,
           "Token": true,
-          "Artist": "",
+          "Artist": "James Paick",
           "Lore": ""
         },
         {
@@ -581,7 +588,7 @@
             }
           ],
           "Bounty": 1,
-          "Artist": "",
+          "Artist": "Mike Lim",
           "Lore": ""
         },
         {
@@ -736,7 +743,7 @@
             }
           ],
           "Bounty": 1,
-          "Artist": "Alix Branwyn",
+          "Artist": "Jakub Kasper",
           "Lore": ""
         },
         {
@@ -771,7 +778,7 @@
           "Color": "Blue",
           "Text": "Draw 2 cards. Deal 2 damage to allies in all lanes.",
           "ManaCost": 1,
-          "Artist": "",
+          "Artist": "Jana Schirmer",
           "Lore": ""
         },
         {
@@ -1021,7 +1028,7 @@
           "Color": "Black",
           "Text": "Give allies +2 Siege this round. Allies change their combat target to the unit or tower across from them.",
           "ManaCost": 3,
-          "Artist": "",
+          "Artist": "Darek Zabrocki",
           "Lore": ""
         },
         {
@@ -1085,7 +1092,7 @@
               "Text": "If there is an allied red hero in this lane, all heroes have +2 Cleave."
             }
           ],
-          "Artist": "",
+          "Artist": "JiHun Lee",
           "Lore": ""
         },
         {
@@ -1240,7 +1247,7 @@
           "Color": "Green",
           "Text": "Move a unit to a random other lane.",
           "ManaCost": 5,
-          "Artist": "",
+          "Artist": "Bayard Wu",
           "Lore": ""
         },
         {
@@ -1265,7 +1272,7 @@
           "Color": "Green",
           "Text": "Give a unit in any lane +3 Armor until end of its next combat phase.",
           "ManaCost": 2,
-          "Artist": "",
+          "Artist": "Magali Villeneuve",
           "Lore": ""
         },
         {
@@ -1331,7 +1338,7 @@
             }
           ],
           "Bounty": 5,
-          "Artist": "",
+          "Artist": "Scott M. Fischer",
           "Lore": ""
         },
         {
@@ -1381,7 +1388,7 @@
           "Text": "Modify a red hero with +1 Armor. Get initiative.",
           "ManaCost": 1,
           "GetInitiative": true,
-          "Artist": "",
+          "Artist": "Mike Lim",
           "Lore": ""
         },
         {
@@ -1722,7 +1729,7 @@
               "Text": "Condemn an improvement."
             }
           ],
-          "Artist": "",
+          "Artist": "Forrest Imel",
           "Lore": ""
         },
         {
@@ -2017,7 +2024,7 @@
             }
           ],
           "Bounty": 5,
-          "Artist": "",
+          "Artist": "Louis Lasahido",
           "Lore": ""
         },
         {
@@ -2031,7 +2038,7 @@
           "Color": "Blue",
           "Text": "Summon a Hound of War for every damaged unit.",
           "ManaCost": 4,
-          "Artist": "",
+          "Artist": "Scott M. Fischer",
           "Lore": ""
         },
         {
@@ -2609,7 +2616,7 @@
           "Color": "Red",
           "Text": "Give a hero and its allied neighbors Pierce this round. Draw a card.",
           "ManaCost": 3,
-          "Artist": "",
+          "Artist": "Lius Lasahido",
           "Lore": ""
         },
         {
@@ -2621,7 +2628,7 @@
           "Text": "Summon two Centaur Hunters into any lane.",
           "ManaCost": 7,
           "CrossLane": true,
-          "Artist": "",
+          "Artist": "James Paick",
           "Lore": ""
         },
         {
@@ -2777,7 +2784,7 @@
           "Armor": 0,
           "Health": 25,
           "Bounty": 1,
-          "Artist": "",
+          "Artist": "Vance Kovacs",
           "Lore": ""
         },
         {
@@ -2822,7 +2829,7 @@
             }
           ],
           "Bounty": 5,
-          "Artist": "",
+          "Artist": "Mike Lim",
           "Lore": ""
         },
         {
@@ -3120,7 +3127,7 @@
           "Health": 2,
           "Bounty": 1,
           "Token": true,
-          "Artist": "",
+          "Artist": "Forrest Imel",
           "Lore": ""
         },
         {
