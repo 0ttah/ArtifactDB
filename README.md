@@ -33,6 +33,7 @@ I have tried to future proof the schema of the JSON manifest of changes by inclu
 - **Attack** : int : Attack
 - **Armor** : int : Armor
 - **Health** : int : Health
+- **Charges** : int : How many charges a card has for its effect.
 - **GoldCost** : int : Cost of buying an item.
 - **Abilities** : array : An array of all abilities/effects for the Hero/Creep/Improvement/Item card. For creeps and improvements their **Text** has been parsed into an ability so it is easier to search for abilities.
   - **Name** : string : Name of the ability. For improvements/creeps the ability will be the name of the card + " : Effect" e.g. _Keenfolk Turret : Effect_. 
