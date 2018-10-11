@@ -437,7 +437,13 @@
             {
               "Name": "Book of the Dead : Effect",
               "Type": "Continuous",
-              "Text": "Equipped hero has +4 Health. Add a charge to Book of the Dead after an allied Melee Creep dies.\r\nActive 2: Summon a Zombie for each charge and remove all charges."
+              "Text": "Equipped hero has +4 Health. Add a charge to Book of the Dead after an allied Melee Creep dies."
+            },
+            {
+              "Name": "Book of the Dead : Effect",
+              "Type": "Active",
+              "Text": "Summon a Zombie for each charge and remove all charges.",
+              "Cooldown": 2
             }
           ],
           "Artist": "",
