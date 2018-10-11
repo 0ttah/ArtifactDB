@@ -4,7 +4,7 @@ Cards with temp art that is either cropped from a full card posted online that i
 These will be replaced when the artwork is available.
 
 # Icons
-- Lion
+
 
 # Card Art
-- Shop Deed
+
