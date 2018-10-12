@@ -3308,7 +3308,7 @@
           "Rarity": "Rare",
           "Color": "Yellow",
           "Text": "Each item in your Secret Shop costs X less gold, where X is equal to its base cost.",
-          "ItemType": "Weapon",
+          "ItemType": "Consumable",
           "GoldCost": 22,
           "Abilities": [
             {
@@ -3355,6 +3355,31 @@
           "Text": "Give a unit \"Deal 2 piercing damage to this unit before the action phase\" until it dies.",
           "ManaCost": 2,
           "Artist": "Lars Grant-West",
+          "Lore": ""
+        },
+        {
+          "Id": 1012,
+          "Name": "Demagicking Maul",
+          "CardType": "Item",
+          "Rarity": "Rare",
+          "Color": "Yellow",
+          "Text": "+2 attack. Active 1: Condemn enemy random improvement. Can only be used if the equipped hero is not blocked.",
+          "ItemType": "Weapon",
+          "GoldCost": 5,
+          "Abilities": [
+            {
+              "Name": "Demagicking Maul : Effect",
+              "Type": "Continuous",
+              "Text": "+2 Attack"
+            },
+            {
+              "Name": "Demagicking Maul : Effect",
+              "Type": "Active",
+              "Text": "Condemn enemy random improvement. Can only be used if the equipped hero is not blocked.",
+              "Cooldown": 1
+            }
+          ],
+          "Artist": "Lake Hurwitz",
           "Lore": ""
         }
       ]
