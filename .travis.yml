@@ -2,4 +2,4 @@ language: node_js
 install:
 - npm install
 - npm install jsonlint
-script: jsonlint -q -c cards-manifest
+script: jsonlint -q -c cards-manifest.json
