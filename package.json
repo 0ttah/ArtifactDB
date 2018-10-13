@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Repository of Artifact cards & artwork by Valve.",
   "scripts": {
+    "pretest": "jsonlint cards-manifest.json -q -c",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/ottah/ArtifactDB/issues"
   },
-  "homepage": "https://github.com/ottah/ArtifactDB#readme"
+  "homepage": "https://github.com/ottah/ArtifactDB#readme",
+  "dependencies": {
+    "jsonlint": "^1.6.3"
+  }
 }
