@@ -21,8 +21,5 @@
   "bugs": {
     "url": "https://github.com/ottah/ArtifactDB/issues"
   },
-  "homepage": "https://github.com/ottah/ArtifactDB#readme",
-  "dependencies": {
-    "jsonlint": "^1.6.3"
-  }
+  "homepage": "https://github.com/ottah/ArtifactDB#readme"
 }
