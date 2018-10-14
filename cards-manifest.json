@@ -817,12 +817,12 @@
             {
               "Name": "Demagicking Maul : Effect",
               "Type": "Continuous",
-              "Text": "+2 Attack"
+              "Text": "Equipped hero has +2 Attack."
             },
             {
               "Name": "Demagicking Maul : Effect",
               "Type": "Active",
-              "Text": "Condemn enemy random improvement. Can only be used if the equipped hero is not blocked.",
+              "Text": "Condemn a random enemy improvement. May only be used if equipped hero is unblocked.",
               "Cooldown": 1
             }
           ],
@@ -3383,6 +3383,49 @@
           "Bounty": 1,
           "Token": true,
           "Artist": "Forrest Imel",
+          "Lore": ""
+        },
+        {
+          "Id": 193,
+          "Name": "Homefield Advantage",
+          "CardType": "Improvement",
+          "Rarity": "Uncommon",
+          "Color": "Green",
+          "Text": "Before the action phase disarm a random enemy this round.",
+          "ManaCost": 4,
+          "CrossLane": true,
+          "Abilities": [
+            {
+              "Name": "Homefield Advantage : Effect",
+              "Type": "Continuous",
+              "Text": "Before the action phase disarm a random enemy this round."
+            }
+          ],
+          "Artist": "",
+          "Lore": ""
+        },
+        {
+          "Id": 194,
+          "Name": "Troll Soothsayer",
+          "CardType": "Creep",
+          "Rarity": "Uncommon",
+          "Color": "Blue",
+          "Attack": 2,
+          "Armor": 0,
+          "Health": 8,
+          "Bounty": 1,
+          "Artist": "",
+          "Lore": ""
+        },
+        {
+          "Id": 195,
+          "Name": "Seal Strength",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Green",
+          "Text": "Give a unit -4 Attack this round and give another unit +4 Attack this round.",
+          "ManaCost": 4,
+          "Artist": "",
           "Lore": ""
         }
       ]
