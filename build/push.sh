@@ -14,7 +14,7 @@ commit_files() {
 
 upload_files() {
   branch_name=`git rev-parse --abbrev-ref HEAD`
-  #git remote add $branch_name https://${GH_TOKEN}@github.com/ottah/ArtifactDB.git #> /dev/null 2>&1
+  git remote add $branch_name https://${GH_TOKEN}@github.com/ottah/ArtifactDB.git > /dev/null 2>&1
   git push --quiet --set-upstream $branch_name 
 }
 
