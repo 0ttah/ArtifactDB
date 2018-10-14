@@ -8,7 +8,7 @@ setup_git() {
 commit_files() {
   git checkout $TRAVIS_BRANCH
   git add cards-manifest.json
-  git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
+  git commit --message "Travis build: $TRAVIS_BUILD_NUMBER" -m "[skip ci]"
 }
 
 upload_files() {
