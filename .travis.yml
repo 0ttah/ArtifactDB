@@ -7,6 +7,8 @@ install:
 script:
 - npm run test
 - npm run build
+- export BRANCH=$(if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo $TRAVIS_BRANCH; else echo $TRAVIS_PULL_REQUEST_BRANCH; fi)
+  - echo "TRAVIS_BRANCH=$TRAVIS_BRANCH, PR=$PR, BRANCH=$BRANCH"
 after_success:
   - 'if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then bash ./build/push.sh; fi'
 env:

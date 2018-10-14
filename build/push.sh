@@ -6,13 +6,14 @@ setup_git() {
 }
 
 commit_files() {
-  git checkout build
+  git checkout $TRAVIS_BRANCH
   git add cards-manifest.json
   git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
 }
 
 upload_files() {
-  git push --quiet --set-upstream build 
+  git remote add origin https://${GH_TOKEN}@github.com/MVSE-outreach/resources.git > /dev/null 2>&1
+  git push --quiet --set-upstream $TRAVIS_BRANCH 
 }
 
 
