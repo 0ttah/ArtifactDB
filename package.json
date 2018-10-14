@@ -7,7 +7,6 @@
     "test": "jsonlint cards-manifest.json -q -c"
   },
   "pre-commit": [
-    "build",
     "test"
   ],
   "repository": {
