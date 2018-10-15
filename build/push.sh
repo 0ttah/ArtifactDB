@@ -12,8 +12,8 @@ commit_files() {
 }
 
 upload_files() {
-  git remote add origin https://${GH_TOKEN}@github.com/ottah/ArtifactDB.git > /dev/null 2>&1
-  git push --quiet --set-upstream origin 
+  git remote add origin-build https://${GH_TOKEN}@github.com/ottah/ArtifactDB.git > /dev/null 2>&1
+  git push --quiet --set-upstream origin-build $TRAVIS_BRANCH
 }
 
 
