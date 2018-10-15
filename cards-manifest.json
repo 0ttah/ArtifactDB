@@ -6,6 +6,10 @@
       "ReleaseDate": "2018-11-28T00:00:00",
       "Cards": [
         {
+          "Id": 0,
+          "Name": "This is a fake card"
+        },
+        {
           "Id": 1,
           "Name": "...And One For Me",
           "CardType": "Spell",
