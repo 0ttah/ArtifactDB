@@ -1,8 +1,8 @@
 #!/bin/sh
 
 setup_git() {
-  git config --global user.email "travis@travis-ci.org"
-  git config --global user.name "Travis CI"
+  git config user.email "travis@travis-ci.org"
+  git config user.name "Travis CI"
 }
 
 commit_files() {
@@ -13,7 +13,7 @@ commit_files() {
 
 upload_files() {
   git remote add origin https://${GH_TOKEN}@github.com/ottah/ArtifactDB.git > /dev/null 2>&1
-  git push --quiet --set-upstream $TRAVIS_BRANCH 
+  git push --quiet --set-upstream origin 
 }
 
 
