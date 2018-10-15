@@ -3427,7 +3427,20 @@
           "Token": true,
           "Artist": "Forrest Imel",
           "Lore": ""
-        }
+        },
+        {
+          "Id": 2123,
+          "Name": "TEST CARD",
+          "CardType": "Creep",
+          "Rarity": "Uncommon",
+          "Color": "Blue",
+          "Attack": 2,
+          "Armor": 0,
+          "Health": 8,
+          "Bounty": 1,
+          "Artist": "",
+          "Lore": ""
+        },
       ]
     }
   ]
