@@ -63,7 +63,7 @@
         {
           "Id": 4,
           "RelatedId": [
-            111
+            112
           ],
           "Name": "Allseeing One's Favor",
           "CardType": "Spell",
@@ -179,7 +179,7 @@
         {
           "Id": 11,
           "RelatedId": [
-            156
+            158
           ],
           "Name": "Assault Ladders",
           "CardType": "Improvement",
@@ -276,7 +276,7 @@
         {
           "Id": 16,
           "RelatedId": [
-            82
+            83
           ],
           "Name": "Battlefield Control",
           "CardType": "Spell",
@@ -290,8 +290,8 @@
         {
           "Id": 17,
           "RelatedId": [
-            125,
-            94
+            126,
+            95
           ],
           "Name": "Beastmaster",
           "CardType": "Hero",
@@ -452,7 +452,7 @@
         {
           "Id": 26,
           "RelatedId": [
-            175
+            177
           ],
           "Name": "Bounty Hunter",
           "CardType": "Hero",
@@ -475,7 +475,7 @@
         {
           "Id": 27,
           "RelatedId": [
-            187
+            190
           ],
           "Name": "Bristleback",
           "CardType": "Hero",
@@ -567,7 +567,7 @@
         {
           "Id": 32,
           "RelatedId": [
-            91
+            92
           ],
           "Name": "Chain Frost",
           "CardType": "Spell",
@@ -689,7 +689,7 @@
         {
           "Id": 40,
           "RelatedId": [
-            117
+            118
           ],
           "Name": "Coup de Grace",
           "CardType": "Spell",
@@ -770,7 +770,7 @@
           "Id": 45,
           "Name": "Dark Seer",
           "RelatedId": [
-            79
+            80
           ],
           "CardType": "Hero",
           "Rarity": "Common",
@@ -793,7 +793,7 @@
         {
           "Id": 46,
           "RelatedId": [
-            142
+            143
           ],
           "Name": "Defensive Bloom",
           "CardType": "Spell",
@@ -875,7 +875,7 @@
         {
           "Id": 51,
           "RelatedId": [
-            98
+            99
           ],
           "Name": "Divided We Stand",
           "CardType": "Spell",
@@ -915,7 +915,7 @@
           "Id": 54,
           "Name": "Duel",
           "RelatedId": [
-            89
+            90
           ],
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -966,7 +966,7 @@
         {
           "Id": 57,
           "RelatedId": [
-            95
+            96
           ],
           "Name": "Eclipse",
           "CardType": "Spell",
@@ -980,7 +980,7 @@
         {
           "Id": 58,
           "RelatedId": [
-            183
+            186
           ],
           "Name": "Enchantress",
           "CardType": "Hero",
@@ -1034,7 +1034,7 @@
         {
           "Id": 61,
           "RelatedId": [
-            126
+            127
           ],
           "Name": "Fahrvhan the Dreamer",
           "CardType": "Hero",
@@ -1057,7 +1057,7 @@
         {
           "Id": 62,
           "RelatedId": [
-            84
+            85
           ],
           "Name": "Fighting Instinct",
           "CardType": "Spell",
@@ -1183,7 +1183,7 @@
         {
           "Id": 71,
           "RelatedId": [
-            103
+            104
           ],
           "Name": "Heartstopper Aura",
           "CardType": "Spell",
@@ -1248,6 +1248,25 @@
         },
         {
           "Id": 75,
+          "Name": "Homefield Advantage",
+          "CardType": "Improvement",
+          "Rarity": "Uncommon",
+          "Color": "Green",
+          "Text": "Before the action phase disarm a random enemy this round.",
+          "ManaCost": 4,
+          "CrossLane": true,
+          "Abilities": [
+            {
+              "Name": "Homefield Advantage : Effect",
+              "Type": "Continuous",
+              "Text": "Before the action phase disarm a random enemy this round."
+            }
+          ],
+          "Artist": "",
+          "Lore": ""
+        },
+        {
+          "Id": 76,
           "Name": "Horn of the Alpha",
           "CardType": "Item",
           "Rarity": "Rare",
@@ -1266,7 +1285,7 @@
           "Lore": ""
         },
         {
-          "Id": 76,
+          "Id": 77,
           "Name": "Hound of War",
           "CardType": "Creep",
           "Rarity": "Basic",
@@ -1280,7 +1299,7 @@
           "Lore": ""
         },
         {
-          "Id": 77,
+          "Id": 78,
           "Name": "Howling Mind",
           "CardType": "Improvement",
           "Rarity": "Uncommon",
@@ -1299,7 +1318,7 @@
           "Lore": ""
         },
         {
-          "Id": 78,
+          "Id": 79,
           "Name": "Intimidation",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -1310,7 +1329,7 @@
           "Lore": ""
         },
         {
-          "Id": 79,
+          "Id": 80,
           "RelatedId": [
             45
           ],
@@ -1324,7 +1343,7 @@
           "Lore": ""
         },
         {
-          "Id": 80,
+          "Id": 81,
           "Name": "Iron Branch Protection",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -1335,7 +1354,7 @@
           "Lore": ""
         },
         {
-          "Id": 81,
+          "Id": 82,
           "Name": "Iron Fog Goldmine",
           "CardType": "Improvement",
           "Rarity": "Common",
@@ -1354,7 +1373,7 @@
           "Lore": "\"Iron Fog. A city of industry. Of Precision. Of perfection. I guided not only its construction, but its conception. And while some take issue with our labor practices, the results speak for themselves.\"  — The Brass Herald, King of Iron Fog."
         },
         {
-          "Id": 82,
+          "Id": 83,
           "RelatedId": [
             16
           ],
@@ -1378,9 +1397,9 @@
           "Lore": ""
         },
         {
-          "Id": 83,
+          "Id": 84,
           "RelatedId": [
-            124
+            125
           ],
           "Name": "Kanna",
           "CardType": "Hero",
@@ -1401,7 +1420,7 @@
           "Lore": ""
         },
         {
-          "Id": 84,
+          "Id": 85,
           "RelatedId": [
             62
           ],
@@ -1417,7 +1436,7 @@
           "Lore": ""
         },
         {
-          "Id": 85,
+          "Id": 86,
           "Name": "Keenfolk Musket",
           "CardType": "Item",
           "Rarity": "Common",
@@ -1436,7 +1455,7 @@
           "Lore": ""
         },
         {
-          "Id": 86,
+          "Id": 87,
           "Name": "Keenfolk Turret",
           "CardType": "Improvement",
           "Rarity": "Uncommon",
@@ -1456,9 +1475,9 @@
           "Lore": ""
         },
         {
-          "Id": 87,
+          "Id": 88,
           "RelatedId": [
-            172
+            174
           ],
           "Name": "Kraken Shell",
           "CardType": "Spell",
@@ -1471,7 +1490,7 @@
           "Lore": ""
         },
         {
-          "Id": 88,
+          "Id": 89,
           "Name": "Leather Armor",
           "CardType": "Item",
           "Rarity": "Uncommon",
@@ -1490,7 +1509,7 @@
           "Lore": ""
         },
         {
-          "Id": 89,
+          "Id": 90,
           "RelatedId": [
             54
           ],
@@ -1513,7 +1532,7 @@
           "Lore": ""
         },
         {
-          "Id": 90,
+          "Id": 91,
           "Name": "Legion Standard Bearer",
           "CardType": "Creep",
           "Rarity": "Uncommon",
@@ -1534,7 +1553,7 @@
           "Lore": ""
         },
         {
-          "Id": 91,
+          "Id": 92,
           "RelatedId": [
             32
           ],
@@ -1558,7 +1577,7 @@
           "Lore": ""
         },
         {
-          "Id": 92,
+          "Id": 93,
           "Name": "Lightning Strike",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -1569,9 +1588,9 @@
           "Lore": "\"Be grateful you only annoyed me mortal, had you offended me the results would be far more... interesting.\" — Zeus, 'Merciful' God"
         },
         {
-          "Id": 93,
+          "Id": 94,
           "RelatedId": [
-            97
+            98
           ],
           "Name": "Lion",
           "CardType": "Hero",
@@ -1593,7 +1612,7 @@
           "Lore": "The demon's hand grants me not just the ability to snuff out life. But to consume their very essence."
         },
         {
-          "Id": 94,
+          "Id": 95,
           "Name": "Loyal Beast",
           "CardType": "Creep",
           "Rarity": "Basic",
@@ -1615,7 +1634,7 @@
           "Lore": ""
         },
         {
-          "Id": 95,
+          "Id": 96,
           "RelatedId": [
             57
           ],
@@ -1638,9 +1657,9 @@
           "Lore": ""
         },
         {
-          "Id": 96,
+          "Id": 97,
           "RelatedId": [
-            146
+            147
           ],
           "Name": "Lycan",
           "CardType": "Hero",
@@ -1661,9 +1680,9 @@
           "Lore": ""
         },
         {
-          "Id": 97,
+          "Id": 98,
           "RelatedId": [
-            93
+            94
           ],
           "Name": "Mana Drain",
           "CardType": "Spell",
@@ -1675,7 +1694,7 @@
           "Lore": ""
         },
         {
-          "Id": 98,
+          "Id": 99,
           "RelatedId": [
             51
           ],
@@ -1704,7 +1723,7 @@
           "Lore": ""
         },
         {
-          "Id": 99,
+          "Id": 100,
           "Name": "Melee Creep",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -1718,7 +1737,7 @@
           "Lore": ""
         },
         {
-          "Id": 100,
+          "Id": 101,
           "Name": "Mercenary Exiles",
           "CardType": "Creep",
           "Rarity": "Rare",
@@ -1740,7 +1759,7 @@
           "Lore": ""
         },
         {
-          "Id": 101,
+          "Id": 102,
           "Name": "Mist of Avernus",
           "CardType": "Improvement",
           "Rarity": "Uncommon",
@@ -1758,9 +1777,9 @@
           "Lore": ""
         },
         {
-          "Id": 102,
+          "Id": 103,
           "RelatedId": [
-            153
+            155
           ],
           "Name": "Mystic Flare",
           "CardType": "Spell",
@@ -1772,7 +1791,7 @@
           "Lore": ""
         },
         {
-          "Id": 103,
+          "Id": 104,
           "RelatedId": [
             71
           ],
@@ -1795,9 +1814,9 @@
           "Lore": ""
         },
         {
-          "Id": 104,
+          "Id": 105,
           "RelatedId": [
-            127
+            128
           ],
           "Name": "Nether Ward",
           "CardType": "Improvement",
@@ -1817,7 +1836,7 @@
           "Lore": ""
         },
         {
-          "Id": 105,
+          "Id": 106,
           "Name": "New Orders",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -1828,9 +1847,9 @@
           "Lore": ""
         },
         {
-          "Id": 106,
+          "Id": 107,
           "RelatedId": [
-            137
+            138
           ],
           "Name": "No Accident",
           "CardType": "Spell",
@@ -1842,7 +1861,7 @@
           "Lore": ""
         },
         {
-          "Id": 107,
+          "Id": 108,
           "Name": "Obliterating Orb",
           "CardType": "Item",
           "Rarity": "Uncommon",
@@ -1861,7 +1880,7 @@
           "Lore": ""
         },
         {
-          "Id": 108,
+          "Id": 109,
           "Name": "Oglodi Vandal",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -1882,7 +1901,7 @@
           "Lore": ""
         },
         {
-          "Id": 109,
+          "Id": 110,
           "Name": "Ogre Conscript",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -1895,7 +1914,7 @@
           "Lore": ""
         },
         {
-          "Id": 110,
+          "Id": 111,
           "Name": "Ogre Corpse Tosser",
           "CardType": "Creep",
           "Rarity": "Rare",
@@ -1916,7 +1935,7 @@
           "Lore": ""
         },
         {
-          "Id": 111,
+          "Id": 112,
           "RelatedId": [
             4
           ],
@@ -1940,7 +1959,7 @@
           "Lore": ""
         },
         {
-          "Id": 112,
+          "Id": 113,
           "Name": "Path of the Bold",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -1959,7 +1978,7 @@
           "Lore": ""
         },
         {
-          "Id": 113,
+          "Id": 114,
           "Name": "Path of the Cunning",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -1978,7 +1997,7 @@
           "Lore": ""
         },
         {
-          "Id": 114,
+          "Id": 115,
           "Name": "Path of the Dreamer",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -1997,7 +2016,7 @@
           "Lore": ""
         },
         {
-          "Id": 115,
+          "Id": 116,
           "Name": "Path of the Wise",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -2016,7 +2035,7 @@
           "Lore": ""
         },
         {
-          "Id": 116,
+          "Id": 117,
           "Name": "Payday",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -2027,7 +2046,7 @@
           "Lore": ""
         },
         {
-          "Id": 117,
+          "Id": 118,
           "RelatedId": [
             40
           ],
@@ -2050,7 +2069,7 @@
           "Lore": ""
         },
         {
-          "Id": 118,
+          "Id": 119,
           "Name": "Phase Boots",
           "CardType": "Item",
           "Rarity": "Basic",
@@ -2069,7 +2088,7 @@
           "Lore": ""
         },
         {
-          "Id": 119,
+          "Id": 120,
           "Name": "Pick Off",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -2081,10 +2100,10 @@
           "Lore": ""
         },
         {
-          "Id": 120,
+          "Id": 121,
           "RelatedId": [
-            181,
-            157
+            184,
+            159
           ],
           "Name": "Plague Ward",
           "CardType": "Creep",
@@ -2107,7 +2126,7 @@
           "Lore": ""
         },
         {
-          "Id": 121,
+          "Id": 122,
           "Name": "Poaching Knife",
           "CardType": "Item",
           "Rarity": "Rare",
@@ -2126,7 +2145,7 @@
           "Lore": "Know that this gold must coin a stratagem, Which, cunningly effected, will beget. A very excellent piece of villainy."
         },
         {
-          "Id": 122,
+          "Id": 123,
           "Name": "Poised to Strike",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -2137,7 +2156,7 @@
           "Lore": ""
         },
         {
-          "Id": 123,
+          "Id": 124,
           "RelatedId": [
             15
           ],
@@ -2160,9 +2179,9 @@
           "Lore": ""
         },
         {
-          "Id": 124,
+          "Id": 125,
           "RelatedId": [
-            83
+            84
           ],
           "Name": "Prey on the Weak",
           "CardType": "Spell",
@@ -2174,7 +2193,7 @@
           "Lore": ""
         },
         {
-          "Id": 125,
+          "Id": 126,
           "RelatedId": [
             17
           ],
@@ -2188,7 +2207,7 @@
           "Lore": ""
         },
         {
-          "Id": 126,
+          "Id": 127,
           "RelatedId": [
             61
           ],
@@ -2212,9 +2231,9 @@
           "Lore": ""
         },
         {
-          "Id": 127,
+          "Id": 128,
           "RelatedId": [
-            104
+            105
           ],
           "Name": "Pugna",
           "CardType": "Hero",
@@ -2236,7 +2255,7 @@
           "Lore": ""
         },
         {
-          "Id": 128,
+          "Id": 129,
           "Name": "Ravenous Mass",
           "CardType": "Creep",
           "Rarity": "Rare",
@@ -2258,7 +2277,7 @@
           "Lore": ""
         },
         {
-          "Id": 129,
+          "Id": 130,
           "Name": "Rebel Decoy",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -2280,7 +2299,7 @@
           "Lore": ""
         },
         {
-          "Id": 130,
+          "Id": 131,
           "Name": "Rebel Instigator",
           "CardType": "Creep",
           "Rarity": "Uncommon",
@@ -2301,7 +2320,7 @@
           "Lore": ""
         },
         {
-          "Id": 131,
+          "Id": 132,
           "Name": "Red Mist Maul",
           "CardType": "Item",
           "Rarity": "Common",
@@ -2320,7 +2339,7 @@
           "Lore": ""
         },
         {
-          "Id": 132,
+          "Id": 133,
           "Name": "Red Mist Pillager",
           "CardType": "Creep",
           "Rarity": "Uncommon",
@@ -2341,7 +2360,7 @@
           "Lore": ""
         },
         {
-          "Id": 133,
+          "Id": 134,
           "Name": "Relentless Zombie",
           "CardType": "Creep",
           "Rarity": "Uncommon",
@@ -2362,7 +2381,7 @@
           "Lore": ""
         },
         {
-          "Id": 134,
+          "Id": 135,
           "Name": "Rend Armor",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -2373,7 +2392,7 @@
           "Lore": ""
         },
         {
-          "Id": 135,
+          "Id": 136,
           "Name": "Restoration Effort",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -2384,7 +2403,7 @@
           "Lore": ""
         },
         {
-          "Id": 136,
+          "Id": 137,
           "Name": "Revtel Convoy",
           "CardType": "Creep",
           "Rarity": "Rare",
@@ -2405,9 +2424,9 @@
           "Lore": ""
         },
         {
-          "Id": 137,
+          "Id": 138,
           "RelatedId": [
-            106
+            107
           ],
           "Name": "Riley the Cunning",
           "CardType": "Hero",
@@ -2428,7 +2447,7 @@
           "Lore": ""
         },
         {
-          "Id": 138,
+          "Id": 139,
           "Name": "Ristul Emblem",
           "CardType": "Item",
           "Rarity": "Rare",
@@ -2447,9 +2466,9 @@
           "Lore": "To those willing to step into a world of Demonic etiquette and politics, the Court of Ristul is willing to offer considerable power... for a price. — Jolixia"
         },
         {
-          "Id": 139,
+          "Id": 140,
           "RelatedId": [
-            178
+            181
           ],
           "Name": "Rix",
           "CardType": "Hero",
@@ -2470,9 +2489,9 @@
           "Lore": ""
         },
         {
-          "Id": 140,
+          "Id": 141,
           "RelatedId": [
-            177
+            179
           ],
           "Name": "Roseleaf Druid",
           "CardType": "Creep",
@@ -2494,7 +2513,7 @@
           "Lore": ""
         },
         {
-          "Id": 141,
+          "Id": 142,
           "Name": "Roseleaf Rejuvenator",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -2515,7 +2534,7 @@
           "Lore": "The Treants of Roseleaf and the Vhoul have lived together peacefully for generations. But now interlopers have turned our home into a battlefield. We have made the call to our cousins in the Vale of Augery - the Vhoul must be protected..."
         },
         {
-          "Id": 142,
+          "Id": 143,
           "RelatedId": [
             46
           ],
@@ -2532,7 +2551,7 @@
           "Lore": ""
         },
         {
-          "Id": 143,
+          "Id": 144,
           "Name": "Rumusque Blessing",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -2544,7 +2563,7 @@
           "Lore": ""
         },
         {
-          "Id": 144,
+          "Id": 145,
           "Name": "Satyr Duelist",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -2565,7 +2584,7 @@
           "Lore": ""
         },
         {
-          "Id": 145,
+          "Id": 146,
           "Name": "Satyr Magician",
           "CardType": "Creep",
           "Rarity": "Uncommon",
@@ -2587,9 +2606,9 @@
           "Lore": ""
         },
         {
-          "Id": 146,
+          "Id": 147,
           "RelatedId": [
-            96
+            97
           ],
           "Name": "Savage Wolf",
           "CardType": "Creep",
@@ -2603,7 +2622,18 @@
           "Lore": ""
         },
         {
-          "Id": 147,
+          "Id": 148,
+          "Name": "Seal Strength",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Green",
+          "Text": "Give a unit -4 Attack this round and give another unit +4 Attack this round.",
+          "ManaCost": 4,
+          "Artist": "",
+          "Lore": ""
+        },
+        {
+          "Id": 149,
           "Name": "Selemene's Favor",
           "CardType": "Improvement",
           "Rarity": "Common",
@@ -2621,7 +2651,7 @@
           "Lore": ""
         },
         {
-          "Id": 148,
+          "Id": 150,
           "Name": "Seraphim Shield",
           "CardType": "Item",
           "Rarity": "Rare",
@@ -2640,7 +2670,7 @@
           "Lore": ""
         },
         {
-          "Id": 149,
+          "Id": 151,
           "Name": "Shield of Basilius",
           "CardType": "Item",
           "Rarity": "Common",
@@ -2659,7 +2689,7 @@
           "Lore": ""
         },
         {
-          "Id": 150,
+          "Id": 152,
           "Name": "Shop Deed",
           "CardType": "Item",
           "Rarity": "Rare",
@@ -2678,7 +2708,7 @@
           "Lore": ""
         },
         {
-          "Id": 151,
+          "Id": 153,
           "Name": "Short Sword",
           "CardType": "Item",
           "Rarity": "Basic",
@@ -2697,7 +2727,7 @@
           "Lore": ""
         },
         {
-          "Id": 152,
+          "Id": 154,
           "Name": "Sister of the Veil",
           "CardType": "Creep",
           "Rarity": "Uncommon",
@@ -2719,9 +2749,9 @@
           "Lore": ""
         },
         {
-          "Id": 153,
+          "Id": 155,
           "RelatedId": [
-            102
+            103
           ],
           "Name": "Skywrath Mage",
           "CardType": "Hero",
@@ -2743,7 +2773,7 @@
           "Lore": ""
         },
         {
-          "Id": 154,
+          "Id": 156,
           "Name": "Smash Their Defenses!",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -2754,7 +2784,7 @@
           "Lore": ""
         },
         {
-          "Id": 155,
+          "Id": 157,
           "Name": "Smeevil Blacksmith",
           "CardType": "Creep",
           "Rarity": "Uncommon",
@@ -2775,7 +2805,7 @@
           "Lore": ""
         },
         {
-          "Id": 156,
+          "Id": 158,
           "RelatedId": [
             11
           ],
@@ -2798,9 +2828,9 @@
           "Lore": ""
         },
         {
-          "Id": 157,
+          "Id": 159,
           "RelatedId": [
-            181
+            184
           ],
           "Name": "Sow Venom",
           "CardType": "Spell",
@@ -2812,7 +2842,7 @@
           "Lore": ""
         },
         {
-          "Id": 158,
+          "Id": 160,
           "Name": "Spot Weakness",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -2823,7 +2853,7 @@
           "Lore": ""
         },
         {
-          "Id": 159,
+          "Id": 161,
           "Name": "Spring the Trap",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -2835,7 +2865,7 @@
           "Lore": ""
         },
         {
-          "Id": 160,
+          "Id": 162,
           "Name": "Stars Align",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -2846,7 +2876,7 @@
           "Lore": ""
         },
         {
-          "Id": 161,
+          "Id": 163,
           "Name": "Steam Cannon",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -2866,7 +2896,7 @@
           "Lore": ""
         },
         {
-          "Id": 162,
+          "Id": 164,
           "Name": "Stonehall Plate",
           "CardType": "Item",
           "Rarity": "Common",
@@ -2885,7 +2915,7 @@
           "Lore": ""
         },
         {
-          "Id": 163,
+          "Id": 165,
           "Name": "Strafing Run",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -2896,7 +2926,7 @@
           "Lore": ""
         },
         {
-          "Id": 164,
+          "Id": 166,
           "Name": "Sucker Punch",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -2907,7 +2937,7 @@
           "Lore": ""
         },
         {
-          "Id": 165,
+          "Id": 167,
           "Name": "Temple of War",
           "CardType": "Improvement",
           "Rarity": "Uncommon",
@@ -2926,7 +2956,7 @@
           "Lore": "\"Our god is strange to the Vhoul. I understand. Once She was strange to me. But in time they will learn to love her as we do.\" — Legion Commander on the re-purposing of a Vhoul place of worship."
         },
         {
-          "Id": 166,
+          "Id": 168,
           "Name": "The Cover of Night",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -2938,7 +2968,7 @@
           "Lore": ""
         },
         {
-          "Id": 167,
+          "Id": 169,
           "Name": "The Oath",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -2957,7 +2987,7 @@
           "Lore": ""
         },
         {
-          "Id": 168,
+          "Id": 170,
           "Name": "The Tyler Estate",
           "CardType": "Improvement",
           "Rarity": "Uncommon",
@@ -2975,9 +3005,9 @@
           "Lore": ""
         },
         {
-          "Id": 169,
+          "Id": 171,
           "RelatedId": [
-            191
+            194
           ],
           "Name": "Thunder God's Wrath",
           "CardType": "Spell",
@@ -2989,7 +3019,7 @@
           "Lore": ""
         },
         {
-          "Id": 170,
+          "Id": 172,
           "Name": "Thunderhide Alpha",
           "CardType": "Creep",
           "Rarity": "Rare",
@@ -3002,7 +3032,7 @@
           "Lore": ""
         },
         {
-          "Id": 171,
+          "Id": 173,
           "Name": "Thunderhide Pack",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -3023,9 +3053,9 @@
           "Lore": ""
         },
         {
-          "Id": 172,
+          "Id": 174,
           "RelatedId": [
-            87
+            88
           ],
           "Name": "Tidehunter",
           "CardType": "Hero",
@@ -3047,7 +3077,7 @@
           "Lore": ""
         },
         {
-          "Id": 173,
+          "Id": 175,
           "Name": "Time of Triumph",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -3058,7 +3088,7 @@
           "Lore": ""
         },
         {
-          "Id": 174,
+          "Id": 176,
           "Name": "Tower Barrage",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -3069,7 +3099,7 @@
           "Lore": ""
         },
         {
-          "Id": 175,
+          "Id": 177,
           "RelatedId": [
             26
           ],
@@ -3083,7 +3113,7 @@
           "Lore": ""
         },
         {
-          "Id": 176,
+          "Id": 178,
           "Name": "Traveler's Cloak",
           "CardType": "Item",
           "Rarity": "Basic",
@@ -3102,9 +3132,9 @@
           "Lore": ""
         },
         {
-          "Id": 177,
+          "Id": 179,
           "RelatedId": [
-            140
+            141
           ],
           "Name": "Treant Protector",
           "CardType": "Hero",
@@ -3125,9 +3155,22 @@
           "Lore": "My feelings on the war in Roseleaf are... complicated. Neither the Bronze Legion nor the Red Mist are threats to my people, and yet my cousins willingly intercede on the Vhoul's behalf. Their fondness for such frail creatures is strange to me."
         },
         {
-          "Id": 178,
+          "Id": 180,
+          "Name": "Troll Soothsayer",
+          "CardType": "Creep",
+          "Rarity": "Uncommon",
+          "Color": "Blue",
+          "Attack": 2,
+          "Armor": 0,
+          "Health": 8,
+          "Bounty": 1,
+          "Artist": "",
+          "Lore": ""
+        },
+        {
+          "Id": 181,
           "RelatedId": [
-            139
+            140
           ],
           "Name": "Truth to Power",
           "CardType": "Spell",
@@ -3139,7 +3182,7 @@
           "Lore": ""
         },
         {
-          "Id": 179,
+          "Id": 182,
           "Name": "Unearthed Secrets",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -3158,7 +3201,7 @@
           "Lore": ""
         },
         {
-          "Id": 180,
+          "Id": 183,
           "Name": "Untested Grunt",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -3171,10 +3214,10 @@
           "Lore": ""
         },
         {
-          "Id": 181,
+          "Id": 184,
           "RelatedId": [
-            157,
-            120
+            159,
+            121
           ],
           "Name": "Venomancer",
           "CardType": "Hero",
@@ -3195,7 +3238,7 @@
           "Lore": ""
         },
         {
-          "Id": 182,
+          "Id": 185,
           "Name": "Ventriloquy",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -3206,7 +3249,7 @@
           "Lore": ""
         },
         {
-          "Id": 183,
+          "Id": 186,
           "RelatedId": [
             58
           ],
@@ -3228,7 +3271,7 @@
           "Lore": ""
         },
         {
-          "Id": 184,
+          "Id": 187,
           "Name": "Vhoul Martyr",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -3249,9 +3292,9 @@
           "Lore": "I knew this day would come the moment I agreed to host Rix's gatherings in my wine cellar... [...] I know it's only a matter of time before Tresdin has me executed, and I won't lie. I'm scared. But we all have our parts to play. — Papa Samet, Vhoul Martyr"
         },
         {
-          "Id": 185,
+          "Id": 188,
           "RelatedId": [
-            186
+            189
           ],
           "Name": "Viper",
           "CardType": "Hero",
@@ -3272,9 +3315,9 @@
           "Lore": ""
         },
         {
-          "Id": 186,
+          "Id": 189,
           "RelatedId": [
-            185
+            188
           ],
           "Name": "Viper Strike",
           "CardType": "Spell",
@@ -3286,7 +3329,7 @@
           "Lore": ""
         },
         {
-          "Id": 187,
+          "Id": 190,
           "RelatedId": [
             27
           ],
@@ -3300,9 +3343,9 @@
           "Lore": ""
         },
         {
-          "Id": 188,
+          "Id": 191,
           "RelatedId": [
-            189
+            192
           ],
           "Name": "Winter Wyvern",
           "CardType": "Hero",
@@ -3324,9 +3367,9 @@
           "Lore": ""
         },
         {
-          "Id": 189,
+          "Id": 192,
           "RelatedId": [
-            188
+            191
           ],
           "Name": "Winter's Curse",
           "CardType": "Spell",
@@ -3338,7 +3381,7 @@
           "Lore": ""
         },
         {
-          "Id": 190,
+          "Id": 193,
           "Name": "Wrath of Gold",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -3349,10 +3392,10 @@
           "Lore": ""
         },
         {
-          "Id": 191,
+          "Id": 194,
           "Name": "Zeus",
           "RelatedId": [
-            169
+            171
           ],
           "CardType": "Hero",
           "Rarity": "Common",
@@ -3372,7 +3415,7 @@
           "Lore": ""
         },
         {
-          "Id": 192,
+          "Id": 195,
           "Name": "Zombie",
           "CardType": "Creep",
           "Rarity": "Basic",
@@ -3383,49 +3426,6 @@
           "Bounty": 1,
           "Token": true,
           "Artist": "Forrest Imel",
-          "Lore": ""
-        },
-        {
-          "Id": 193,
-          "Name": "Homefield Advantage",
-          "CardType": "Improvement",
-          "Rarity": "Uncommon",
-          "Color": "Green",
-          "Text": "Before the action phase disarm a random enemy this round.",
-          "ManaCost": 4,
-          "CrossLane": true,
-          "Abilities": [
-            {
-              "Name": "Homefield Advantage : Effect",
-              "Type": "Continuous",
-              "Text": "Before the action phase disarm a random enemy this round."
-            }
-          ],
-          "Artist": "",
-          "Lore": ""
-        },
-        {
-          "Id": 194,
-          "Name": "Troll Soothsayer",
-          "CardType": "Creep",
-          "Rarity": "Uncommon",
-          "Color": "Blue",
-          "Attack": 2,
-          "Armor": 0,
-          "Health": 8,
-          "Bounty": 1,
-          "Artist": "",
-          "Lore": ""
-        },
-        {
-          "Id": 195,
-          "Name": "Seal Strength",
-          "CardType": "Spell",
-          "Rarity": "Uncommon",
-          "Color": "Green",
-          "Text": "Give a unit -4 Attack this round and give another unit +4 Attack this round.",
-          "ManaCost": 4,
-          "Artist": "",
           "Lore": ""
         }
       ]
