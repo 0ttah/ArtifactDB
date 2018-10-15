@@ -453,7 +453,7 @@
         {
           "Id": 26,
           "RelatedId": [
-            178
+            177
           ],
           "Name": "Bounty Hunter",
           "CardType": "Hero",
@@ -476,7 +476,7 @@
         {
           "Id": 27,
           "RelatedId": [
-            191
+            190
           ],
           "Name": "Bristleback",
           "CardType": "Hero",
@@ -985,7 +985,7 @@
         {
           "Id": 58,
           "RelatedId": [
-            187
+            186
           ],
           "Name": "Enchantress",
           "CardType": "Hero",
@@ -1484,7 +1484,7 @@
         {
           "Id": 88,
           "RelatedId": [
-            175
+            174
           ],
           "Name": "Kraken Shell",
           "CardType": "Spell",
@@ -2116,7 +2116,7 @@
         {
           "Id": 121,
           "RelatedId": [
-            185,
+            184,
             159
           ],
           "Name": "Plague Ward",
@@ -2490,7 +2490,7 @@
         {
           "Id": 140,
           "RelatedId": [
-            182
+            181
           ],
           "Name": "Rix",
           "CardType": "Hero",
@@ -2513,7 +2513,7 @@
         {
           "Id": 141,
           "RelatedId": [
-            180
+            179
           ],
           "Name": "Roseleaf Druid",
           "CardType": "Creep",
@@ -2860,7 +2860,7 @@
         {
           "Id": 159,
           "RelatedId": [
-            185
+            184
           ],
           "Name": "Sow Venom",
           "CardType": "Spell",
@@ -2967,7 +2967,7 @@
           "Lore": ""
         },
         {
-          "Id": 168,
+          "Id": 167,
           "Name": "Temple of War",
           "CardType": "Improvement",
           "Rarity": "Uncommon",
@@ -2986,7 +2986,7 @@
           "Lore": "\"Our god is strange to the Vhoul. I understand. Once She was strange to me. But in time they will learn to love her as we do.\" — Legion Commander on the re-purposing of a Vhoul place of worship."
         },
         {
-          "Id": 169,
+          "Id": 168,
           "Name": "The Cover of Night",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -2998,7 +2998,7 @@
           "Lore": ""
         },
         {
-          "Id": 170,
+          "Id": 169,
           "Name": "The Oath",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -3017,7 +3017,7 @@
           "Lore": ""
         },
         {
-          "Id": 171,
+          "Id": 170,
           "Name": "The Tyler Estate",
           "CardType": "Improvement",
           "Rarity": "Uncommon",
@@ -3035,9 +3035,9 @@
           "Lore": ""
         },
         {
-          "Id": 172,
+          "Id": 171,
           "RelatedId": [
-            195
+            194
           ],
           "Name": "Thunder God's Wrath",
           "CardType": "Spell",
@@ -3049,7 +3049,7 @@
           "Lore": ""
         },
         {
-          "Id": 173,
+          "Id": 172,
           "Name": "Thunderhide Alpha",
           "CardType": "Creep",
           "Rarity": "Rare",
@@ -3063,7 +3063,7 @@
           "Lore": ""
         },
         {
-          "Id": 174,
+          "Id": 173,
           "Name": "Thunderhide Pack",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -3085,7 +3085,7 @@
           "Lore": ""
         },
         {
-          "Id": 175,
+          "Id": 174,
           "RelatedId": [
             88
           ],
@@ -3109,7 +3109,7 @@
           "Lore": ""
         },
         {
-          "Id": 176,
+          "Id": 175,
           "Name": "Time of Triumph",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -3120,7 +3120,7 @@
           "Lore": ""
         },
         {
-          "Id": 177,
+          "Id": 176,
           "Name": "Tower Barrage",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -3131,7 +3131,7 @@
           "Lore": ""
         },
         {
-          "Id": 178,
+          "Id": 177,
           "RelatedId": [
             26
           ],
@@ -3145,7 +3145,7 @@
           "Lore": ""
         },
         {
-          "Id": 179,
+          "Id": 178,
           "Name": "Traveler's Cloak",
           "CardType": "Item",
           "Rarity": "Basic",
@@ -3164,7 +3164,7 @@
           "Lore": ""
         },
         {
-          "Id": 180,
+          "Id": 179,
           "RelatedId": [
             141
           ],
@@ -3187,7 +3187,7 @@
           "Lore": "My feelings on the war in Roseleaf are... complicated. Neither the Bronze Legion nor the Red Mist are threats to my people, and yet my cousins willingly intercede on the Vhoul's behalf. Their fondness for such frail creatures is strange to me."
         },
         {
-          "Id": 181,
+          "Id": 180,
           "Name": "Troll Soothsayer",
           "CardType": "Creep",
           "Rarity": "Uncommon",
@@ -3201,7 +3201,7 @@
           "Lore": ""
         },
         {
-          "Id": 182,
+          "Id": 181,
           "RelatedId": [
             140
           ],
@@ -3215,7 +3215,7 @@
           "Lore": ""
         },
         {
-          "Id": 183,
+          "Id": 182,
           "Name": "Unearthed Secrets",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -3234,7 +3234,7 @@
           "Lore": ""
         },
         {
-          "Id": 184,
+          "Id": 183,
           "Name": "Untested Grunt",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -3248,7 +3248,7 @@
           "Lore": ""
         },
         {
-          "Id": 185,
+          "Id": 184,
           "RelatedId": [
             159,
             121
@@ -3272,7 +3272,7 @@
           "Lore": ""
         },
         {
-          "Id": 186,
+          "Id": 185,
           "Name": "Ventriloquy",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -3283,7 +3283,7 @@
           "Lore": ""
         },
         {
-          "Id": 187,
+          "Id": 186,
           "RelatedId": [
             58
           ],
@@ -3305,7 +3305,7 @@
           "Lore": ""
         },
         {
-          "Id": 188,
+          "Id": 187,
           "Name": "Vhoul Martyr",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -3327,9 +3327,9 @@
           "Lore": "I knew this day would come the moment I agreed to host Rix's gatherings in my wine cellar... [...] I know it's only a matter of time before Tresdin has me executed, and I won't lie. I'm scared. But we all have our parts to play. — Papa Samet, Vhoul Martyr"
         },
         {
-          "Id": 189,
+          "Id": 188,
           "RelatedId": [
-            190
+            189
           ],
           "Name": "Viper",
           "CardType": "Hero",
@@ -3350,9 +3350,9 @@
           "Lore": ""
         },
         {
-          "Id": 190,
+          "Id": 189,
           "RelatedId": [
-            189
+            188
           ],
           "Name": "Viper Strike",
           "CardType": "Spell",
@@ -3364,7 +3364,7 @@
           "Lore": ""
         },
         {
-          "Id": 191,
+          "Id": 190,
           "RelatedId": [
             27
           ],
@@ -3378,9 +3378,9 @@
           "Lore": ""
         },
         {
-          "Id": 192,
+          "Id": 191,
           "RelatedId": [
-            193
+            192
           ],
           "Name": "Winter Wyvern",
           "CardType": "Hero",
@@ -3402,9 +3402,9 @@
           "Lore": ""
         },
         {
-          "Id": 193,
+          "Id": 192,
           "RelatedId": [
-            192
+            191
           ],
           "Name": "Winter's Curse",
           "CardType": "Spell",
@@ -3416,7 +3416,7 @@
           "Lore": ""
         },
         {
-          "Id": 194,
+          "Id": 193,
           "Name": "Wrath of Gold",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -3427,10 +3427,10 @@
           "Lore": ""
         },
         {
-          "Id": 195,
+          "Id": 194,
           "Name": "Zeus",
           "RelatedId": [
-            172
+            171
           ],
           "CardType": "Hero",
           "Rarity": "Common",
@@ -3450,7 +3450,7 @@
           "Lore": ""
         },
         {
-          "Id": 196,
+          "Id": 195,
           "Name": "Zombie",
           "CardType": "Creep",
           "Rarity": "Basic",
