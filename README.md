@@ -1,4 +1,4 @@
-# ArtifactDB
+# ArtifactDB [![Build Status](https://travis-ci.com/ottah/ArtifactDB.svg?branch=master)](https://travis-ci.com/ottah/ArtifactDB)
 The purpose of this repository is to provide easy access to assets and information about cards for developers creating websites/tools for the game [Artifact by Valve](http://playartifact.com). Hopefully with enough people contributing we can fill out every card and keep it updated to track balance changes.
 (Valve owns all art assets)
 

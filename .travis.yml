@@ -1,0 +1,26 @@
+language: node_js
+node_js:
+- node
+install:
+- npm install
+- npm install jsonlint
+script:
+- npm run test
+- npm run build
+- export BRANCH=$(if [ "$TRAVIS_PULL_REQUEST" == "false" ]; then echo $TRAVIS_BRANCH;
+  else echo $TRAVIS_PULL_REQUEST_BRANCH; fi)
+- echo "TRAVIS_BRANCH=$TRAVIS_BRANCH, PR=$PR, BRANCH=$BRANCH"
+after_success:
+- if [ "$TRAVIS_PULL_REQUEST" = "false" ]; then bash ./build/push.sh; fi
+deploy:
+  provider: npm
+  email: theo.ottah@gmail.com
+  api_key:
+    secure: gW0SSZ78zjQIuLJYaxUHlsocJlHQmIuHNWyDYqhNcBcI2iPY3kpWbA+d4KIPHDoQfQm7rH4z2Bws4OUBVI67yzPn8NkLcwJkJnGKuukI3STASGukANTDtWTfdUre3zN/xJVMidjqIBGJlJG9royFKGvmpLHvWywzCAhCr4V1RBy0eT+ftm6E/UZQQD4xOrIIdiQ14ScNQAEohebmfmw/qwwON4j7MbSo0rgQCFcnnO/qXUf8+kh+7YFOhWHjnMmUSeid/K72snKVu3+tWjZ60wiZMxAZkcSVqIwWjgMMVH5SyDYHRtv+GFNgZyD4jprJhSPtUOO6wy8muuxY19VCnKzrKlqxLOp1d3MiHDwirutccdnfd5k+lMq5gqSRs+cabE22GWCfw4d3QDzqWLnb+8XLNX/WX0mEGPym53+7403/07I1HmjlP9kjyMZltViwVD5KPhXkh3xEX4vOKAVVSRyghlA555ei3cNZ890xnPyMwMdCZECSowj6UEiUeJ5u/K4WzMDolO5l/64PMMuCnMWh765TFKoFTik6xrAE9bO+FnT4nR8beum6tekAMKOjs3d0iLv4uAg8V6XmjRYJQjAeDu3b4lujcKmZCuav1W/s4GkKvj8XMz5ybUuWjSfXMff2u2pb5q/NdNV9pKtl9h9gn20Egf59poEr9w2dZDA=
+  on:
+    tags: true
+    branch: master
+  tag: next
+env:
+  global:
+    secure: MK+6nPyvb9ylbE7TQ5wLOZf+X4cOCSM23PMaWjFJ9SMeOlB7SSJy9s2Wp0tE+6+832QCP/NBz857FpMSRV3mxTTtUpeY93RuxSGpTQziGRATkQ6rvRlJCjeIU3INMGEX1kh8fKSq61nDPBHMW9aaGMIFQhntkaQRb3skjG84EFMvmSD0iSvq6CKTNYBdXFOiaVAChblNpqzpeZKIt9p2ywjIHcCeQKenQkAcRFySybPjE4QWRuWA0nwDDvqbr/qJ8Bnob+wBuj3wsSRN1kioQNgewjYGR1ZIBHgZ8enXn91b+fnq2e6fC+d/Dw6oE3bn1izPoRL+4kLT9PO+GsXjgwZ8piEjrnVzTGKQEi7U7T5dq/6xx/yzMt8Ga1JJKm956mqLaip+4lL/ScLX1uYSpkc3HM0ILT6HSr+fPgcVk+aVJdz4uZui5/U4WHe7+1EfC+edor3Nyl+bpa5XM5fnyCRvY2A+fsSZhBzx/PEMkj5kb6x9B0ybs6EViamDktSbCAKwdwU9LEGr/G+cimrXiZvNVi7tFNdbi5/7opTmLlQN8nUjSlFS/270yfe2Qd4EV/GEyVTO2EkZrMQ1fumoJWL3cQ2eaOF/7RwCnweshRV13ZUc4Mtnz38YLchVZPkfHq/xJtfBK6csmS7OzjBJ1OOe+GkYLz0yZ63clDckk54=
