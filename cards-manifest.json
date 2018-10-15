@@ -3418,6 +3418,39 @@
           "Artist": "Lake Hurwitz",
           "Lore": ""
         }
+        {
+          "Id": 1009,
+          "Name": "Homefield Advantage",
+          "CardType": "Improvement",
+          "Rarity": "Uncommon",
+          "Color": "Green",
+          "Text": "Before the action phase disarm a random enemy this round.",
+          "ManaCost": 4,
+          "CrossLane": "true",
+          "Artist": "Jason Kang",
+          "Lore": ""
+        }
+        {
+          "Id": 1010,
+          "Name": "Selfish Cleric",
+          "CardType": "Creep",
+          "Color": "Green",
+          "Rarity": "Common",
+          "Text": "Fully heal Selfish Cleric after the combat phase.",
+          "Attack": 4,
+          "Armor": 0,
+          "Health": 4,
+          "Abilities": [
+            {
+              "Name": "Selfish Cleric : Effect",
+              "Type": "Continuous",
+              "Text": "Fully heal Selfish Cleric after the combat phase."
+            }
+          ],
+          "ManaCost": 4,
+          "Artist": "John Stanko",
+          "Lore": "By helping myself I'm helping all of us!"
+        }
       ]
     }
   ]
