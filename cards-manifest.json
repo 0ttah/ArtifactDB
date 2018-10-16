@@ -3614,6 +3614,122 @@
           "Token": true,
           "Artist": "Forrest Imel",
           "Lore": ""
+        },
+        {
+          "Id": 300,
+          "Name": "Revtel Signet Ring",
+          "CardType": "Item",
+          "Rarity": "Uncommon",
+          "Color": "Yellow",
+          "Text": "Equipped hero has +4 Health and -3 Bounty.",
+          "ItemType": "Accessory",
+          "GoldCost": 4,
+          "Abilities": [
+            {
+              "Name": "Revtel Signet Ring : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +4 Health and -3 Bounty."
+            }
+          ],
+          "Artist": "",
+          "Lore": ""
+        },
+        {
+          "Id": 301,
+          "Name": "Shield of Aquila",
+          "CardType": "Item",
+          "Rarity": "Common",
+          "Color": "Yellow",
+          "Text": "Equipped hero has +2 Armor. Equipped hero's allied neighbors have +1 Armor.",
+          "ItemType": "Armor",
+          "GoldCost": 8,
+          "Abilities": [
+            {
+              "Name": "Shield of Aquila : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +2 Armor. Equipped hero's allied neighbors have +1 Armor."
+            }
+          ],
+          "Artist": "",
+          "Lore": ""
+        },
+        {
+          "Id": 403,
+          "Name": "Arcane Assualt",
+          "CardType": "Spell",
+          "Rarity": "Common",
+          "Color": "Blue",
+          "Text": "Deal 2 damage to the enemy tower. Draw a card.",
+          "GetInitiative": true,
+          "ManaCost": 4,
+          "Artist": "",
+          "Lore": ""
+        },
+        {
+          "Id": 404,
+          "Name": "Rolling Storm",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Blue",
+          "Text": "Deal 2 damage to all towers in all lanes.",
+          "ManaCost": 3,
+          "Artist": "",
+          "Lore": ""
+        },
+        {
+          "Id": 405,
+          "Name": "Bellow",
+          "CardType": "Spell",
+          "Rarity": "Common",
+          "Color": "Green",
+          "Text": "Move a creep to a random other lane.",
+          "ManaCost": 2,
+          "Artist": "",
+          "Lore": ""
+        },
+        {
+          "Id": 406,
+          "Name": "Divine Intervention",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Green",
+          "Text": "Give allies Damage Immunity this round.",
+          "ManaCost": 5,
+          "Artist": "",
+          "Lore": ""
+        },
+        {
+          "Id": 407,
+          "Name": "Juke",
+          "CardType": "Spell",
+          "Rarity": "Common",
+          "Color": "Green",
+          "Text": "Swap an ally with one of its allied neighbors.",
+          "ManaCost": 1,
+          "Artist": "",
+          "Lore": ""
+        },
+        {
+          "Id": 408,
+          "Name": "Crippling Blow",
+          "CardType": "Spell",
+          "Rarity": "Common",
+          "Color": "Red",
+          "Text": "Modify a hero with -2 Attack.",
+          "ManaCost": 4,
+          "Artist": "",
+          "Lore": ""
+        },
+        {
+          "Id": 409,
+          "Name": "Defensive Stance",
+          "CardType": "Spell",
+          "Rarity": "Common",
+          "Color": "Red",
+          "Text": "Give a hero +3 Armor this round.",
+          "ManaCost": 2,
+          "Artist": "",
+          "Lore": ""
         }
       ]
     }
