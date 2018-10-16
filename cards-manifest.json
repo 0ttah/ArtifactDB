@@ -1166,6 +1166,7 @@
         {
           "Id": 69,
           "Name": "Golden Ticket",
+          "Rarity": "Uncommon",
           "CardType": "Item",
           "ItemType": "Consumable",
           "Color": "Yellow",
@@ -3480,6 +3481,138 @@
           "Bounty": 1,
           "Token": true,
           "Artist": "Forrest Imel",
+          "Lore": ""
+        },
+        {
+          "Id": 197,
+          "Name": "Pit Fighter of Quoidge",
+          "CardType": "Creep",
+          "Rarity": "Rare",
+          "Color": "Black",
+          "ManaCost": 4,
+          "Attack": 2,
+          "Armor": 0,
+          "Health": 8,
+          "Bounty": 1,
+          "Artist": "",
+          "Lore": ""
+        },
+        {
+          "Id": 198,
+          "Name": "Raze",
+          "CardType": "Spell",
+          "Rarity": "Rare",
+          "Color": "Red",
+          "ManaCost": 5,
+          "Text": "Condemn all enemy improvements",
+          "Artist": "",
+          "Lore": ""
+        },
+        {
+          "Id": 199,
+          "Name": "Cleansing Rite",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Green",
+          "ManaCost": 4,
+          "Text": "Purge your opponent's effects from a hero.",
+          "Artist": "",
+          "Lore": ""
+        },
+        {
+          "Id": 200,
+          "Name": "Whispers of Madness",
+          "CardType": "Spell",
+          "Rarity": "Rare",
+          "Color": "Blue",
+          "ManaCost": 2,
+          "Text": "Stun an enemy this round and stun allied heroes in all lanes this round.",
+          "Artist": "",
+          "Lore": ""
+        },
+        {
+          "Id": 201,
+          "Name": "Lost in Time",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Blue",
+          "ManaCost": 6,
+          "Text": "Give three random cards in opponent's hand +3 Lock.",
+          "Artist": "",
+          "Lore": ""
+        },
+        {
+          "Id": 205,
+          "Name": "Thunderstorm",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Blue",
+          "ManaCost": 6,
+          "Text": "Deal 4 damage to each enemy.",
+          "Artist": "",
+          "Lore": ""
+        },
+        {
+          "Id": 206,
+          "Name": "Avernus' Blessing",
+          "CardType": "Spell",
+          "Rarity": "Common",
+          "Color": "Green",
+          "ManaCost": 3,
+          "Text": "Modify a unit with +2 Attack.",
+          "Artist": "",
+          "Lore": ""
+        },
+        {
+          "Id": 202,
+          "Name": "Caught Unprepared",
+          "CardType": "Spell",
+          "Rarity": "Rare",
+          "Color": "Green",
+          "ManaCost": 4,
+          "Text": "Stun a hero until they equip an item.",
+          "Artist": "",
+          "Lore": ""
+        },
+        {
+          "Id": 203,
+          "Name": "Ravenhook",
+          "CardType": "Creep",
+          "Rarity": "Rare",
+          "Color": "Black",
+          "ManaCost": 6,
+          "Text": "Active 1: Condemn a random item equipped by the unit blocking Ravenhook. Get gold equal to the base cost of that item.",
+          "Attack": 3,
+          "Armor": 0,
+          "Health": 6,
+          "Abilities": [
+            {
+              "Name": "Ravenhook : Effect",
+              "Type": "Active",
+              "Text": "Condemn a random item equipped by the unit blocking Ravenhook. Get gold equal to the base cost of that item.",
+              "Cooldown": 1
+            }
+          ],
+          "Bounty": 1,
+          "Artist": "",
+          "Lore": ""
+        },
+        {
+          "Id": 301,
+          "Name": "Ring of Tarrasque",
+          "CardType": "Item",
+          "Color": "Yellow",
+          "ItemType": "Accessory",
+          "Text": "Equipped hero has +4 Health and +6 Regeneration.",
+          "Abilities": [
+            {
+              "Name": "Ring of Tarrasque : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +4 Health and +6 Regeneration."
+            }
+          ],
+          "GoldCost": 12,
+          "Artist": "",
           "Lore": ""
         }
       ]
