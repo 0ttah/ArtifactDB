@@ -2450,7 +2450,7 @@
           "RelatedId": [
             107
           ],
-          "Name": "Riley the Cunning",
+          "Name": "Debbi the Cunning",
           "CardType": "Hero",
           "Rarity": "Basic",
           "Color": "Black",
@@ -2461,7 +2461,7 @@
             {
               "Name": "Work the Knife",
               "Type": "Continuous",
-              "Text": "Riley the Cunning deals +2 damage when attacking a hero or tower."
+              "Text": "Debbi the Cunning deals +2 damage when attacking a hero or tower."
             }
           ],
           "Bounty": 5,
@@ -3462,6 +3462,24 @@
           "Bounty": 1,
           "Token": true,
           "Artist": "Forrest Imel",
+          "Lore": ""
+        },
+        {
+          "Id": 1000,
+          "Name": "Golden Ticket",
+          "CardType": "Item",
+          "ItemType": "Consumable",
+          "Color": "Yellow",
+          "GoldCost": 9,
+          "Text": "Get a random item from the Secret Shop.",
+          "Abilities": [
+            {
+              "Name": "Golden Ticket : Effect",
+              "Type": "Play",
+              "Text": "Get a random item from the Secret Shop."
+            }
+          ],
+          "Artist": "",
           "Lore": ""
         }
       ]
