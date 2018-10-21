@@ -2669,6 +2669,7 @@
           "Id": 154,
           "Name": "Ring of Tarrasque",
           "CardType": "Item",
+          "Rarity": "Common",
           "Color": "Yellow",
           "ItemType": "Accessory",
           "Text": "Equipped hero has +4 Health and +6 Regeneration.",
