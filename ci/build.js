@@ -20,25 +20,30 @@ function updateId(card, newId) {
   return { oldId, newId };
 }
 
-
 fs.readFile(filePath, 'utf8', (err, data) => {
   if (err) { throw err; }
   const manifest = JSON.parse(data);
   // Set new ids
-  const newAndOldIds = manifest.Sets.map(set => order(set.Cards).map((card, index) => updateId(card, index + 1)));
+  const newAndOldIds = manifest.Sets.map(set => order(set.Cards).map((card, index) => updateId(card, index + 1)))[0];
 
-  // Remap related ids
-  manifest.Sets.forEach((set, i) => {
-    const cardsWithRelated = set.Cards.filter(card => card.hasOwnProperty('RelatedId'));
-    cardsWithRelated.forEach((card) => {
-      card.RelatedId = card.RelatedId.map((id) => {
-        const match = newAndOldIds[i].find(pair => pair.oldId === id);
-        if (match) {
-          return match.newId;
+  manifest.Sets[0].Cards.forEach((card) => {
+    // console.log(card);
+    if (card.RelatedIds) {
+      card.RelatedIds = card.RelatedIds.map((id) => {
+        const match = newAndOldIds.filter(x => x.oldId === id);
+        if (match.length > 0) {
+          return match[0].newId;
         }
         return id;
       });
-    });
+      if (card.SignatureCard) {
+        const match = newAndOldIds.filter(x => x.oldId === card.SignatureCard);
+
+        if (match.length > 0) {
+          card.SignatureCard = match[0].newId;
+        }
+      }
+    }
   });
 
   jsonfile.writeFile(filePath, manifest, { spaces: 2 }, (err) => {
