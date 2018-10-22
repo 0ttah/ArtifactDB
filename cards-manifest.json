@@ -3723,119 +3723,195 @@
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 300,
           "Name": "Sven",
+          "RelatedIds": [
+            322
+          ],
           "CardType": "Hero",
           "Color": "Red",
           "Rarity": "Common",
           "Attack": 5,
+          "Armor": 0,
           "Health": 11,
+          "Abilities": [
+            {
+              "Name": "Great Cleave",
+              "Type": "Continuous",
+              "Text": "Sven has +X Cleave where X is equal to half its Attack."
+            }
+          ],
+          "SignatureCard": 322,
           "Artist": "",
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 301,
+          "RelatedIds": [
+            306
+          ],
           "Name": "Timbersaw",
           "CardType": "Hero",
           "Color": "Red",
           "Rarity": "Uncommon",
           "Attack": 4,
+          "Armor": 0,
           "Health": 11,
+          "Abilities": [
+            {
+              "Name": "Reactive Armor",
+              "Type": "Continuous",
+              "Text": "Timbersaw has +1 Armor for each of its attackers."
+            }
+          ],
+          "SignatureCard": 306,
           "Artist": "",
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 302,
+          "RelatedIds": [
+            313
+          ],
           "Name": "Ursa",
           "CardType": "Hero",
           "Color": "Red",
           "Rarity": "Common",
           "Attack": 7,
+          "Armor": 0,
           "Health": 10,
+          "Abilities": [
+            {
+              "Name": "Fury Swipes",
+              "Type": "Reactive",
+              "Text": "When Ursa deals battle damage to a unit, modify that unit with -1 Armor."
+            }
+          ],
+          "SignatureCard": 313,
           "Artist": "",
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 303,
+          "RelatedIds": [
+            310
+          ],
           "Name": "Ogre Magi",
           "CardType": "Hero",
           "Color": "Blue",
           "Rarity": "Common",
           "Attack": 3,
+          "Armor": 0,
           "Health": 7,
+          "Abilities": [
+            {
+              "Name": "Multicast",
+              "Type": "Reactive",
+              "Text": "After you play a blue spell, there is a 25% chance to put a base copy of that card into your hand."
+            }
+          ],
+          "SignatureCard": 310,
           "Artist": "",
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 304,
+          "RelatedIds": [
+            318
+          ],
           "Name": "Drow Ranger",
           "CardType": "Hero",
           "Color": "Green",
           "Rarity": "Rare",
           "Attack": 4,
+          "Armor": 0,
           "Health": 7,
+          "Abilities": [
+            {
+              "Name": "Precision Aura",
+              "Type": "Continuous",
+              "Text": "Other allies in all lanes have +1 Attack."
+            }
+          ],
+          "SignatureCard": 318,
           "Artist": "",
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 305,
           "Name": "Watchtower",
           "CardType": "Improvement",
           "Color": "Blue",
           "Rarity": "Rare",
           "Text": "Whenever an enemy improvement enters this lane, draw a card.",
+          "Abilities": [
+            {
+              "Name": "Watchtower : Effect",
+              "Type": "Reactive",
+              "Text": "Whenever an enemy improvement enters this lane, draw a card."
+            }
+          ],
           "Mana": 1,
           "CrossLane": true,
           "Artist": "",
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 306,
+          "RelatedIds": [
+            301
+          ],
           "Name": "Whirling Death",
           "CardType": "Spell",
           "Color": "Red",
           "Rarity": "Uncommon",
           "Text": "Choose an allied red hero. Deal 2 damage to its enemy neighbors and give them -2 Attack this round.",
           "Mana": 2,
+          "IsSignatureCard": true,
           "Artist": "",
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 307,
           "Name": "Fractured Timeline",
           "CardType": "Improvement",
           "Color": "Blue",
           "Rarity": "Rare",
           "Text": "Before the action phase, give a random card in opponent's hand +1 Lock.",
+          "Abilities": [
+            {
+              "Name": "Fractured Timeline : Effect",
+              "Type": "Continuous",
+              "Text": "Before the action phase, give a random card in opponent's hand +1 Lock."
+            }
+          ],
           "Mana": 2,
           "CrossLane": true,
           "Artist": "",
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 308,
           "Name": "Horde Catapult",
           "CardType": "Creep",
           "Color": "Black",
           "Rarity": "Uncommon",
           "Text": "Deal 2 piercing damage to the enemy tower before the action phase.",
+          "Abilities": [
+            {
+              "Name": "Horde Catapult : Effect",
+              "Type": "Continuous",
+              "Text": "Deal 2 piercing damage to the enemy tower before the action phase."
+            }
+          ],
           "Mana": 2,
           "Attack": 0,
+          "Armor": 0,
           "Health": 4,
           "Artist": "",
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 309,
           "Name": "Defend the Weak",
           "CardType": "Spell",
@@ -3847,20 +3923,29 @@
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 310,
+          "RelatedIds": [
+            303
+          ],
           "Name": "Ignite",
           "CardType": "Improvement",
           "Color": "Blue",
           "Rarity": "Common",
           "Text": "Deal 1 piercing damage to each enemy before the action phase.",
+          "Abilities": [
+            {
+              "Name": "Ignite : Effect",
+              "Type": "Continuous",
+              "Text": "Deal 1 piercing damage to each enemy before the action phase."
+            }
+          ],
           "Mana": 3,
           "CrossLane": true,
+          "IsSignatureCard": true,
           "Artist": "",
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 311,
           "Name": "Lodestone Demolition",
           "CardType": "Spell",
@@ -3872,7 +3957,6 @@
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 312,
           "Name": "Slay",
           "CardType": "Spell",
@@ -3884,25 +3968,34 @@
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 313,
+          "RelatedIds": [
+            302
+          ],
           "Name": "Enrage",
           "CardType": "Spell",
           "Color": "Red",
           "Rarity": "Common",
           "Text": "Give a red hero +4 Attack and +4 Armor this round.",
           "Mana": 4,
+          "IsSignatureCard": true,
           "Artist": "",
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 314,
           "Name": "Stonehall Elite",
           "CardType": "Creep",
           "Color": "Red",
           "Rarity": "Uncommon",
           "Text": "Modify Stonehall Elite with +2 Attack and +2 Health after a unit blocking it dies.",
+          "Abilities": [
+            {
+              "Name": "Stonehall Elite : Effect",
+              "Type": "Continuous",
+              "Text": "Modify Stonehall Elite with +2 Attack and +2 Health after a unit blocking it dies."
+            }
+          ],
           "Mana": 4,
           "Attack": 4,
           "Armor": 2,
@@ -3911,7 +4004,6 @@
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 315,
           "Name": "Tresdin's Standards",
           "CardType": "Spell",
@@ -3923,7 +4015,6 @@
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 316,
           "Name": "Fog of War",
           "CardType": "Spell",
@@ -3935,7 +4026,6 @@
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 317,
           "Name": "Self Sabotage",
           "CardType": "Spell",
@@ -3947,33 +4037,42 @@
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 318,
+          "RelatedIds": [
+            304
+          ],
           "Name": "Gust",
           "CardType": "Spell",
           "Color": "Green",
           "Rarity": "Rare",
           "Text": "Silence enemy heroes this round.",
           "Mana": 4,
+          "IsSignatureCard": true,
           "Artist": "",
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 319,
           "Name": "Rampaging Hellbear",
           "CardType": "Creep",
           "Color": "Green",
           "Rarity": "Rare",
           "Text": "Modify Rampaging Hellbear with +4 Attack after the combat phase.",
+          "Abilities": [
+            {
+              "Name": "Ramaging Hellbar : Effect",
+              "Type": "Continuous",
+              "Text": "Modify Rampaging Hellbear with +4 Attack after the combat phase."
+            }
+          ],
           "Mana": 4,
           "Attack": 2,
+          "Armor": 0,
           "Health": 3,
           "Artist": "",
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 320,
           "Name": "Soul of Spring",
           "CardType": "Spell",
@@ -3985,21 +4084,29 @@
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 321,
           "Name": "Cheating Death",
           "CardType": "Improvement",
           "Color": "Green",
           "Rarity": "Rare",
           "Text": "If there is an allied green hero in this lane, allies have a 50% chance of surviving with 1 Health when they would die.",
+          "Abilities": [
+            {
+              "Name": "Cheating Death : Effect",
+              "Type": "Reactive",
+              "Text": "If there is an allied green hero in this lane, allies have a 50% chance of surviving with 1 Health when they would die."
+            }
+          ],
           "Mana": 5,
           "CrossLane": true,
           "Artist": "",
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 322,
+          "RelatedIds": [
+            300
+          ],
           "Name": "God's Strength",
           "CardType": "Spell",
           "Color": "Red",
@@ -4010,7 +4117,6 @@
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 323,
           "Name": "Marrowfell Brawler",
           "CardType": "Creep",
@@ -4018,25 +4124,31 @@
           "Rarity": "Rare",
           "Mana": 6,
           "Attack": 6,
+          "Armor": 0,
           "Health": 16,
           "Artist": "",
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 324,
           "Name": "The Omexe Arena",
           "CardType": "Improvement",
           "Color": "Red",
           "Rarity": "Uncommon",
           "Text": "Draw a card after a hero dies.",
+          "Abilities": [
+            {
+              "Name": "The Omexe Aren : Effect",
+              "Type": "Reactive",
+              "Text": "Draw a card after a hero dies."
+            }
+          ],
           "Mana": 6,
           "CrossLane": true,
           "Artist": "",
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 325,
           "Name": "Call the Reserves",
           "CardType": "Spell",
@@ -4049,20 +4161,25 @@
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 326,
           "Name": "Glyph of Confusion",
           "CardType": "Improvement",
           "Color": "Blue",
           "Rarity": "Rare",
           "Text": "Whenever any unit enters this lane, stun it this round.",
+          "Abilities": [
+            {
+              "Name": "Glyph of Confusion : Effect",
+              "Type": "Reactive",
+              "Text": "Whenever any unit enters this lane, stun it this round."
+            }
+          ],
           "Mana": 6,
           "CrossLane": true,
           "Artist": "",
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 327,
           "Name": "Curse of Atrophy",
           "CardType": "Spell",
@@ -4074,27 +4191,46 @@
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 328,
           "Name": "Assassin's Shadow",
           "CardType": "Creep",
           "Color": "Black",
           "Rarity": "Rare",
           "Text": "Siege 5. Assassin's Shadow has -2 Attack for each ally.",
+          "Abilities": [
+            {
+              "Name": "Assassin's Shadow : Effect",
+              "Type": "Continuous",
+              "Text": "Siege 5."
+            },
+            {
+              "Name": "Assassin's Shadow : Effect",
+              "Type": "Continuous",
+              "Text": "Assassin's Shadow has -2 Attack for each ally."
+            }
+          ],
           "Mana": 7,
           "Attack": 15,
+          "Armor": 0,
           "Health": 5,
           "Artist": "",
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 329,
           "Name": "Emissary of the Quorum",
           "CardType": "Creep",
           "Color": "Green",
           "Rarity": "Rare",
-          "Text": "Active ■1: Modify allies with +2 Attack and +2 Health.",
+          "Text": "Active 1: Modify allies with +2 Attack and +2 Health.",
+          "Abilities": [
+            {
+              "Name": "Emissary of the Quorum : Effect",
+              "Type": "Active",
+              "Text": "Modify allies with +2 Attack and +2 Health.",
+              "Cooldown": 1
+            }
+          ],
           "Mana": 8,
           "Attack": 1,
           "Armor": 2,
@@ -4103,61 +4239,111 @@
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 330,
           "Name": "Stonehall Cloak",
           "CardType": "Item",
           "ItemType": "Accessory",
           "Color": "Yellow",
           "Rarity": "Common",
+          "Text": "Equipped hero has +4 Health. Modify Stonehall Cloak with \"Equipped hero has +2 Health\" after the combat phase.",
+          "Abilities": [
+            {
+              "Name": "Stonehall Cloak : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +4 Health."
+            },
+            {
+              "Name": "Stonehall Cloak : Effect",
+              "Type": "Continuous",
+              "Text": "Modify Stonehall Cloak with \"Equipped hero has +2 Health\" after the combat phase."
+            }
+          ],
           "GoldCost": 5,
           "Artist": "",
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 331,
           "Name": "Blink Dagger",
           "CardType": "Item",
           "ItemType": "Weapon",
           "Color": "Yellow",
           "Rarity": "Uncommon",
+          "Text": "Equipped hero has +2 Attack. Active 2: Move equipped hero to another lane.",
+          "Abilities": [
+            {
+              "Name": "Blink Dagger : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +2 Attack."
+            },
+            {
+              "Name": "Blink Dagger : Effect",
+              "Type": "Active",
+              "Text": "Move equipped hero to another lane.",
+              "Cooldown": 2
+            }
+          ],
           "GoldCost": 7,
           "Artist": "",
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 332,
           "Name": "Chainmail",
           "CardType": "Item",
           "ItemType": "Armor",
           "Color": "Yellow",
           "Rarity": "Common",
+          "Text": "Equipped hero has +2 Armor.",
+          "Abilities": [
+            {
+              "Name": "Chainmail : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +2 Armor."
+            }
+          ],
           "GoldCost": 7,
           "Artist": "",
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 333,
           "Name": "Jasper Daggers",
           "CardType": "Item",
           "ItemType": "Weapon",
           "Color": "Yellow",
           "Rarity": "Uncommon",
+          "Text": "Equipped hero has +2 Attack and Pierce.",
+          "Abilities": [
+            {
+              "Name": "Jasper Daggers : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +2 Attack and Pierce."
+            }
+          ],
           "GoldCost": 7,
           "Artist": "",
           "Lore": ""
         },
         {
-          "NOT_FINISHED": true,
           "Id": 334,
           "Name": "Claszureme Hourglass",
           "CardType": "Item",
           "ItemType": "Accessory",
           "Color": "Yellow",
           "Rarity": "Uncommon",
+          "Abilities": [
+            {
+              "Name": "Claszureme Hourglass : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +4 Heatlh."
+            },
+            {
+              "Name": "Claszureme Hourglass : Effect",
+              "Type": "Reactive",
+              "Text": "Whenever opponent draws a card, give that card +1 Lock if equipped hero is in any lane."
+            }
+          ],
           "GoldCost": 10,
           "Artist": "",
           "Lore": ""
