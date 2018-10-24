@@ -236,13 +236,13 @@
               "Text": "Assassin's Shadow has -2 Attack for each ally."
             }
           ],
-          "Mana": 7,
           "Attack": 15,
           "Armor": 0,
           "Health": 5,
           "Artist": "",
           "Lore": "",
-          "fileName": "assassins_shadow"
+          "fileName": "assassins_shadow",
+          "ManaCost": 7
         },
         {
           "Id": 14,
@@ -678,11 +678,11 @@
           "Color": "Blue",
           "Rarity": "Uncommon",
           "Text": "Summon two Melee Creeps into any lane.",
-          "Mana": 6,
           "CrossLane": true,
           "Artist": "",
           "Lore": "",
-          "fileName": "call_the_reserves"
+          "fileName": "call_the_reserves",
+          "ManaCost": 6
         },
         {
           "Id": 37,
@@ -808,11 +808,11 @@
               "Text": "If there is an allied green hero in this lane, allies have a 50% chance of surviving with 1 Health when they would die."
             }
           ],
-          "Mana": 5,
           "CrossLane": true,
           "Artist": "",
           "Lore": "",
-          "fileName": "cheating_death"
+          "fileName": "cheating_death",
+          "ManaCost": 5
         },
         {
           "Id": 44,
@@ -1014,10 +1014,10 @@
           "Color": "Green",
           "Rarity": "Rare",
           "Text": "Modify enemy heroes with -2 Attack.",
-          "Mana": 6,
           "Artist": "",
           "Lore": "",
-          "fileName": "curse_of_atrophy"
+          "fileName": "curse_of_atrophy",
+          "ManaCost": 6
         },
         {
           "Id": 57,
@@ -1096,10 +1096,10 @@
           "Color": "Green",
           "Rarity": "Uncommon",
           "Text": "Modify a unit with \"This unit's allied neighbors have +2 Armor.\"",
-          "Mana": 2,
           "Artist": "",
           "Lore": "",
-          "fileName": "defend_the_weak"
+          "fileName": "defend_the_weak",
+          "ManaCost": 2
         },
         {
           "Id": 61,
@@ -1369,13 +1369,13 @@
               "Cooldown": 1
             }
           ],
-          "Mana": 8,
           "Attack": 1,
           "Armor": 2,
           "Health": 10,
           "Artist": "",
           "Lore": "",
-          "fileName": "emissary_of_the_quorum"
+          "fileName": "emissary_of_the_quorum",
+          "ManaCost": 8
         },
         {
           "Id": 77,
@@ -1423,11 +1423,11 @@
           "Color": "Red",
           "Rarity": "Common",
           "Text": "Give a red hero +4 Attack and +4 Armor this round.",
-          "Mana": 4,
           "IsSignatureCard": true,
           "Artist": "",
           "Lore": "",
-          "fileName": "enrage"
+          "fileName": "enrage",
+          "ManaCost": 4
         },
         {
           "Id": 80,
@@ -1496,10 +1496,10 @@
           "Color": "Blue",
           "Rarity": "Rare",
           "Text": "Each enemy has a 50% chance of being disarmed this round.",
-          "Mana": 4,
           "Artist": "",
           "Lore": "",
-          "fileName": "fog_of_war"
+          "fileName": "fog_of_war",
+          "ManaCost": 4
         },
         {
           "Id": 84,
@@ -1539,11 +1539,11 @@
               "Text": "Before the action phase, give a random card in opponent's hand +1 Lock."
             }
           ],
-          "Mana": 2,
           "CrossLane": true,
           "Artist": "",
           "Lore": "",
-          "fileName": "fractured_timeline"
+          "fileName": "fractured_timeline",
+          "ManaCost": 2
         },
         {
           "Id": 87,
@@ -1608,11 +1608,11 @@
               "Text": "Whenever any unit enters this lane, stun it this round."
             }
           ],
-          "Mana": 6,
           "CrossLane": true,
           "Artist": "",
           "Lore": "",
-          "fileName": "glyph_of_confusion"
+          "fileName": "glyph_of_confusion",
+          "ManaCost": 6
         },
         {
           "Id": 91,
@@ -1624,10 +1624,10 @@
           "Color": "Red",
           "Rarity": "Common",
           "Text": "Modify a red hero with +4 Attack.",
-          "Mana": 6,
           "Artist": "",
           "Lore": "",
-          "fileName": "gods_strength"
+          "fileName": "gods_strength",
+          "ManaCost": 6
         },
         {
           "Id": 92,
@@ -1692,11 +1692,11 @@
           "Color": "Green",
           "Rarity": "Rare",
           "Text": "Silence enemy heroes this round.",
-          "Mana": 4,
           "IsSignatureCard": true,
           "Artist": "",
           "Lore": "",
-          "fileName": "gust"
+          "fileName": "gust",
+          "ManaCost": 4
         },
         {
           "Id": 96,
@@ -1819,13 +1819,13 @@
               "Text": "Deal 2 piercing damage to the enemy tower before the action phase."
             }
           ],
-          "Mana": 2,
           "Attack": 0,
           "Armor": 0,
           "Health": 4,
           "Artist": "",
           "Lore": "",
-          "fileName": "horde_catapult"
+          "fileName": "horde_catapult",
+          "ManaCost": 2
         },
         {
           "Id": 103,
@@ -1899,12 +1899,12 @@
               "Text": "Deal 1 piercing damage to each enemy before the action phase."
             }
           ],
-          "Mana": 3,
           "CrossLane": true,
           "IsSignatureCard": true,
           "Artist": "",
           "Lore": "",
-          "fileName": "ignite"
+          "fileName": "ignite",
+          "ManaCost": 3
         },
         {
           "Id": 107,
@@ -2257,10 +2257,10 @@
           "Color": "Black",
           "Rarity": "Uncommon",
           "Text": "Deal damage to the enemy tower equal to the total Armor on enemies.",
-          "Mana": 3,
           "Artist": "",
           "Lore": "",
-          "fileName": "lodestone_demolition"
+          "fileName": "lodestone_demolition",
+          "ManaCost": 3
         },
         {
           "Id": 126,
@@ -2366,13 +2366,13 @@
           "CardType": "Creep",
           "Color": "Red",
           "Rarity": "Rare",
-          "Mana": 6,
           "Attack": 6,
           "Armor": 0,
           "Health": 16,
           "Artist": "",
           "Lore": "",
-          "fileName": "marrowfell_brawler"
+          "fileName": "marrowfell_brawler",
+          "ManaCost": 6
         },
         {
           "Id": 132,
@@ -3023,13 +3023,13 @@
               "Text": "Modify Rampaging Hellbear with +4 Attack after the combat phase."
             }
           ],
-          "Mana": 4,
           "Attack": 2,
           "Armor": 0,
           "Health": 3,
           "Artist": "",
           "Lore": "",
-          "fileName": "rampaging_hellbear"
+          "fileName": "rampaging_hellbear",
+          "ManaCost": 4
         },
         {
           "Id": 165,
@@ -3508,10 +3508,10 @@
           "Color": "Blue",
           "Rarity": "Uncommon",
           "Text": "Modify two random cards in opponent's hand with \"□ Deal 6 damage to a random allied tower in any lane.\"",
-          "Mana": 4,
           "Artist": "",
           "Lore": "",
-          "fileName": "self_sabotage"
+          "fileName": "self_sabotage",
+          "ManaCost": 4
         },
         {
           "Id": 190,
@@ -3670,10 +3670,10 @@
           "Color": "Black",
           "Rarity": "Common",
           "Text": "Condemn a creep.",
-          "Mana": 3,
           "Artist": "",
           "Lore": "",
-          "fileName": "slay"
+          "fileName": "slay",
+          "ManaCost": 3
         },
         {
           "Id": 198,
@@ -3740,10 +3740,10 @@
           "Color": "Green",
           "Rarity": "Rare",
           "Text": "Modify a hero with \"After you play a green card, give this hero and its allied neighbors +4 Regeneration this round.\"",
-          "Mana": 4,
           "Artist": "",
           "Lore": "",
-          "fileName": "soul_of_spring"
+          "fileName": "soul_of_spring",
+          "ManaCost": 4
         },
         {
           "Id": 202,
@@ -3870,13 +3870,13 @@
               "Text": "Modify Stonehall Elite with +2 Attack and +2 Health after a unit blocking it dies."
             }
           ],
-          "Mana": 4,
           "Attack": 4,
           "Armor": 2,
           "Health": 2,
           "Artist": "",
           "Lore": "",
-          "fileName": "stonehall_elite"
+          "fileName": "stonehall_elite",
+          "ManaCost": 4
         },
         {
           "Id": 210,
@@ -4013,11 +4013,11 @@
               "Text": "Draw a card after a hero dies."
             }
           ],
-          "Mana": 6,
           "CrossLane": true,
           "Artist": "",
           "Lore": "",
-          "fileName": "the_omexe_arena"
+          "fileName": "the_omexe_arena",
+          "ManaCost": 6
         },
         {
           "Id": 218,
@@ -4241,10 +4241,10 @@
           "Color": "Red",
           "Rarity": "Rare",
           "Text": "Modify a red hero with \"After you play a red card, give this hero and its allied neighbors +1 Attack and +1 Armor this round.\"",
-          "Mana": 4,
           "Artist": "",
           "Lore": "",
-          "fileName": "tresdins_standards"
+          "fileName": "tresdins_standards",
+          "ManaCost": 4
         },
         {
           "Id": 231,
@@ -4471,11 +4471,11 @@
               "Text": "Whenever an enemy improvement enters this lane, draw a card."
             }
           ],
-          "Mana": 1,
           "CrossLane": true,
           "Artist": "",
           "Lore": "",
-          "fileName": "watchtower"
+          "fileName": "watchtower",
+          "ManaCost": 1
         },
         {
           "Id": 243,
@@ -4487,11 +4487,11 @@
           "Color": "Red",
           "Rarity": "Uncommon",
           "Text": "Choose an allied red hero. Deal 2 damage to its enemy neighbors and give them -2 Attack this round.",
-          "Mana": 2,
           "IsSignatureCard": true,
           "Artist": "",
           "Lore": "",
-          "fileName": "whirling_death"
+          "fileName": "whirling_death",
+          "ManaCost": 2
         },
         {
           "Id": 244,
