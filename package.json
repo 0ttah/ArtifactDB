@@ -1,6 +1,7 @@
 {
   "name": "artifactdb",
-  "version": "2.0.0",
+  "version": "2.1.0",
+  "main": "index.js",
   "description": "Repository of Artifact cards & artwork by Valve.",
   "scripts": {
     "build": "node ci/build.js cards-manifest.json && exit 0",
@@ -25,9 +26,7 @@
     "url": "https://github.com/ottah/ArtifactDB/issues"
   },
   "homepage": "https://github.com/ottah/ArtifactDB#readme",
-  "dependencies": {
-    "axios": "^0.18.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "eslint": "^5.7.0",
     "eslint-config-airbnb-base": "^13.1.0",

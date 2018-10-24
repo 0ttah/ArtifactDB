@@ -20,6 +20,13 @@ function updateId(card, newId) {
   return { oldId, newId };
 }
 
+const cleanFileName = name => name.toLowerCase()
+  .replace(/\./g, '')
+  .replace(/'/g, '')
+  .replace(/ /g, '_')
+  .replace(/!/, '');
+
+
 fs.readFile(filePath, 'utf8', (err, data) => {
   if (err) { throw err; }
   const manifest = JSON.parse(data);
@@ -28,6 +35,7 @@ fs.readFile(filePath, 'utf8', (err, data) => {
 
   manifest.Sets[0].Cards.forEach((card) => {
     // console.log(card);
+    card.fileName = cleanFileName(card.Name);
     if (card.RelatedIds) {
       card.RelatedIds = card.RelatedIds.map((id) => {
         const match = newAndOldIds.filter(x => x.oldId === id);
