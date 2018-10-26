@@ -26,16 +26,18 @@ I have tried to future proof the schema of the JSON manifest of changes by inclu
 
 # Card Schema
 - **Id** : Id of the card used for matching it with signature/related cards. Currently the Id is just a random number as we don't know the card collection number.
-- **RelatedId** : array : IDs of related cards such as signature spells and tokens.
+- **RelatedIds** : array : IDs of related cards such as signature spells and tokens.
 - **Name** : string : Card name
 - **CardType** : string : **Hero/Creep/Improvement/Spell/Item**
-- **ItemType** : string : __Consumable/Weapon/Armor/Accessory__
+- **ItemType** : string : **Consumable/Weapon/Armor/Accessory**
 - **Color** : string : **Black/Blue/Green/Red/Yellow**
 - **Rarity** : string : **Basic/Common/Uncommon/Rare**
 - **Text** : string :The raw card text e.g. _Active 1: Do something._
 - **Attack** : int : Attack
 - **Armor** : int : Armor
 - **Health** : int : Health
+- **SignatureCard** : int : The id of the card that is this card's signature card.
+- **IsSignatureCard** : boolean : If true this card is a signature card for a hero. Use the **RelatedIds** to get the hero.
 - **Charges** : int : How many charges a card has for its effect.
 - **GoldCost** : int : Cost of buying an item.
 - **Abilities** : array : An array of all abilities/effects for the Hero/Creep/Improvement/Item card. For creeps and improvements their **Text** has been parsed into an ability so it is easier to search for abilities.
@@ -43,35 +45,36 @@ I have tried to future proof the schema of the JSON manifest of changes by inclu
   - **Type** : string : **Active/Continuous/Play/Death**
   - **Text** : string : The description of the effect. For improvement/creep/item abilities it will remove the prefix e.g. "_Active 1: Do something._" will become "_Do something._".
   - **Cooldown** : int : Active affect cooldown.
-- **Bounty** : int : Amount of gold given for destroying this card. Creep = 1, Hero = 5.
 - **ManaCost** : int : Mana cost for card.
 - **GetInitiative** : boolean : If true this card gives player initiative. If null/false it cannot.
 - **CrossLane** : boolean : If true this card can be cast across lanes. If null/false it cannot.
 - **Token** : boolean : If true this card is a token created by another card.
+- **fileName** : string : The name that assets files will use for this card. Just provide a path to what type of asset you want and the file extension.
 - **Artist** : string : Artist name
 - **Lore** : string : Lore description for the card.
 
 # Artwork
 
 ## Card Art
-Card art is available in the folder /card/. When getting a card change the card's name to lowercase, replace spaces with _ and ' with -.
+Card art is available in the folder assets/. Each card object in the manifest has a __fileName__ property this will be the name of the assets relating to that card.
 
-Hero icons are available at /card/icon/hero/**hero_name**.png where **hero_name** is the card's name lowercase with spaces repaced with _ and ' replaced with -. E.g. _J'Muy The Wise_ = _j-muy_the_wise_
+Hero icons are available at /assets/icon/hero/**hero_name**.png where **hero_name**.
 
-![Hero icon](https://raw.githubusercontent.com/ottah/ArtifactDB/master/card/icon/hero/j-muy_the_wise.png)
+![Hero icon](https://raw.githubusercontent.com/ottah/ArtifactDB/master/assets/icon/hero/jmuy_the_wise.png)
 
-Not all card art has been made available but the ones that have are in the folder /card/artwork/
+Not all card art has been made available but the ones that have are in the folder /assets/artwork/. There is small and large art work available. The small versions are perfect for list icons.
 
-![Axe hero art](https://raw.githubusercontent.com/ottah/ArtifactDB/master/card/artwork/axe.jpg)
+![Axe hero art](https://raw.githubusercontent.com/ottah/ArtifactDB/master/assets/artwork/small/axe.jpg)
 
-Abilities too! /card/ability/ use the ability name instead of card name, following the same rules for naming above.
+![Axe hero art](https://raw.githubusercontent.com/ottah/ArtifactDB/master/assets/artwork/large/axe.jpg)
 
-![Static field ability](https://raw.githubusercontent.com/ottah/ArtifactDB/master/card/ability/static_field.jpg)
+Abilities too! /assets/ability/ use the ability name instead of card name, following the same rules for naming above.
+
+![Static field ability](https://raw.githubusercontent.com/ottah/ArtifactDB/master/assets/ability/static_field.jpg)
 
 Card rarity icons are available as SVG/PNG in the /card/icon/base_set_rarity folder.
 
 ## Full Card Artwork
-The path to get full artwork is /fullcardart/**card_name**.png
-where **card_name** is the card's name lowercase with spaces repaced with _ and ' replaced with -. E.g. _Keenfolk Turret_ = _keenfolk_turret_
+The path to get full artwork is /fullcard/**card_name**.png
 
-![Full artwork card](https://raw.githubusercontent.com/ottah/ArtifactDB/master/fullcardart/keenfolk_turret.png "Full artwork for Keenfolk Turret")
+![Full artwork card](https://raw.githubusercontent.com/ottah/ArtifactDB/master/assets/fullcard/keenfolk_turret.png "Full artwork for Keenfolk Turret")
