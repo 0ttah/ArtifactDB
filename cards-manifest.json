@@ -4254,9 +4254,17 @@
           "Rarity": "Uncommon",
           "Color": "Blue",
           "ManaCost": 6,
+          "Text": "Draw an extra card each round.",
           "Attack": 2,
           "Armor": 0,
           "Health": 8,
+          "Abilities": [
+            {
+              "Name": "Troll Soothsayer : Effect",
+              "Type": "Continuous",
+              "Text": "Draw an extra card each round."
+            }
+          ],
           "Artist": "",
           "Lore": "",
           "fileName": "troll_soothsayer"
