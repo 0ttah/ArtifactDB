@@ -658,7 +658,7 @@
           "Rarity": "Uncommon",
           "Color": "Red",
           "Text": "Your tower has +2 Retaliate.",
-          "ManaCost": 3,
+          "ManaCost": 1,
           "Abilities": [
             {
               "Name": "Burning Oil : Effect",
@@ -4605,6 +4605,58 @@
           "Artist": "Forrest Imel",
           "Lore": "",
           "fileName": "zombie"
+        },
+        {
+          "Id": 300,
+          "Name": "Ball Lightning",
+          "CardType": "Spell",
+          "Rarity": "Rare",
+          "Color": "Black",
+          "Text": "Move an allied black hero to an empty combat position in any lane.",
+          "ManaCost": 3,
+          "CrossLane": true,
+          "IsSignatureCard": true,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "ball_lightning"
+        },
+        {
+          "Id": 301,
+          "Name": "Remote Detonation",
+          "CardType": "Spell",
+          "Rarity": "Rare",
+          "Color": "Blue",
+          "Text": "Deal 5 damage to each enemy across from an empty combat position.",
+          "ManaCost": 6,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "remote_detonation"
+        },
+        {
+          "Id": 302,
+          "Name": "Revtel Investments",
+          "CardType": "Improvement",
+          "Rarity": "Rare",
+          "Color": "Black",
+          "Text": "Add a charge to Revtel Investments after the combat phase.\n Active 1: Get 4 gold for each charge. Condenm Revtel Investments.",
+          "ManaCost": 3,
+          "CrossLane": true,
+          "Abilities": [
+            {
+              "Name": "Revtel Investments : Effects",
+              "Type": "Continuous",
+              "Text": "Add a charge to Revtel Investments after the combat phase."
+            },
+            {
+              "Name": "Revtel Investments : Effects",
+              "Type": "Active",
+              "Text": "Get 4 gold for each charge. Condenm Revtel Investments.",
+              "Cooldown": 1
+            }
+          ],
+          "Artist": "",
+          "Lore": "",
+          "fileName": "revtel_investments"
         }
       ]
     }
