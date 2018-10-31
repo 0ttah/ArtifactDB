@@ -1944,6 +1944,7 @@
           "ManaCost": 2,
           "Artist": "Magali Villeneuve",
           "Lore": "",
+          "CrossLane": true,
           "fileName": "iron_branch_protection"
         },
         {
