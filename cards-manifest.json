@@ -3476,6 +3476,13 @@
           "Attack": 3,
           "Armor": 0,
           "Health": 3,
+          "Abilities": [
+            {
+              "Name": "Savage Wolf : Effect",
+              "Type": "Continuous",
+              "Text": "Modify Savage Wolf with +1 Attack and +2 Health after the combat phase."
+            }
+          ],
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
