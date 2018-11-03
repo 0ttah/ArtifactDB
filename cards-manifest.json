@@ -2071,7 +2071,7 @@
           "CardType": "Item",
           "Rarity": "Common",
           "Color": "Yellow",
-          "Text": "Equipped hero has +2 Attack.",
+          "Text": "Equipped hero has +2 Attack. Active 1: Deal 2 damage to a unit",
           "ItemType": "Weapon",
           "GoldCost": 7,
           "Abilities": [
@@ -2079,6 +2079,12 @@
               "Name": "Keenfolk Musket : Effect",
               "Type": "Continuous",
               "Text": "Equipped hero has +2 Attack."
+            },
+            {
+              "Name": "Keenfolk Musket : Effect",
+              "Type": "Active",
+              "Text": "Deal 2 damage to a unit.",
+              "Cooldown": 2
             }
           ],
           "Artist": "",
