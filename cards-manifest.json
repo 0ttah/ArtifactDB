@@ -1833,7 +1833,7 @@
           "CardType": "Item",
           "Rarity": "Rare",
           "Color": "Yellow",
-          "Text": "Equipped hero has +4 Health.",
+          "Text": "Equipped hero has +4 Health. Active 2: Summon a Thunderhide Pack.",
           "ItemType": "Accessory",
           "GoldCost": 25,
           "Abilities": [
@@ -1841,6 +1841,12 @@
               "Name": "Horn of the Alpha : Effect",
               "Type": "Continuous",
               "Text": "Equipped hero has +4 Health."
+            },
+            {
+              "Name": "Horn of the Alpha : Effect",
+              "Type": "Active",
+              "Text": "Summon a Thunderhide Pack.",
+              "Cooldown": 2
             }
           ],
           "Artist": "",
