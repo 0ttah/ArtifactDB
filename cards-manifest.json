@@ -2816,7 +2816,7 @@
           "CardType": "Item",
           "Rarity": "Uncommon",
           "Color": "Yellow",
-          "Text": "Equipped Hero has +4 Health.",
+          "Text": "Equipped Hero has +4 Health. Active 2: Swap equipped hero with another ally.",
           "ItemType": "Accessory",
           "GoldCost": 6,
           "Abilities": [
@@ -2824,6 +2824,12 @@
               "Name": "Phase Boots : Effect",
               "Type": "Continuous",
               "Text": "Equipped Hero has +4 Health."
+            },
+            {
+              "Name": "Phase Boots : Effect",
+              "Type": "Active",
+              "Text": "Swap equipped hero with another ally.",
+              "Cooldown": 2
             }
           ],
           "Artist": "",
