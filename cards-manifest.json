@@ -1833,7 +1833,7 @@
           "CardType": "Item",
           "Rarity": "Rare",
           "Color": "Yellow",
-          "Text": "Equipped hero has +4 Health.",
+          "Text": "Equipped hero has +4 Health. Active 2: Summon a Thunderhide Pack.",
           "ItemType": "Accessory",
           "GoldCost": 25,
           "Abilities": [
@@ -1841,6 +1841,12 @@
               "Name": "Horn of the Alpha : Effect",
               "Type": "Continuous",
               "Text": "Equipped hero has +4 Health."
+            },
+            {
+              "Name": "Horn of the Alpha : Effect",
+              "Type": "Active",
+              "Text": "Summon a Thunderhide Pack.",
+              "Cooldown": 2
             }
           ],
           "Artist": "",
@@ -1944,6 +1950,7 @@
           "ManaCost": 2,
           "Artist": "Magali Villeneuve",
           "Lore": "",
+          "CrossLane": true,
           "fileName": "iron_branch_protection"
         },
         {
@@ -2070,7 +2077,7 @@
           "CardType": "Item",
           "Rarity": "Common",
           "Color": "Yellow",
-          "Text": "Equipped hero has +2 Attack.",
+          "Text": "Equipped hero has +2 Attack. Active 1: Deal 2 damage to a unit",
           "ItemType": "Weapon",
           "GoldCost": 7,
           "Abilities": [
@@ -2078,6 +2085,12 @@
               "Name": "Keenfolk Musket : Effect",
               "Type": "Continuous",
               "Text": "Equipped hero has +2 Attack."
+            },
+            {
+              "Name": "Keenfolk Musket : Effect",
+              "Type": "Active",
+              "Text": "Deal 2 damage to a unit.",
+              "Cooldown": 2
             }
           ],
           "Artist": "",
@@ -2803,7 +2816,7 @@
           "CardType": "Item",
           "Rarity": "Uncommon",
           "Color": "Yellow",
-          "Text": "Equipped Hero has +4 Health.",
+          "Text": "Equipped Hero has +4 Health. Active 2: Swap equipped hero with another ally.",
           "ItemType": "Accessory",
           "GoldCost": 6,
           "Abilities": [
@@ -2811,6 +2824,12 @@
               "Name": "Phase Boots : Effect",
               "Type": "Continuous",
               "Text": "Equipped Hero has +4 Health."
+            },
+            {
+              "Name": "Phase Boots : Effect",
+              "Type": "Active",
+              "Text": "Swap equipped hero with another ally.",
+              "Cooldown": 2
             }
           ],
           "Artist": "",
@@ -3018,7 +3037,7 @@
           "Text": "Modify Rampaging Hellbear with +4 Attack after the combat phase.",
           "Abilities": [
             {
-              "Name": "Ramaging Hellbar : Effect",
+              "Name": "Rampaging Hellbear : Effect",
               "Type": "Continuous",
               "Text": "Modify Rampaging Hellbear with +4 Attack after the combat phase."
             }
@@ -3475,6 +3494,13 @@
           "Attack": 3,
           "Armor": 0,
           "Health": 3,
+          "Abilities": [
+            {
+              "Name": "Savage Wolf : Effect",
+              "Type": "Continuous",
+              "Text": "Modify Savage Wolf with +1 Attack and +2 Health after the combat phase."
+            }
+          ],
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
