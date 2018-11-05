@@ -4633,6 +4633,907 @@
           "fileName": "zombie"
         },
         {
+          "Id": 250,
+          "Name": "Melee Creep Dire",
+          "CardType": "Creep",
+          "Rarity": "Basic",
+          "Color": "",
+          "Artist": "",
+          "Lore": "",
+          "fileName": "melee_creep_dire"
+        },
+        {
+          "Id": 251,
+          "Name": "Melee Creep Radiant",
+          "CardType": "Creep",
+          "Rarity": "Basic",
+          "Color": "",
+          "Artist": "",
+          "Lore": "",
+          "fileName": "melee_creep_radiant"
+        },
+        {
+          "Id": 252,
+          "Name": "Sniper",
+          "CardType": "Hero",
+          "Rarity": "Uncommon",
+          "Color": "Black",
+          "Attack" : 5,
+          "Armor" : 0,
+          "Health" : 6,
+          "Text": "Active 3: Deal 5 damage to a unit.",
+          "Abilities": [
+            {
+              "Name": "Headshot",
+              "Type": "Active",
+              "Text": "Deal 5 damage to a unit.",
+              "Cooldown" : 3
+            }
+          ],
+          "RelatedIds": [
+            253
+          ],
+          "SignatureCard" : 253,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "sniper"
+        },
+        {
+          "Id": 253,
+          "Name": "Assassinate",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Black",
+          "Text": "Deal 10 piercing damage to a unit in any lane.",
+          "ManaCost": 7,
+          "CrossLane": true,
+          "Artist": "",
+          "Lore": "",
+          "RelatedIds": [
+            252
+          ],
+          "isSignatureCard": true,
+          "fileName": "assassinate"
+        },
+        {
+          "Id": 254,
+          "Name": "Assassin's Veil",
+          "CardType": "Item",
+          "Rarity": "Uncommon",
+          "Color": "Yellow",
+          "Text": "Active 2: Choose a combat target for equipped hero.",
+          "ItemType": "Accessory",
+          "Abilities": [
+            {
+              "Name": "Assassin's Veil : Effect",
+              "Type": "Active",
+              "Text": "Choose a combat target for equipped hero.",
+              "Cooldown": 2
+            }
+          ],
+          "GoldCost": 6,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "assassin-s_veil"
+        },
+        {
+          "Id": 255,
+          "Name": "Outworld Devourer",
+          "CardType": "Hero",
+          "Rarity": "Uncommon",
+          "Color": "Blue",
+          "Attack": 4,
+          "Armor": 0,
+          "Health": 6,
+          "Text": "After you play a blue card, there is a 50% chance to restore 2 Mana.",
+          "Abilities": [
+            {
+              "Name": "Essence Aura",
+              "Type": "Reactive",
+              "Text": "After you play a blue card, there is a 50% chance to restore 2 Mana.",
+              "Cooldown": 3
+            }
+          ],
+          "RelatedIds": [
+            256
+          ],
+          "SignatureCard": 256,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "outworld_devourer"
+        },
+        {
+          "Id": 256,
+          "Name": "Astral Imprisionment",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Blue",
+          "Text": "Stun a unit this round. Give that unit Damage Immunity this round.",
+          "ManaCost": 4,
+          "Artist": "",
+          "Lore": "",
+          "RelatedIds": [
+            255
+          ],
+          "isSignatureCard": true,
+          "fileName": "astral_imprisionment"
+        },
+        {
+          "Id": 257,
+          "Name": "At Any Cost",
+          "CardType": "Spell",
+          "Rarity": "Rare",
+          "Color": "Blue",
+          "Text": "Deal 6 damage to every unit.",
+          "ManaCost": 3,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "at_any_cost"
+        },
+        {
+          "Id": 258,
+          "Name": "Broadsword",
+          "CardType": "Item",
+          "Rarity": "Common",
+          "Color": "Yellow",
+          "ItemType" : "Weapon",
+          "Text": "Equipped hero has +4 Attack.",
+          "Abilities" : [
+            {
+            "Name": "Broadsword : Effect",
+            "Type": "Continuous",
+            "Text": "Equipped hero has +4 Attack."
+            }
+          ],
+          "GoldCost": 7,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "broadsword"
+        },
+        {
+          "Id": 259,
+          "Name": "Buying Time",
+          "CardType": "Spell",
+          "Rarity": "Common",
+          "Color": "Blue",
+          "Text": "Give two random cards in opponent's hands +2 Lock.",
+          "ManaCost": 3,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "buying_time"
+        },
+        {
+          "Id": 260,
+          "Name": "Claymore",
+          "CardType": "Item",
+          "Rarity": "Uncommon",
+          "Color": "Yellow",
+          "ItemType": "Weapon",
+          "Text": "Equipped hero has +8 Attack.",
+          "Abilities" : [
+            {
+            "Name": "Claymore : Effect",
+            "Type": "Continuous",
+            "Text": "Equipped hero has +8 Attack."
+            }
+          ],
+          "GoldCost": 15,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "claymore"
+        },
+        {
+          "Id": 261,
+          "Name": "Cloak of Endless Carnage",
+          "CardType": "Item",
+          "Rarity": "Rare",
+          "Color": "Yellow",
+          "ItemType": "Accesory",
+          "Text": "Equipped hero has +8 Health. Draw a card after an allied neighbor of equipped hero dies.",
+          "Abilities": [
+            {
+              "Name": "Cloak of Endless Carnage : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +8 Health."
+            },
+            {
+              "Name": "Cloak of Endless Carnage : Effect",
+              "Type": "Reactive",
+              "Text": "Draw a card after an allied neighbor of equipped hero dies."
+            }
+          ],
+          "GoldCost": 13,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "cloak_of_endless_carnage"
+        },
+        {
+          "Id": 262,
+          "Name": "Collateral Damage",
+          "CardType": "Spell",
+          "Rarity": "Common",
+          "Color": "Black",
+          "Text": "Modify a black hero with +3 Siege.",
+          "ManaCost": 4,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "collateral_damage"
+        },
+        {
+          "Id": 263,
+          "Name": "Combat Training",
+          "CardType": "Spell",
+          "Rarity": "Common",
+          "Color": "Red",
+          "Text": "Modify a hero with +2 Attack.",
+          "ManaCost": 3,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "combat_training"
+        },
+        {
+          "Id": 264,
+          "Name": "Dirty Deeds",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Black",
+          "Text": "Deal 2 damage to the enemy tower for each of its improvements.",
+          "ManaCost": 3,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "dirty_deeds"
+        },
+        {
+          "Id": 265,
+          "Name": "Magnus",
+          "CardType": "Hero",
+          "Rarity": "Common",
+          "Color": "Green",
+          "Attack": 4,
+          "Armor": 1,
+          "Health": 9,
+          "RelatedIds": [
+            266
+          ],
+          "SignatureCard": 266,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "magnus"
+        },
+        {
+          "Id": 266,
+          "Name": "Empower",
+          "CardType": "Spell",
+          "Rarity": "Common",
+          "Color": "Green",
+          "Text": "Modify a unit with +3 Attack and +3 Cleave.",
+          "ManaCost": 4,
+          "Artist": "",
+          "Lore": "",
+          "RelatedIds": [
+            265
+          ],
+          "isSignatureCard": true,
+          "fileName": "empower"
+        },
+        {
+          "Id": 267,
+          "Name": "Fight Through the Pain",
+          "CardType": "Spell",
+          "Rarity": "Common",
+          "Color": "Red",
+          "Text": "Give a red hero +2 Armor this round. Get initiative.",
+          "ManaCost": 1,
+          "GetInitiative" : true,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "fight_through_the_pain"
+        },
+        {
+          "Id": 268,
+          "Name": "Fountain Flask",
+          "CardType": "Item",
+          "ItemType" : "Consumable",
+          "Rarity": "Basic",
+          "Color": "Yellow",
+          "Text": "Fully heal a unit.",
+          "GoldCost": 4,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "fountain_flask"
+        },
+        {
+          "Id": 269,
+          "Name": "Friendly Fire",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Blue",
+          "Text": "Choose two enemies. They battle each other.",
+          "ManaCost": 6,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "friendly_fire"
+        },
+        {
+          "Id": 270,
+          "Name": "Healing Salve",
+          "CardType": "Item",
+          "ItemType": "Consumable",
+          "Rarity": "Basic",
+          "Color": "Yellow",
+          "Text": "Heal a unit 6.",
+          "GoldCost": 3,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "healing_salve"
+        },
+        {
+          "Id": 271,
+          "Name": "Heroic Resolve",
+          "CardType": "Spell",
+          "Rarity": "Rare",
+          "Color": "Red",
+          "Text": "Modify a red hero with \"After you play a non-item card costing 2 or less, modify this hero with +2 Health.\"",
+          "GoldCost": 2,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "heroic_resolve"
+        },
+        {
+          "Id": 272,
+          "Name": "Hero's Cape",
+          "CardType": "Item",
+          "ItemType": "Accesory",
+          "Rarity": "Rare",
+          "Color": "Yellow",
+          "Text": "Equipped hero has +16 Health.",
+          "GoldCost": 15,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "hero-s_cape"
+        },
+        {
+          "Id": 273,
+          "Name": "Incarnation of Selemene",
+          "CardType": "Creep",
+          "Rarity": "Rare",
+          "Color": "Blue",
+          "Attack": 3,
+          "Armor": 0,
+          "Health": 11,
+          "Text": "Fully restore your tower's Mana after you play any card.",
+          "ManaCost": 9,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "incarnation_of_selemene"
+        },
+        {
+          "Id": 274,
+          "Name": "Keenfolk Golem",
+          "CardType": "Creep",
+          "Rarity": "Rare",
+          "Color": "Red",
+          "Attack": 13,
+          "Armor": 0,
+          "Health": 13,
+          "Text": "Play Effect: Discard your hand.",
+          "Abilities": [
+            {
+              "Name": "Keenfolk Golem : Effect",
+              "Type": "Play",
+              "Text": "Discard your hand."
+            }
+          ],
+          "ManaCost": 9,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "keenfolk_golem"
+        },
+        {
+          "Id": 275,
+          "Name": "Keenfolk Plate",
+          "CardType": "Item",
+          "ItemType": "Armor",
+          "Rarity": "Uncommon",
+          "Color": "Yellow",
+          "Text": "Equipped hero has +1 Armor. Equipped hero has +1 Armor for each of its attackers.",
+          "GoldCost": 8,
+          "Abilities": [
+            {
+              "Name": "Keenfolk Plate : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +1 Armor. Equipped hero has +1 Armor for each of its attackers."
+            }
+          ],
+          "Artist": "",
+          "Lore": "",
+          "fileName": "keenfolk_plate"
+        },
+        {
+          "Id": 276,
+          "Name": "Messenger Rookery",
+          "CardType": "Improvement",
+          "Rarity": "Common",
+          "Color": "Blue",
+          "Text": "Choose an ally. Choose a combat target for it.",
+          "ManaCost": 1,
+          "Abilities": [
+            {
+              "Name": "Messenger Rookery : Effect",
+              "Type": "Active",
+              "Text": "Choose an ally. Choose a combat target for it."
+            }
+          ],
+          "Artist": "",
+          "Lore": "",
+          "fileName": "messenger_rookery"
+        },
+        {
+          "Id": 277,
+          "Name": "Murder Plot",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Black",
+          "Text": "Give a black hero +8 Attack this round. Choose a combat target for it.",
+          "ManaCost": 4,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "murder_plot"
+        },
+        {
+          "Id": 278,
+          "Name": "Nyctasha's Guard",
+          "CardType": "Item",
+          "ItemType": "Armor",
+          "Rarity": "Rare",
+          "Color": "Yellow",
+          "Text": "Equipped hero has +1 Armor.\nActive 1: Move Equipped hero's enemy neighbors to random other lanes.",
+          "Abilities": [
+            {
+              "Name": "Nyctasha's Guard : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +1 Armor."
+            },
+            {
+              "Name": "Nyctasha's Guard : Effect",
+              "Type": "Active",
+              "Text": "Move Equipped hero's enemy neighbors to random other lanes.",
+              "Cooldown": 1
+            }
+          ],
+          "GoldCost": 25,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "nyctasha-s_guard"
+        },
+        {
+          "Id": 279,
+          "Name": "Pick a Fight",
+          "CardType": "Spell",
+          "Rarity": "Common",
+          "Color": "Red",
+          "Text": "Choose an allied hero. It taunts. Choose a combat target for it.",
+          "ManaCost": 2,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "pick_a_fight"
+        },
+        {
+          "Id": 280,
+          "Name": "Platemail",
+          "CardType": "Item",
+          "ItemType": "Armor",
+          "Rarity": "Uncommon",
+          "Color": "Yellow",
+          "Text": "Equipped hero has +4 Armor.",
+          "Abilities": [
+            {
+              "Name": "Platemail : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +4 Armor."
+            }
+          ],
+          "GoldCost": 15,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "platemail"
+        },
+        {
+          "Id": 281,
+          "Name": "Potion of Knowledge",
+          "CardType": "Item",
+          "ItemType": "Consumable",
+          "Rarity": "Basic",
+          "Color": "Yellow",
+          "Text": "Draw a card.",
+          "GoldCost": 5,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "potion_of_knowledge"
+        },
+        {
+          "Id": 282,
+          "Name": "Relentless Pursuit",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Black",
+          "Text": "Choose a unit in another lane. Move a random allied black hero from this lane to that lane. Deal 2 damage to the chosen unit.",
+          "ManaCost": 1,
+          "CrossLane": true,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "relentless_pursuit"
+        },
+        {
+          "Id": 283,
+          "Name": "Rising Anger",
+          "CardType": "Spell",
+          "Rarity": "Rare",
+          "Color": "Red",
+          "Text": "Modify a red hero with \"After you play a non-item card costing 2 or less, modify this hero with +1 Attack.\"",
+          "ManaCost": 2,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "rising_anger"
+        },
+        {
+          "Id": 284,
+          "Name": "Rumusque Vestments",
+          "CardType": "Item",
+          "ItemType": "Armor",
+          "Rarity": "Common",
+          "Color": "Yellow",
+          "Text": "Equipped hero has +1 Armor.\nActive 2: Heal a unit 4.",
+          "Abilities": [
+            {
+              "Name": "Rumusque Vestments : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +1 Armor."
+            },
+            {
+              "Name": "Rumusque Vestments : Effect",
+              "Type": "Active",
+              "Text": "Heal a unit 4.",
+              "Cooldwon": 2
+            }
+          ],
+          "GoldCost": 9,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "rumusque_vestments"
+        },
+        {
+          "Id": 285,
+          "Name": "Shiva's Guard",
+          "CardType": "Item",
+          "ItemType": "Armor",
+          "Rarity": "Rare",
+          "Color": "Yellow",
+          "Text": "Equipped hero has +2 Armor.\nActive 2: Modify a unit and its allied neighbors with -2 Attack.",
+          "Abilities": [
+            {
+              "Name": "Shiva's Guard : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +2 Armor."
+            },
+            {
+              "Name": "Shiva's Guard : Effect",
+              "Type": "Active",
+              "Text": "Modify a unit and its allied neighbors with -2 Attack.",
+              "Cooldwon": 2
+            }
+          ],
+          "GoldCost": 16,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "shiva-s_guard"
+        },
+        {
+          "Id": 286,
+          "Name": "Smeevil Armsmaster",
+          "CardType": "Creep",
+          "Rarity": "Uncommon",
+          "Color": "Red",
+          "Attack": 2,
+          "Armor": 0,
+          "Health": 2,
+          "Text": "Play Effect: Modify a random allied hero with +2 Attack.",
+          "Abilities": [
+            {
+              "Name": "Smeevil Armsmaster : Effect",
+              "Type": "Play",
+              "Text": "Modify a random allied hero with +2 Attack."
+            }
+          ],
+          "ManaCost": 4,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "smeevil_armsmaster"
+        },
+        {
+          "Id": 287,
+          "Name": "Mazzie",
+          "CardType": "Hero",
+          "Rarity": "Common",
+          "Color": "Red",
+          "Attack": 6,
+          "Armor": 3,
+          "Health": 6,
+          "Artist": "",
+          "Lore": "",
+          "RelatedIds" : [
+            288
+          ],
+          "SignatureCard": 288,
+          "fileName": "mazzie"
+        },
+        {
+          "Id": 288,
+          "Name": "Steel Reinforcement",
+          "CardType": "Improvement",
+          "Rarity": "Common",
+          "Color": "Red",
+          "Text": "Your tower has +1 Armor.",
+          "Abilities": [
+            {
+              "Name": "Steel Reinforcement : Effect",
+              "Type": "Continuous",
+              "Text": "Your tower has +1 Armor."
+            }
+          ],
+          "ManaCost": 4,
+          "CrossLane": true,
+          "RelatedIds" : [
+            287
+          ],
+          "IsSignatureCard": true,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "steel_reinforcement"
+        },
+        {
+          "Id": 289,
+          "Name": "Stonehall Pike",
+          "CardType": "Item",
+          "ItemType": "Weapon",
+          "Rarity": "Common",
+          "Color": "Red",
+          "Text": "Equipped hero has +2 Attack. Modify Stonehall Pike with \"Equipped hero has +1 Attack\" after the combat phase.",
+          "Abilities": [
+            {
+              "Name": "Stonehall Pike : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +2 Attack."
+            },{
+              "Name": "Stonehall Pike : Effect",
+              "Type": "Continuous",
+              "Text": "Modify Stonehall Pike with \"Equipped hero has +1 Attack\" after the combat phase."
+            }
+          ],
+          "GoldCost": 6,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "stonehall_pike"
+        },
+        {
+          "Id": 290,
+          "Name": "Town Portal Scroll",
+          "CardType": "Item",
+          "ItemType": "Consumable",
+          "Rarity": "Basic",
+          "Color": "Yellow",
+          "Text": "Return an allied hero to the Fountain.",
+          "Artist": "",
+          "Lore": "",
+          "fileName": "town_portal_scroll"
+        },
+        {
+          "Id": 291,
+          "Name": "Trebuchets",
+          "CardType": "Improvement",
+          "Rarity": "Common",
+          "Color": "Black",
+          "Text": "Deal 2 piercing damage to the enemy tower before the action phase.",
+          "Abilities": [
+            {
+              "Name": "Trebuchets : Effect",
+              "Type": "Continuous",
+              "Text": "Deal 2 piercing damage to the enemy tower before the action phase."
+            }
+          ],
+          "ManaCost": 1,
+          "CrossLane": true,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "Trebuchets"
+        },
+        {
+          "Id": 292,
+          "Name": "Tyler Estate Censor",
+          "CardType": "Creep",
+          "Rarity": "Uncommon",
+          "Color": "Black",
+          "Attack": 2,
+          "Armor": 0,
+          "Health": 8,
+          "Text": "The enemy tower has -1 Mana.",
+          "Abilities": [
+            {
+              "Name": "Tyler Estate Censor : Effect",
+              "Type": "Continuous",
+              "Text": "The enemy tower has -1 Mana."
+            }
+          ],
+          "ManaCost": 4,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "tyler_estate_censor"
+        },
+        {
+          "Id": 293,
+          "Name": "Unsupervised Artillery",
+          "CardType": "Improvement",
+          "Rarity": "Uncommon",
+          "Color": "Black",
+          "Text": "Active 1: Deal 4 piercing damage to the enemy tower. May only be used if there are no unblocked enemies.",
+          "Abilities": [
+            {
+              "Name": "Unsupervised Artillery : Effect",
+              "Type": "Active",
+              "Text": "Deal 4 piercing damage to the enemy tower. May only be used if there are no unblocked enemies.",
+              "Cooldown": 1
+            }
+          ],
+          "ManaCost": 2,
+          "CrossLane": true,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "unsupervised_artillery"
+        },
+        {
+          "Id": 294,
+          "Name": "Vesture of the Tyrant",
+          "CardType": "Item",
+          "ItemType": "Armor",
+          "Rarity": "Rare",
+          "Color": "Black",
+          "Text": "Equipped hero has +3 Armor and Rapid Deployment. Your tower has +3 Armor.",
+          "Abilities": [
+            {
+              "Name": "Vesture of the Tyrant : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +3 Armor and Rapid Deployment. Your tower has +3 Armor."
+            }
+          ],
+          "GoldCost": 19,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "Vesture of the Tyrant"
+        },
+        {
+          "Id": 295,
+          "Name": "Wingfall Hammer",
+          "CardType": "Item",
+          "ItemType": "Armor",
+          "Rarity": "Rare",
+          "Color": "Black",
+          "Text": "Equipped hero has +4 Attack.\nActive 1: Give equipped hero and its allied neighbors +X Regeneration this round where X is half its Attack.",
+          "Abilities": [
+            {
+              "Name": "Wingfall Hammer : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +4 Attack."
+            },
+            {
+              "Name": "Wingfall Hammer : Effect",
+              "Type": "Active",
+              "Text": "Give equipped hero and its allied neighbors +X Regeneration this round where X is half its Attack.",
+              "Cooldown": 1
+            }
+          ],
+          "GoldCost": 19,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "wingfall_hammer"
+        },
+        {
+          "Id": 296,
+          "Name": "Oglodi Catapult",
+          "CardType": "Crepp",
+          "Rarity": "Uncommon",
+          "Color": "Black",
+          "Attack": 0,
+          "Armor": 0,
+          "Health": 4,
+          "Text": "Deal 2 piercing damage to the enemy tower before the action phase.",
+          "Abilities": [
+            {
+              "Name": "Oglodi Catapult : Effect",
+              "Type": "Continuous",
+              "Text": "Deal 2 piercing damage to the enemy tower before the action phase."
+            }
+          ],
+          "ManaCost": 2,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "oglodi_catapult"
+        },
+        {
+          "Id": 297,
+          "Name": "Bracers of Sacrifice",
+          "CardType": "Item",
+          "Rarity": "Rare",
+          "Color": "Yellow",
+          "Text": "Equipped hero has +2 Armor.\nActive 1: Deal 6 damage to equiped hero's enemy neighbors and condemn equipped hero.",
+          "Abilities": [
+            {
+              "Name": "Bracers of Sacrifice : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +2 Armor."
+            },
+            {
+              "Name": "Bracers of Sacrifice : Effect",
+              "Type": "Active",
+              "Text": "Deal 6 damage to equiped hero's enemy neighbors and condemn equipped hero.",
+              "Cooldown": 1
+            }
+          ],
+          "GoldCost": 8,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "Bracers of Sacrifice"
+        },
+        {
+          "Id": 298,
+          "Name": "Revtel Investments",
+          "CardType": "Improvement",
+          "Rarity": "Rare",
+          "Color": "Black",
+          "Text": "Add a charge to Revtel Investments after the combat phase.\n Active 1: Get 4 gold for each charge. Condenm Revtel Investments.",
+          "ManaCost": 3,
+          "CrossLane": true,
+          "Abilities": [
+            {
+              "Name": "Revtel Investments : Effect",
+              "Type": "Continuous",
+              "Text": "Add a charge to Revtel Investments after the combat phase."
+            },
+            {
+              "Name": "Revtel Investments : Effect",
+              "Type": "Active",
+              "Text": "Get 4 gold for each charge. Condenm Revtel Investments.",
+              "Cooldown": 1
+            }
+          ],
+          "Artist": "",
+          "Lore": "",
+          "fileName": "revtel_investments"
+        },
+        {
+          "Id": 299,
+          "Name": "Storm Spirit",
+          "CardType": "Hero",
+          "Rarity": "Rare",
+          "Color": "Black",
+          "Attack": 4,
+          "Armor": 0,
+          "Health": 6,
+          "Abilities": [
+            {
+              "Name": "Overload",
+              "Type": "Reactive",
+              "Text": "Give Storm Spirit +2 Attack until the end of its next combat phase after you play a black card in any lane."
+            }
+          ],
+          "RelatedIds": [
+            300
+          ],
+          "SignatureCard": 300,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "storm_spirit"
+        },
+        {
           "Id": 300,
           "Name": "Ball Lightning",
           "CardType": "Spell",
@@ -4641,6 +5542,9 @@
           "Text": "Move an allied black hero to an empty combat position in any lane.",
           "ManaCost": 3,
           "CrossLane": true,
+          "RelatedIds": [
+            299
+          ],
           "IsSignatureCard": true,
           "Artist": "",
           "Lore": "",
@@ -4657,32 +5561,6 @@
           "Artist": "",
           "Lore": "",
           "fileName": "remote_detonation"
-        },
-        {
-          "Id": 302,
-          "Name": "Revtel Investments",
-          "CardType": "Improvement",
-          "Rarity": "Rare",
-          "Color": "Black",
-          "Text": "Add a charge to Revtel Investments after the combat phase.\n Active 1: Get 4 gold for each charge. Condenm Revtel Investments.",
-          "ManaCost": 3,
-          "CrossLane": true,
-          "Abilities": [
-            {
-              "Name": "Revtel Investments : Effects",
-              "Type": "Continuous",
-              "Text": "Add a charge to Revtel Investments after the combat phase."
-            },
-            {
-              "Name": "Revtel Investments : Effects",
-              "Type": "Active",
-              "Text": "Get 4 gold for each charge. Condenm Revtel Investments.",
-              "Cooldown": 1
-            }
-          ],
-          "Artist": "",
-          "Lore": "",
-          "fileName": "revtel_investments"
         }
       ]
     }
