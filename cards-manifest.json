@@ -53,7 +53,7 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            179
+            218
           ],
           "IsSignatureCard": true,
           "fileName": "act_of_defiance"
@@ -90,7 +90,7 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            146
+            177
           ],
           "IsSignatureCard": true,
           "fileName": "allseeing_ones_favor"
@@ -246,6 +246,44 @@
         },
         {
           "Id": 14,
+          "Name": "Assassin's Veil",
+          "CardType": "Item",
+          "Rarity": "Uncommon",
+          "Color": "Yellow",
+          "Text": "Active 2: Choose a combat target for equipped hero.",
+          "ItemType": "Accessory",
+          "Abilities": [
+            {
+              "Name": "Assassin's Veil : Effect",
+              "Type": "Active",
+              "Text": "Choose a combat target for equipped hero.",
+              "Cooldown": 2
+            }
+          ],
+          "GoldCost": 6,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "assassins_veil"
+        },
+        {
+          "Id": 15,
+          "Name": "Assassinate",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Black",
+          "Text": "Deal 10 piercing damage to a unit in any lane.",
+          "ManaCost": 7,
+          "CrossLane": true,
+          "Artist": "",
+          "Lore": "",
+          "RelatedIds": [
+            242
+          ],
+          "IsSignatureCard": true,
+          "fileName": "assassinate"
+        },
+        {
+          "Id": 16,
           "Name": "Assault Ladders",
           "CardType": "Improvement",
           "Rarity": "Uncommon",
@@ -262,14 +300,14 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            200
+            243
           ],
           "CrossLane": true,
           "IsSignatureCard": true,
           "fileName": "assault_ladders"
         },
         {
-          "Id": 15,
+          "Id": 17,
           "Name": "Assured Destruction",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -289,7 +327,35 @@
           "fileName": "assured_destruction"
         },
         {
-          "Id": 16,
+          "Id": 18,
+          "Name": "Astral Imprisionment",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Blue",
+          "Text": "Stun a unit this round. Give that unit Damage Immunity this round.",
+          "ManaCost": 4,
+          "Artist": "",
+          "Lore": "",
+          "RelatedIds": [
+            178
+          ],
+          "IsSignatureCard": true,
+          "fileName": "astral_imprisionment"
+        },
+        {
+          "Id": 19,
+          "Name": "At Any Cost",
+          "CardType": "Spell",
+          "Rarity": "Rare",
+          "Color": "Blue",
+          "Text": "Deal 6 damage to every unit.",
+          "ManaCost": 3,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "at_any_cost"
+        },
+        {
+          "Id": 20,
           "Name": "Avernus' Blessing",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -301,7 +367,7 @@
           "fileName": "avernus_blessing"
         },
         {
-          "Id": 17,
+          "Id": 21,
           "Name": "Axe",
           "CardType": "Hero",
           "Rarity": "Rare",
@@ -312,13 +378,30 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            23
+            28
           ],
-          "SignatureCard": 23,
+          "SignatureCard": 28,
           "fileName": "axe"
         },
         {
-          "Id": 18,
+          "Id": 22,
+          "Name": "Ball Lightning",
+          "CardType": "Spell",
+          "Rarity": "Rare",
+          "Color": "Black",
+          "Text": "Move an allied black hero to an empty combat position in any lane.",
+          "ManaCost": 3,
+          "CrossLane": true,
+          "RelatedIds": [
+            256
+          ],
+          "IsSignatureCard": true,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "ball_lightning"
+        },
+        {
+          "Id": 23,
           "Name": "Barbed Mail",
           "CardType": "Item",
           "Rarity": "Common",
@@ -338,7 +421,7 @@
           "fileName": "barbed_mail"
         },
         {
-          "Id": 19,
+          "Id": 24,
           "Name": "Barracks",
           "CardType": "Improvement",
           "Rarity": "Uncommon",
@@ -355,14 +438,14 @@
           "Artist": "Louis Lasahido",
           "Lore": "",
           "RelatedIds": [
-            279
+            187
           ],
           "CrossLane": true,
           "IsSignatureCard": true,
           "fileName": "barracks"
         },
         {
-          "Id": 20,
+          "Id": 25,
           "Name": "Battlefield Control",
           "CardType": "Spell",
           "Rarity": "Basic",
@@ -372,13 +455,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            111
+            132
           ],
           "IsSignatureCard": true,
           "fileName": "battlefield_control"
         },
         {
-          "Id": 21,
+          "Id": 26,
           "Name": "Beastmaster",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -397,14 +480,14 @@
           "Artist": "Clint Cearley",
           "Lore": "",
           "RelatedIds": [
-            161,
-            127
+            196,
+            150
           ],
-          "SignatureCard": 161,
+          "SignatureCard": 196,
           "fileName": "beastmaster"
         },
         {
-          "Id": 22,
+          "Id": 27,
           "Name": "Bellow",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -416,7 +499,7 @@
           "fileName": "bellow"
         },
         {
-          "Id": 23,
+          "Id": 28,
           "Name": "Berserker's Call",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -426,13 +509,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            17
+            21
           ],
           "IsSignatureCard": true,
           "fileName": "berserkers_call"
         },
         {
-          "Id": 24,
+          "Id": 29,
           "Name": "Better Late Than Never",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -445,7 +528,7 @@
           "fileName": "better_late_than_never"
         },
         {
-          "Id": 25,
+          "Id": 30,
           "Name": "Bitter Enemies",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -466,7 +549,7 @@
           "fileName": "bitter_enemies"
         },
         {
-          "Id": 26,
+          "Id": 31,
           "Name": "Blade of the Vigil",
           "CardType": "Item",
           "Rarity": "Common",
@@ -486,7 +569,7 @@
           "fileName": "blade_of_the_vigil"
         },
         {
-          "Id": 27,
+          "Id": 32,
           "Name": "Blink Dagger",
           "CardType": "Item",
           "ItemType": "Weapon",
@@ -512,7 +595,7 @@
           "fileName": "blink_dagger"
         },
         {
-          "Id": 28,
+          "Id": 33,
           "Name": "Blood Rage",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -522,13 +605,13 @@
           "Artist": "Lake Hurwitz",
           "Lore": "",
           "RelatedIds": [
-            29
+            34
           ],
           "IsSignatureCard": true,
           "fileName": "blood_rage"
         },
         {
-          "Id": 29,
+          "Id": 34,
           "Name": "Bloodseeker",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -546,13 +629,13 @@
           "Artist": "Lake Hurwitz",
           "Lore": "\"My role is a sacred one. The holy blades and armor I wield allows me to be a conduit to the Flayed Ones... and the blood I spill in combat becomes tribute, given in the name of my people.\" - Bloodseeker",
           "RelatedIds": [
-            28
+            33
           ],
-          "SignatureCard": 28,
+          "SignatureCard": 33,
           "fileName": "bloodseeker"
         },
         {
-          "Id": 30,
+          "Id": 35,
           "Name": "Bolt of Damocles",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -564,7 +647,7 @@
           "fileName": "bolt_of_damocles"
         },
         {
-          "Id": 31,
+          "Id": 36,
           "Name": "Book of the Dead",
           "CardType": "Item",
           "Rarity": "Common",
@@ -590,7 +673,7 @@
           "fileName": "book_of_the_dead"
         },
         {
-          "Id": 32,
+          "Id": 37,
           "Name": "Bounty Hunter",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -608,13 +691,38 @@
           "Artist": "Erik M. Gist",
           "Lore": "",
           "RelatedIds": [
-            227
+            274
           ],
-          "SignatureCard": 227,
+          "SignatureCard": 274,
           "fileName": "bounty_hunter"
         },
         {
-          "Id": 33,
+          "Id": 38,
+          "Name": "Bracers of Sacrifice",
+          "CardType": "Item",
+          "Rarity": "Rare",
+          "Color": "Yellow",
+          "Text": "Equipped hero has +2 Armor.\nActive 1: Deal 6 damage to equiped hero's enemy neighbors and condemn equipped hero.",
+          "Abilities": [
+            {
+              "Name": "Bracers of Sacrifice : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +2 Armor."
+            },
+            {
+              "Name": "Bracers of Sacrifice : Effect",
+              "Type": "Active",
+              "Text": "Deal 6 damage to equiped hero's enemy neighbors and condemn equipped hero.",
+              "Cooldown": 1
+            }
+          ],
+          "GoldCost": 8,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "bracers_of_sacrifice"
+        },
+        {
+          "Id": 39,
           "Name": "Bristleback",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -632,13 +740,33 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            241
+            292
           ],
-          "SignatureCard": 241,
+          "SignatureCard": 292,
           "fileName": "bristleback"
         },
         {
-          "Id": 34,
+          "Id": 40,
+          "Name": "Broadsword",
+          "CardType": "Item",
+          "Rarity": "Common",
+          "Color": "Yellow",
+          "ItemType": "Weapon",
+          "Text": "Equipped hero has +4 Attack.",
+          "Abilities": [
+            {
+              "Name": "Broadsword : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +4 Attack."
+            }
+          ],
+          "GoldCost": 7,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "broadsword"
+        },
+        {
+          "Id": 41,
           "Name": "Bronze Legionnaire",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -652,7 +780,7 @@
           "fileName": "bronze_legionnaire"
         },
         {
-          "Id": 35,
+          "Id": 42,
           "Name": "Burning Oil",
           "CardType": "Improvement",
           "Rarity": "Uncommon",
@@ -672,7 +800,19 @@
           "fileName": "burning_oil"
         },
         {
-          "Id": 36,
+          "Id": 43,
+          "Name": "Buying Time",
+          "CardType": "Spell",
+          "Rarity": "Common",
+          "Color": "Blue",
+          "Text": "Give two random cards in opponent's hands +2 Lock.",
+          "ManaCost": 3,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "buying_time"
+        },
+        {
+          "Id": 44,
           "Name": "Call the Reserves",
           "CardType": "Spell",
           "Color": "Blue",
@@ -685,7 +825,7 @@
           "ManaCost": 6
         },
         {
-          "Id": 37,
+          "Id": 45,
           "Name": "Caught Unprepared",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -697,7 +837,7 @@
           "fileName": "caught_unprepared"
         },
         {
-          "Id": 38,
+          "Id": 46,
           "Name": "Centaur Hunter",
           "CardType": "Creep",
           "Rarity": "Uncommon",
@@ -712,7 +852,7 @@
           "fileName": "centaur_hunter"
         },
         {
-          "Id": 39,
+          "Id": 47,
           "Name": "Centaur Warrunner",
           "CardType": "Hero",
           "Rarity": "Rare",
@@ -730,13 +870,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            70
+            83
           ],
-          "SignatureCard": 70,
+          "SignatureCard": 83,
           "fileName": "centaur_warrunner"
         },
         {
-          "Id": 40,
+          "Id": 48,
           "Name": "Chain Frost",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -747,13 +887,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            122
+            145
           ],
           "IsSignatureCard": true,
           "fileName": "chain_frost"
         },
         {
-          "Id": 41,
+          "Id": 49,
           "Name": "Chainmail",
           "CardType": "Item",
           "ItemType": "Armor",
@@ -773,7 +913,7 @@
           "fileName": "chainmail"
         },
         {
-          "Id": 42,
+          "Id": 50,
           "Name": "Champion of the Ancient",
           "CardType": "Creep",
           "Rarity": "Rare",
@@ -795,7 +935,7 @@
           "fileName": "champion_of_the_ancient"
         },
         {
-          "Id": 43,
+          "Id": 51,
           "Name": "Cheating Death",
           "CardType": "Improvement",
           "Color": "Green",
@@ -815,7 +955,7 @@
           "ManaCost": 5
         },
         {
-          "Id": 44,
+          "Id": 52,
           "Name": "Chen",
           "CardType": "Hero",
           "Rarity": "Rare",
@@ -834,13 +974,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            96
+            113
           ],
-          "SignatureCard": 96,
+          "SignatureCard": 113,
           "fileName": "chen"
         },
         {
-          "Id": 45,
+          "Id": 53,
           "Name": "Claszureme Hourglass",
           "CardType": "Item",
           "ItemType": "Accessory",
@@ -864,7 +1004,27 @@
           "fileName": "claszureme_hourglass"
         },
         {
-          "Id": 46,
+          "Id": 54,
+          "Name": "Claymore",
+          "CardType": "Item",
+          "Rarity": "Uncommon",
+          "Color": "Yellow",
+          "ItemType": "Weapon",
+          "Text": "Equipped hero has +8 Attack.",
+          "Abilities": [
+            {
+              "Name": "Claymore : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +8 Attack."
+            }
+          ],
+          "GoldCost": 15,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "claymore"
+        },
+        {
+          "Id": 55,
           "Name": "Cleansing Rite",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -876,7 +1036,7 @@
           "fileName": "cleansing_rite"
         },
         {
-          "Id": 47,
+          "Id": 56,
           "Name": "Clear The Deck",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -888,7 +1048,56 @@
           "fileName": "clear_the_deck"
         },
         {
-          "Id": 48,
+          "Id": 57,
+          "Name": "Cloak of Endless Carnage",
+          "CardType": "Item",
+          "Rarity": "Rare",
+          "Color": "Yellow",
+          "ItemType": "Accesory",
+          "Text": "Equipped hero has +8 Health. Draw a card after an allied neighbor of equipped hero dies.",
+          "Abilities": [
+            {
+              "Name": "Cloak of Endless Carnage : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +8 Health."
+            },
+            {
+              "Name": "Cloak of Endless Carnage : Effect",
+              "Type": "Reactive",
+              "Text": "Draw a card after an allied neighbor of equipped hero dies."
+            }
+          ],
+          "GoldCost": 13,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "cloak_of_endless_carnage"
+        },
+        {
+          "Id": 58,
+          "Name": "Collateral Damage",
+          "CardType": "Spell",
+          "Rarity": "Common",
+          "Color": "Black",
+          "Text": "Modify a black hero with +3 Siege.",
+          "ManaCost": 4,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "collateral_damage"
+        },
+        {
+          "Id": 59,
+          "Name": "Combat Training",
+          "CardType": "Spell",
+          "Rarity": "Common",
+          "Color": "Red",
+          "Text": "Modify a hero with +2 Attack.",
+          "ManaCost": 3,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "combat_training"
+        },
+        {
+          "Id": 60,
           "Name": "Compel",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -900,7 +1109,7 @@
           "fileName": "compel"
         },
         {
-          "Id": 49,
+          "Id": 61,
           "Name": "Conflagration",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -920,7 +1129,7 @@
           "fileName": "conflagration"
         },
         {
-          "Id": 50,
+          "Id": 62,
           "Name": "Coordinated Assault",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -932,7 +1141,7 @@
           "fileName": "coordinated_assault"
         },
         {
-          "Id": 51,
+          "Id": 63,
           "Name": "Corrosive Mist",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -944,7 +1153,7 @@
           "fileName": "corrosive_mist"
         },
         {
-          "Id": 52,
+          "Id": 64,
           "Name": "Coup de Grace",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -954,13 +1163,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            152
+            184
           ],
           "IsSignatureCard": true,
           "fileName": "coup_de_grace"
         },
         {
-          "Id": 53,
+          "Id": 65,
           "Name": "Crippling Blow",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -972,7 +1181,7 @@
           "fileName": "crippling_blow"
         },
         {
-          "Id": 54,
+          "Id": 66,
           "Name": "Crystal Maiden",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -990,13 +1199,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            87
+            104
           ],
-          "SignatureCard": 87,
+          "SignatureCard": 104,
           "fileName": "crystal_maiden"
         },
         {
-          "Id": 55,
+          "Id": 67,
           "Name": "Cunning Plan",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -1008,7 +1217,7 @@
           "fileName": "cunning_plan"
         },
         {
-          "Id": 56,
+          "Id": 68,
           "Name": "Curse of Atrophy",
           "CardType": "Spell",
           "Color": "Green",
@@ -1020,7 +1229,7 @@
           "ManaCost": 6
         },
         {
-          "Id": 57,
+          "Id": 69,
           "Name": "Cursed Satyr",
           "CardType": "Creep",
           "Rarity": "Uncommon",
@@ -1041,7 +1250,7 @@
           "fileName": "cursed_satyr"
         },
         {
-          "Id": 58,
+          "Id": 70,
           "Name": "Dark Seer",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -1060,13 +1269,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            108
+            129
           ],
-          "SignatureCard": 108,
+          "SignatureCard": 129,
           "fileName": "dark_seer"
         },
         {
-          "Id": 59,
+          "Id": 71,
           "Name": "Debbi the Cunning",
           "CardType": "Hero",
           "Rarity": "Basic",
@@ -1084,13 +1293,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            140
+            169
           ],
-          "SignatureCard": 140,
+          "SignatureCard": 169,
           "fileName": "debbi_the_cunning"
         },
         {
-          "Id": 60,
+          "Id": 72,
           "Name": "Defend the Weak",
           "CardType": "Spell",
           "Color": "Green",
@@ -1102,7 +1311,7 @@
           "ManaCost": 2
         },
         {
-          "Id": 61,
+          "Id": 73,
           "Name": "Defensive Bloom",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -1112,13 +1321,13 @@
           "Artist": "Jana Schirmer",
           "Lore": "",
           "RelatedIds": [
-            183
+            222
           ],
           "IsSignatureCard": true,
           "fileName": "defensive_bloom"
         },
         {
-          "Id": 62,
+          "Id": 74,
           "Name": "Defensive Stance",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -1130,7 +1339,7 @@
           "fileName": "defensive_stance"
         },
         {
-          "Id": 63,
+          "Id": 75,
           "Name": "Demagicking Maul",
           "CardType": "Item",
           "Rarity": "Uncommon",
@@ -1156,7 +1365,7 @@
           "fileName": "demagicking_maul"
         },
         {
-          "Id": 64,
+          "Id": 76,
           "Name": "Diabolic Revelation",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -1168,7 +1377,7 @@
           "fileName": "diabolic_revelation"
         },
         {
-          "Id": 65,
+          "Id": 77,
           "Name": "Dimensional Portal",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -1180,7 +1389,19 @@
           "fileName": "dimensional_portal"
         },
         {
-          "Id": 66,
+          "Id": 78,
+          "Name": "Dirty Deeds",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Black",
+          "Text": "Deal 2 damage to the enemy tower for each of its improvements.",
+          "ManaCost": 3,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "dirty_deeds"
+        },
+        {
+          "Id": 79,
           "Name": "Disciple of Nevermore",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -1202,7 +1423,7 @@
           "fileName": "disciple_of_nevermore"
         },
         {
-          "Id": 67,
+          "Id": 80,
           "Name": "Divided We Stand",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -1212,13 +1433,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            132
+            157
           ],
           "IsSignatureCard": true,
           "fileName": "divided_we_stand"
         },
         {
-          "Id": 68,
+          "Id": 81,
           "Name": "Divine Intervention",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -1230,7 +1451,7 @@
           "fileName": "divine_intervention"
         },
         {
-          "Id": 69,
+          "Id": 82,
           "Name": "Divine Purpose",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -1242,7 +1463,7 @@
           "fileName": "divine_purpose"
         },
         {
-          "Id": 70,
+          "Id": 83,
           "Name": "Double Edge",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -1252,15 +1473,15 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            39
+            47
           ],
           "IsSignatureCard": true,
           "fileName": "double_edge"
         },
         {
-          "Id": 71,
+          "Id": 84,
           "RelatedIds": [
-            95
+            112
           ],
           "Name": "Drow Ranger",
           "CardType": "Hero",
@@ -1276,13 +1497,13 @@
               "Text": "Other allies in all lanes have +1 Attack."
             }
           ],
-          "SignatureCard": 95,
+          "SignatureCard": 112,
           "Artist": "",
           "Lore": "",
           "fileName": "drow_ranger"
         },
         {
-          "Id": 72,
+          "Id": 85,
           "Name": "Duel",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -1292,13 +1513,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            120
+            143
           ],
           "IsSignatureCard": true,
           "fileName": "duel"
         },
         {
-          "Id": 73,
+          "Id": 86,
           "Name": "Earthshaker",
           "CardType": "Hero",
           "Rarity": "Rare",
@@ -1317,13 +1538,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            74
+            87
           ],
-          "SignatureCard": 74,
+          "SignatureCard": 87,
           "fileName": "earthshaker"
         },
         {
-          "Id": 74,
+          "Id": 87,
           "Name": "Echo Slam",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -1333,13 +1554,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            73
+            86
           ],
           "IsSignatureCard": true,
           "fileName": "echo_slam"
         },
         {
-          "Id": 75,
+          "Id": 88,
           "Name": "Eclipse",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -1349,13 +1570,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            128
+            151
           ],
           "IsSignatureCard": true,
           "fileName": "eclipse"
         },
         {
-          "Id": 76,
+          "Id": 89,
           "Name": "Emissary of the Quorum",
           "CardType": "Creep",
           "Color": "Green",
@@ -1378,7 +1599,23 @@
           "ManaCost": 8
         },
         {
-          "Id": 77,
+          "Id": 90,
+          "Name": "Empower",
+          "CardType": "Spell",
+          "Rarity": "Common",
+          "Color": "Green",
+          "Text": "Modify a unit with +3 Attack and +3 Cleave.",
+          "ManaCost": 4,
+          "Artist": "",
+          "Lore": "",
+          "RelatedIds": [
+            153
+          ],
+          "IsSignatureCard": true,
+          "fileName": "empower"
+        },
+        {
+          "Id": 91,
           "Name": "Enchantress",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -1396,13 +1633,13 @@
           "Artist": "Randy Vargas",
           "Lore": "\"I'm not a fighter. I'm a protector. It's not too late for you to walk away, but if you try to hurt these people, I promise it will not go well for you.\" — Enchantress.",
           "RelatedIds": [
-            237
+            287
           ],
-          "SignatureCard": 237,
+          "SignatureCard": 287,
           "fileName": "enchantress"
         },
         {
-          "Id": 78,
+          "Id": 92,
           "Name": "Enough Magic!",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -1414,9 +1651,9 @@
           "fileName": "enough_magic"
         },
         {
-          "Id": 79,
+          "Id": 93,
           "RelatedIds": [
-            234
+            284
           ],
           "Name": "Enrage",
           "CardType": "Spell",
@@ -1430,7 +1667,7 @@
           "ManaCost": 4
         },
         {
-          "Id": 80,
+          "Id": 94,
           "Name": "Escape Route",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -1451,7 +1688,7 @@
           "fileName": "escape_route"
         },
         {
-          "Id": 81,
+          "Id": 95,
           "Name": "Fahrvhan the Dreamer",
           "CardType": "Hero",
           "Rarity": "Basic",
@@ -1469,12 +1706,25 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            162
+            197
           ],
           "fileName": "fahrvhan_the_dreamer"
         },
         {
-          "Id": 82,
+          "Id": 96,
+          "Name": "Fight Through the Pain",
+          "CardType": "Spell",
+          "Rarity": "Common",
+          "Color": "Red",
+          "Text": "Give a red hero +2 Armor this round. Get initiative.",
+          "ManaCost": 1,
+          "GetInitiative": true,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "fight_through_the_pain"
+        },
+        {
+          "Id": 97,
           "Name": "Fighting Instinct",
           "CardType": "Spell",
           "Rarity": "Basic",
@@ -1484,13 +1734,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            115
+            136
           ],
           "IsSignatureCard": true,
           "fileName": "fighting_instinct"
         },
         {
-          "Id": 83,
+          "Id": 98,
           "Name": "Fog of War",
           "CardType": "Spell",
           "Color": "Blue",
@@ -1502,7 +1752,7 @@
           "ManaCost": 4
         },
         {
-          "Id": 84,
+          "Id": 99,
           "Name": "Foresight",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -1514,7 +1764,7 @@
           "fileName": "foresight"
         },
         {
-          "Id": 85,
+          "Id": 100,
           "Name": "Forward Charge",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -1526,7 +1776,20 @@
           "fileName": "forward_charge"
         },
         {
-          "Id": 86,
+          "Id": 101,
+          "Name": "Fountain Flask",
+          "CardType": "Item",
+          "ItemType": "Consumable",
+          "Rarity": "Basic",
+          "Color": "Yellow",
+          "Text": "Fully heal a unit.",
+          "GoldCost": 4,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "fountain_flask"
+        },
+        {
+          "Id": 102,
           "Name": "Fractured Timeline",
           "CardType": "Improvement",
           "Color": "Blue",
@@ -1546,7 +1809,19 @@
           "ManaCost": 2
         },
         {
-          "Id": 87,
+          "Id": 103,
+          "Name": "Friendly Fire",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Blue",
+          "Text": "Choose two enemies. They battle each other.",
+          "ManaCost": 6,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "friendly_fire"
+        },
+        {
+          "Id": 104,
           "Name": "Frostbite",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -1556,13 +1831,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            54
+            66
           ],
           "IsSignatureCard": true,
           "fileName": "frostbite"
         },
         {
-          "Id": 88,
+          "Id": 105,
           "Name": "Fur-lined Mantle",
           "CardType": "Item",
           "Rarity": "Common",
@@ -1582,7 +1857,7 @@
           "fileName": "fur-lined_mantle"
         },
         {
-          "Id": 89,
+          "Id": 106,
           "Name": "Gank",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -1595,7 +1870,7 @@
           "fileName": "gank"
         },
         {
-          "Id": 90,
+          "Id": 107,
           "Name": "Glyph of Confusion",
           "CardType": "Improvement",
           "Color": "Blue",
@@ -1615,9 +1890,9 @@
           "ManaCost": 6
         },
         {
-          "Id": 91,
+          "Id": 108,
           "RelatedIds": [
-            213
+            259
           ],
           "Name": "God's Strength",
           "CardType": "Spell",
@@ -1630,7 +1905,7 @@
           "ManaCost": 6
         },
         {
-          "Id": 92,
+          "Id": 109,
           "Name": "Golden Ticket",
           "Rarity": "Uncommon",
           "CardType": "Item",
@@ -1650,7 +1925,7 @@
           "fileName": "golden_ticket"
         },
         {
-          "Id": 93,
+          "Id": 110,
           "Name": "Grand Melee",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -1670,7 +1945,7 @@
           "fileName": "grand_melee"
         },
         {
-          "Id": 94,
+          "Id": 111,
           "Name": "Grazing Shot",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -1683,9 +1958,9 @@
           "fileName": "grazing_shot"
         },
         {
-          "Id": 95,
+          "Id": 112,
           "RelatedIds": [
-            71
+            84
           ],
           "Name": "Gust",
           "CardType": "Spell",
@@ -1699,7 +1974,7 @@
           "ManaCost": 4
         },
         {
-          "Id": 96,
+          "Id": 113,
           "Name": "Hand of God",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -1709,13 +1984,26 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            44
+            52
           ],
           "IsSignatureCard": true,
           "fileName": "hand_of_god"
         },
         {
-          "Id": 97,
+          "Id": 114,
+          "Name": "Healing Salve",
+          "CardType": "Item",
+          "ItemType": "Consumable",
+          "Rarity": "Basic",
+          "Color": "Yellow",
+          "Text": "Heal a unit 6.",
+          "GoldCost": 3,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "healing_salve"
+        },
+        {
+          "Id": 115,
           "Name": "Heartstopper Aura",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -1725,13 +2013,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            137
+            166
           ],
           "IsSignatureCard": true,
           "fileName": "heartstopper_aura"
         },
         {
-          "Id": 98,
+          "Id": 116,
           "Name": "Hellbear Crippler",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -1753,7 +2041,7 @@
           "fileName": "hellbear_crippler"
         },
         {
-          "Id": 99,
+          "Id": 117,
           "Name": "Helm of the Dominator",
           "CardType": "Item",
           "Rarity": "Uncommon",
@@ -1773,7 +2061,32 @@
           "fileName": "helm_of_the_dominator"
         },
         {
-          "Id": 100,
+          "Id": 118,
+          "Name": "Hero's Cape",
+          "CardType": "Item",
+          "ItemType": "Accesory",
+          "Rarity": "Rare",
+          "Color": "Yellow",
+          "Text": "Equipped hero has +16 Health.",
+          "GoldCost": 15,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "heros_cape"
+        },
+        {
+          "Id": 119,
+          "Name": "Heroic Resolve",
+          "CardType": "Spell",
+          "Rarity": "Rare",
+          "Color": "Red",
+          "Text": "Modify a red hero with \"After you play a non-item card costing 2 or less, modify this hero with +2 Health.\"",
+          "GoldCost": 2,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "heroic_resolve"
+        },
+        {
+          "Id": 120,
           "Name": "Hip Fire",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -1786,7 +2099,7 @@
           "fileName": "hip_fire"
         },
         {
-          "Id": 101,
+          "Id": 121,
           "Name": "Homefield Advantage",
           "CardType": "Improvement",
           "Rarity": "Uncommon",
@@ -1806,7 +2119,7 @@
           "fileName": "homefield_advantage"
         },
         {
-          "Id": 102,
+          "Id": 122,
           "Name": "Horde Catapult",
           "CardType": "Creep",
           "Color": "Black",
@@ -1828,7 +2141,7 @@
           "ManaCost": 2
         },
         {
-          "Id": 103,
+          "Id": 123,
           "Name": "Horn of the Alpha",
           "CardType": "Item",
           "Rarity": "Rare",
@@ -1854,7 +2167,7 @@
           "fileName": "horn_of_the_alpha"
         },
         {
-          "Id": 104,
+          "Id": 124,
           "Name": "Hound of War",
           "CardType": "Creep",
           "Rarity": "Uncommon",
@@ -1869,7 +2182,7 @@
           "fileName": "hound_of_war"
         },
         {
-          "Id": 105,
+          "Id": 125,
           "Name": "Howling Mind",
           "CardType": "Improvement",
           "Rarity": "Uncommon",
@@ -1889,9 +2202,9 @@
           "fileName": "howling_mind"
         },
         {
-          "Id": 106,
+          "Id": 126,
           "RelatedIds": [
-            145
+            176
           ],
           "Name": "Ignite",
           "CardType": "Improvement",
@@ -1913,7 +2226,22 @@
           "ManaCost": 3
         },
         {
-          "Id": 107,
+          "Id": 127,
+          "Name": "Incarnation of Selemene",
+          "CardType": "Creep",
+          "Rarity": "Rare",
+          "Color": "Blue",
+          "Attack": 3,
+          "Armor": 0,
+          "Health": 11,
+          "Text": "Fully restore your tower's Mana after you play any card.",
+          "ManaCost": 9,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "incarnation_of_selemene"
+        },
+        {
+          "Id": 128,
           "Name": "Intimidation",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -1925,7 +2253,7 @@
           "fileName": "intimidation"
         },
         {
-          "Id": 108,
+          "Id": 129,
           "Name": "Ion Shell",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -1935,13 +2263,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            58
+            70
           ],
           "IsSignatureCard": true,
           "fileName": "ion_shell"
         },
         {
-          "Id": 109,
+          "Id": 130,
           "Name": "Iron Branch Protection",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -1954,7 +2282,7 @@
           "fileName": "iron_branch_protection"
         },
         {
-          "Id": 110,
+          "Id": 131,
           "Name": "Iron Fog Goldmine",
           "CardType": "Improvement",
           "Rarity": "Common",
@@ -1974,7 +2302,7 @@
           "fileName": "iron_fog_goldmine"
         },
         {
-          "Id": 111,
+          "Id": 132,
           "Name": "J'Muy the Wise",
           "CardType": "Hero",
           "Rarity": "Basic",
@@ -1993,13 +2321,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            20
+            25
           ],
-          "SignatureCard": 20,
+          "SignatureCard": 25,
           "fileName": "jmuy_the_wise"
         },
         {
-          "Id": 112,
+          "Id": 133,
           "Name": "Jasper Daggers",
           "CardType": "Item",
           "ItemType": "Weapon",
@@ -2019,7 +2347,7 @@
           "fileName": "jasper_daggers"
         },
         {
-          "Id": 113,
+          "Id": 134,
           "Name": "Juke",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -2031,7 +2359,7 @@
           "fileName": "juke"
         },
         {
-          "Id": 114,
+          "Id": 135,
           "Name": "Kanna",
           "CardType": "Hero",
           "Rarity": "Rare",
@@ -2049,13 +2377,13 @@
           "Artist": "Scott M. Fischer",
           "Lore": "",
           "RelatedIds": [
-            160
+            195
           ],
-          "SignatureCard": 160,
+          "SignatureCard": 195,
           "fileName": "kanna"
         },
         {
-          "Id": 115,
+          "Id": 136,
           "Name": "Keefe the Bold",
           "CardType": "Hero",
           "Rarity": "Basic",
@@ -2066,13 +2394,35 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            82
+            97
           ],
-          "SignatureCard": 82,
+          "SignatureCard": 97,
           "fileName": "keefe_the_bold"
         },
         {
-          "Id": 116,
+          "Id": 137,
+          "Name": "Keenfolk Golem",
+          "CardType": "Creep",
+          "Rarity": "Rare",
+          "Color": "Red",
+          "Attack": 13,
+          "Armor": 0,
+          "Health": 13,
+          "Text": "Play Effect: Discard your hand.",
+          "Abilities": [
+            {
+              "Name": "Keenfolk Golem : Effect",
+              "Type": "Play",
+              "Text": "Discard your hand."
+            }
+          ],
+          "ManaCost": 9,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "keenfolk_golem"
+        },
+        {
+          "Id": 138,
           "Name": "Keenfolk Musket",
           "CardType": "Item",
           "Rarity": "Common",
@@ -2098,7 +2448,27 @@
           "fileName": "keenfolk_musket"
         },
         {
-          "Id": 117,
+          "Id": 139,
+          "Name": "Keenfolk Plate",
+          "CardType": "Item",
+          "ItemType": "Armor",
+          "Rarity": "Uncommon",
+          "Color": "Yellow",
+          "Text": "Equipped hero has +1 Armor. Equipped hero has +1 Armor for each of its attackers.",
+          "GoldCost": 8,
+          "Abilities": [
+            {
+              "Name": "Keenfolk Plate : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +1 Armor. Equipped hero has +1 Armor for each of its attackers."
+            }
+          ],
+          "Artist": "",
+          "Lore": "",
+          "fileName": "keenfolk_plate"
+        },
+        {
+          "Id": 140,
           "Name": "Keenfolk Turret",
           "CardType": "Improvement",
           "Rarity": "Uncommon",
@@ -2119,7 +2489,7 @@
           "fileName": "keenfolk_turret"
         },
         {
-          "Id": 118,
+          "Id": 141,
           "Name": "Kraken Shell",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -2130,13 +2500,13 @@
           "Artist": "Mike Lim",
           "Lore": "",
           "RelatedIds": [
-            223
+            269
           ],
           "IsSignatureCard": true,
           "fileName": "kraken_shell"
         },
         {
-          "Id": 119,
+          "Id": 142,
           "Name": "Leather Armor",
           "CardType": "Item",
           "Rarity": "Basic",
@@ -2156,7 +2526,7 @@
           "fileName": "leather_armor"
         },
         {
-          "Id": 120,
+          "Id": 143,
           "Name": "Legion Commander",
           "CardType": "Hero",
           "Rarity": "Uncommon",
@@ -2174,13 +2544,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            72
+            85
           ],
-          "SignatureCard": 72,
+          "SignatureCard": 85,
           "fileName": "legion_commander"
         },
         {
-          "Id": 121,
+          "Id": 144,
           "Name": "Legion Standard Bearer",
           "CardType": "Creep",
           "Rarity": "Uncommon",
@@ -2202,7 +2572,7 @@
           "fileName": "legion_standard_bearer"
         },
         {
-          "Id": 122,
+          "Id": 145,
           "Name": "Lich",
           "CardType": "Hero",
           "Rarity": "Rare",
@@ -2221,13 +2591,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            40
+            48
           ],
-          "SignatureCard": 40,
+          "SignatureCard": 48,
           "fileName": "lich"
         },
         {
-          "Id": 123,
+          "Id": 146,
           "Name": "Lightning Strike",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -2239,7 +2609,7 @@
           "fileName": "lightning_strike"
         },
         {
-          "Id": 124,
+          "Id": 147,
           "Name": "Lion",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -2258,13 +2628,13 @@
           "Artist": "Stepan Alekseev",
           "Lore": "The demon's hand grants me not just the ability to snuff out life. But to consume their very essence.",
           "RelatedIds": [
-            130
+            154
           ],
-          "SignatureCard": 130,
+          "SignatureCard": 154,
           "fileName": "lion"
         },
         {
-          "Id": 125,
+          "Id": 148,
           "Name": "Lodestone Demolition",
           "CardType": "Spell",
           "Color": "Black",
@@ -2276,7 +2646,7 @@
           "ManaCost": 3
         },
         {
-          "Id": 126,
+          "Id": 149,
           "Name": "Lost in Time",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -2288,7 +2658,7 @@
           "fileName": "lost_in_time"
         },
         {
-          "Id": 127,
+          "Id": 150,
           "Name": "Loyal Beast",
           "CardType": "Creep",
           "Rarity": "Basic",
@@ -2311,7 +2681,7 @@
           "fileName": "loyal_beast"
         },
         {
-          "Id": 128,
+          "Id": 151,
           "Name": "Luna",
           "CardType": "Hero",
           "Rarity": "Uncommon",
@@ -2329,13 +2699,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            75
+            88
           ],
-          "SignatureCard": 75,
+          "SignatureCard": 88,
           "fileName": "luna"
         },
         {
-          "Id": 129,
+          "Id": 152,
           "Name": "Lycan",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -2353,12 +2723,29 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            187
+            227
           ],
           "fileName": "lycan"
         },
         {
-          "Id": 130,
+          "Id": 153,
+          "Name": "Magnus",
+          "CardType": "Hero",
+          "Rarity": "Common",
+          "Color": "Green",
+          "Attack": 4,
+          "Armor": 1,
+          "Health": 9,
+          "RelatedIds": [
+            90
+          ],
+          "SignatureCard": 90,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "magnus"
+        },
+        {
+          "Id": 154,
           "Name": "Mana Drain",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -2368,13 +2755,13 @@
           "Artist": "Stepan Alekseev",
           "Lore": "",
           "RelatedIds": [
-            124
+            147
           ],
           "IsSignatureCard": true,
           "fileName": "mana_drain"
         },
         {
-          "Id": 131,
+          "Id": 155,
           "Name": "Marrowfell Brawler",
           "CardType": "Creep",
           "Color": "Red",
@@ -2388,7 +2775,24 @@
           "ManaCost": 6
         },
         {
-          "Id": 132,
+          "Id": 156,
+          "Name": "Mazzie",
+          "CardType": "Hero",
+          "Rarity": "Common",
+          "Color": "Red",
+          "Attack": 6,
+          "Armor": 3,
+          "Health": 6,
+          "Artist": "",
+          "Lore": "",
+          "RelatedIds": [
+            251
+          ],
+          "SignatureCard": 251,
+          "fileName": "mazzie"
+        },
+        {
+          "Id": 157,
           "Name": "Meepo",
           "CardType": "Hero",
           "Rarity": "Rare",
@@ -2412,13 +2816,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            67
+            80
           ],
-          "SignatureCard": 67,
+          "SignatureCard": 80,
           "fileName": "meepo"
         },
         {
-          "Id": 133,
+          "Id": 158,
           "Name": "Melee Creep",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -2433,7 +2837,27 @@
           "fileName": "melee_creep"
         },
         {
-          "Id": 134,
+          "Id": 159,
+          "Name": "Melee Creep Dire",
+          "CardType": "Creep",
+          "Rarity": "Basic",
+          "Color": "",
+          "Artist": "",
+          "Lore": "",
+          "fileName": "melee_creep_dire"
+        },
+        {
+          "Id": 160,
+          "Name": "Melee Creep Radiant",
+          "CardType": "Creep",
+          "Rarity": "Basic",
+          "Color": "",
+          "Artist": "",
+          "Lore": "",
+          "fileName": "melee_creep_radiant"
+        },
+        {
+          "Id": 161,
           "Name": "Mercenary Exiles",
           "CardType": "Creep",
           "Rarity": "Rare",
@@ -2456,7 +2880,26 @@
           "fileName": "mercenary_exiles"
         },
         {
-          "Id": 135,
+          "Id": 162,
+          "Name": "Messenger Rookery",
+          "CardType": "Improvement",
+          "Rarity": "Common",
+          "Color": "Blue",
+          "Text": "Choose an ally. Choose a combat target for it.",
+          "ManaCost": 1,
+          "Abilities": [
+            {
+              "Name": "Messenger Rookery : Effect",
+              "Type": "Active",
+              "Text": "Choose an ally. Choose a combat target for it."
+            }
+          ],
+          "Artist": "",
+          "Lore": "",
+          "fileName": "messenger_rookery"
+        },
+        {
+          "Id": 163,
           "Name": "Mist of Avernus",
           "CardType": "Improvement",
           "Rarity": "Uncommon",
@@ -2476,7 +2919,19 @@
           "fileName": "mist_of_avernus"
         },
         {
-          "Id": 136,
+          "Id": 164,
+          "Name": "Murder Plot",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Black",
+          "Text": "Give a black hero +8 Attack this round. Choose a combat target for it.",
+          "ManaCost": 4,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "murder_plot"
+        },
+        {
+          "Id": 165,
           "Name": "Mystic Flare",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -2486,13 +2941,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            196
+            237
           ],
           "IsSignatureCard": true,
           "fileName": "mystic_flare"
         },
         {
-          "Id": 137,
+          "Id": 166,
           "Name": "Necrophos",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -2510,13 +2965,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            97
+            115
           ],
-          "SignatureCard": 97,
+          "SignatureCard": 115,
           "fileName": "necrophos"
         },
         {
-          "Id": 138,
+          "Id": 167,
           "Name": "Nether Ward",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -2533,14 +2988,14 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            163
+            198
           ],
           "CrossLane": true,
           "IsSignatureCard": true,
           "fileName": "nether_ward"
         },
         {
-          "Id": 139,
+          "Id": 168,
           "Name": "New Orders",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -2552,7 +3007,7 @@
           "fileName": "new_orders"
         },
         {
-          "Id": 140,
+          "Id": 169,
           "Name": "No Accident",
           "CardType": "Spell",
           "Rarity": "Basic",
@@ -2562,13 +3017,39 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            59
+            71
           ],
           "IsSignatureCard": true,
           "fileName": "no_accident"
         },
         {
-          "Id": 141,
+          "Id": 170,
+          "Name": "Nyctasha's Guard",
+          "CardType": "Item",
+          "ItemType": "Armor",
+          "Rarity": "Rare",
+          "Color": "Yellow",
+          "Text": "Equipped hero has +1 Armor.\nActive 1: Move Equipped hero's enemy neighbors to random other lanes.",
+          "Abilities": [
+            {
+              "Name": "Nyctasha's Guard : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +1 Armor."
+            },
+            {
+              "Name": "Nyctasha's Guard : Effect",
+              "Type": "Active",
+              "Text": "Move Equipped hero's enemy neighbors to random other lanes.",
+              "Cooldown": 1
+            }
+          ],
+          "GoldCost": 25,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "nyctashas_guard"
+        },
+        {
+          "Id": 171,
           "Name": "Obliterating Orb",
           "CardType": "Item",
           "Rarity": "Uncommon",
@@ -2588,7 +3069,29 @@
           "fileName": "obliterating_orb"
         },
         {
-          "Id": 142,
+          "Id": 172,
+          "Name": "Oglodi Catapult",
+          "CardType": "Crepp",
+          "Rarity": "Uncommon",
+          "Color": "Black",
+          "Attack": 0,
+          "Armor": 0,
+          "Health": 4,
+          "Text": "Deal 2 piercing damage to the enemy tower before the action phase.",
+          "Abilities": [
+            {
+              "Name": "Oglodi Catapult : Effect",
+              "Type": "Continuous",
+              "Text": "Deal 2 piercing damage to the enemy tower before the action phase."
+            }
+          ],
+          "ManaCost": 2,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "oglodi_catapult"
+        },
+        {
+          "Id": 173,
           "Name": "Oglodi Vandal",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -2610,7 +3113,7 @@
           "fileName": "oglodi_vandal"
         },
         {
-          "Id": 143,
+          "Id": 174,
           "Name": "Ogre Conscript",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -2624,7 +3127,7 @@
           "fileName": "ogre_conscript"
         },
         {
-          "Id": 144,
+          "Id": 175,
           "Name": "Ogre Corpse Tosser",
           "CardType": "Creep",
           "Rarity": "Rare",
@@ -2646,9 +3149,9 @@
           "fileName": "ogre_corpse_tosser"
         },
         {
-          "Id": 145,
+          "Id": 176,
           "RelatedIds": [
-            106
+            126
           ],
           "Name": "Ogre Magi",
           "CardType": "Hero",
@@ -2664,13 +3167,13 @@
               "Text": "After you play a blue spell, there is a 25% chance to put a base copy of that card into your hand."
             }
           ],
-          "SignatureCard": 106,
+          "SignatureCard": 126,
           "Artist": "",
           "Lore": "",
           "fileName": "ogre_magi"
         },
         {
-          "Id": 146,
+          "Id": 177,
           "Name": "Omniknight",
           "CardType": "Hero",
           "Rarity": "Rare",
@@ -2695,7 +3198,33 @@
           "fileName": "omniknight"
         },
         {
-          "Id": 147,
+          "Id": 178,
+          "Name": "Outworld Devourer",
+          "CardType": "Hero",
+          "Rarity": "Uncommon",
+          "Color": "Blue",
+          "Attack": 4,
+          "Armor": 0,
+          "Health": 6,
+          "Text": "After you play a blue card, there is a 50% chance to restore 2 Mana.",
+          "Abilities": [
+            {
+              "Name": "Essence Aura",
+              "Type": "Reactive",
+              "Text": "After you play a blue card, there is a 50% chance to restore 2 Mana.",
+              "Cooldown": 3
+            }
+          ],
+          "RelatedIds": [
+            18
+          ],
+          "SignatureCard": 18,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "outworld_devourer"
+        },
+        {
+          "Id": 179,
           "Name": "Path of the Bold",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -2715,7 +3244,7 @@
           "fileName": "path_of_the_bold"
         },
         {
-          "Id": 148,
+          "Id": 180,
           "Name": "Path of the Cunning",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -2735,7 +3264,7 @@
           "fileName": "path_of_the_cunning"
         },
         {
-          "Id": 149,
+          "Id": 181,
           "Name": "Path of the Dreamer",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -2755,7 +3284,7 @@
           "fileName": "path_of_the_dreamer"
         },
         {
-          "Id": 150,
+          "Id": 182,
           "Name": "Path of the Wise",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -2775,7 +3304,7 @@
           "fileName": "path_of_the_wise"
         },
         {
-          "Id": 151,
+          "Id": 183,
           "Name": "Payday",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -2787,7 +3316,7 @@
           "fileName": "payday"
         },
         {
-          "Id": 152,
+          "Id": 184,
           "Name": "Phantom Assassin",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -2805,13 +3334,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            52
+            64
           ],
-          "SignatureCard": 52,
+          "SignatureCard": 64,
           "fileName": "phantom_assassin"
         },
         {
-          "Id": 153,
+          "Id": 185,
           "Name": "Phase Boots",
           "CardType": "Item",
           "Rarity": "Uncommon",
@@ -2837,7 +3366,7 @@
           "fileName": "phase_boots"
         },
         {
-          "Id": 154,
+          "Id": 186,
           "Name": "Pick Off",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -2850,7 +3379,19 @@
           "fileName": "pick_off"
         },
         {
-          "Id": 155,
+          "Id": 187,
+          "Name": "Pick a Fight",
+          "CardType": "Spell",
+          "Rarity": "Common",
+          "Color": "Red",
+          "Text": "Choose an allied hero. It taunts. Choose a combat target for it.",
+          "ManaCost": 2,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "pick_a_fight"
+        },
+        {
+          "Id": 188,
           "Name": "Pit Fighter of Quoidge",
           "CardType": "Creep",
           "Rarity": "Rare",
@@ -2864,7 +3405,7 @@
           "fileName": "pit_fighter_of_quoidge"
         },
         {
-          "Id": 156,
+          "Id": 189,
           "Name": "Plague Ward",
           "CardType": "Creep",
           "Rarity": "Uncommon",
@@ -2885,13 +3426,33 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            235,
-            202
+            285,
+            245
           ],
           "fileName": "plague_ward"
         },
         {
-          "Id": 157,
+          "Id": 190,
+          "Name": "Platemail",
+          "CardType": "Item",
+          "ItemType": "Armor",
+          "Rarity": "Uncommon",
+          "Color": "Yellow",
+          "Text": "Equipped hero has +4 Armor.",
+          "Abilities": [
+            {
+              "Name": "Platemail : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +4 Armor."
+            }
+          ],
+          "GoldCost": 15,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "platemail"
+        },
+        {
+          "Id": 191,
           "Name": "Poaching Knife",
           "CardType": "Item",
           "Rarity": "Rare",
@@ -2911,7 +3472,7 @@
           "fileName": "poaching_knife"
         },
         {
-          "Id": 158,
+          "Id": 192,
           "Name": "Poised to Strike",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -2923,7 +3484,20 @@
           "fileName": "poised_to_strike"
         },
         {
-          "Id": 159,
+          "Id": 193,
+          "Name": "Potion of Knowledge",
+          "CardType": "Item",
+          "ItemType": "Consumable",
+          "Rarity": "Basic",
+          "Color": "Yellow",
+          "Text": "Draw a card.",
+          "GoldCost": 5,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "potion_of_knowledge"
+        },
+        {
+          "Id": 194,
           "Name": "Prellex",
           "CardType": "Hero",
           "Rarity": "Uncommon",
@@ -2941,13 +3515,13 @@
           "Artist": "Louis Lasahido",
           "Lore": "",
           "RelatedIds": [
-            19
+            24
           ],
-          "SignatureCard": 19,
+          "SignatureCard": 24,
           "fileName": "prellex"
         },
         {
-          "Id": 160,
+          "Id": 195,
           "Name": "Prey on the Weak",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -2957,13 +3531,13 @@
           "Artist": "Scott M. Fischer",
           "Lore": "",
           "RelatedIds": [
-            114
+            135
           ],
           "IsSignatureCard": true,
           "fileName": "prey_on_the_weak"
         },
         {
-          "Id": 161,
+          "Id": 196,
           "Name": "Primal Roar",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -2973,13 +3547,13 @@
           "Artist": "Clint Cearley",
           "Lore": "",
           "RelatedIds": [
-            21
+            26
           ],
           "IsSignatureCard": true,
           "fileName": "primal_roar"
         },
         {
-          "Id": 162,
+          "Id": 197,
           "Name": "Prowler Vanguard",
           "CardType": "Creep",
           "Rarity": "Basic",
@@ -2999,12 +3573,12 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            81
+            95
           ],
           "fileName": "prowler_vanguard"
         },
         {
-          "Id": 163,
+          "Id": 198,
           "Name": "Pugna",
           "CardType": "Hero",
           "Rarity": "Rare",
@@ -3023,13 +3597,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            138
+            167
           ],
-          "SignatureCard": 138,
+          "SignatureCard": 167,
           "fileName": "pugna"
         },
         {
-          "Id": 164,
+          "Id": 199,
           "Name": "Rampaging Hellbear",
           "CardType": "Creep",
           "Color": "Green",
@@ -3051,7 +3625,7 @@
           "ManaCost": 4
         },
         {
-          "Id": 165,
+          "Id": 200,
           "Name": "Ravenhook",
           "CardType": "Creep",
           "Rarity": "Rare",
@@ -3074,7 +3648,7 @@
           "fileName": "ravenhook"
         },
         {
-          "Id": 166,
+          "Id": 201,
           "Name": "Ravenous Mass",
           "CardType": "Creep",
           "Rarity": "Rare",
@@ -3097,7 +3671,7 @@
           "fileName": "ravenous_mass"
         },
         {
-          "Id": 167,
+          "Id": 202,
           "Name": "Raze",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -3109,7 +3683,7 @@
           "fileName": "raze"
         },
         {
-          "Id": 168,
+          "Id": 203,
           "Name": "Rebel Decoy",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -3132,7 +3706,7 @@
           "fileName": "rebel_decoy"
         },
         {
-          "Id": 169,
+          "Id": 204,
           "Name": "Rebel Instigator",
           "CardType": "Creep",
           "Rarity": "Uncommon",
@@ -3154,7 +3728,7 @@
           "fileName": "rebel_instigator"
         },
         {
-          "Id": 170,
+          "Id": 205,
           "Name": "Red Mist Maul",
           "CardType": "Item",
           "Rarity": "Common",
@@ -3174,7 +3748,7 @@
           "fileName": "red_mist_maul"
         },
         {
-          "Id": 171,
+          "Id": 206,
           "Name": "Red Mist Pillager",
           "CardType": "Creep",
           "Rarity": "Uncommon",
@@ -3196,7 +3770,20 @@
           "fileName": "red_mist_pillager"
         },
         {
-          "Id": 172,
+          "Id": 207,
+          "Name": "Relentless Pursuit",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Black",
+          "Text": "Choose a unit in another lane. Move a random allied black hero from this lane to that lane. Deal 2 damage to the chosen unit.",
+          "ManaCost": 1,
+          "CrossLane": true,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "relentless_pursuit"
+        },
+        {
+          "Id": 208,
           "Name": "Relentless Zombie",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -3218,7 +3805,19 @@
           "fileName": "relentless_zombie"
         },
         {
-          "Id": 173,
+          "Id": 209,
+          "Name": "Remote Detonation",
+          "CardType": "Spell",
+          "Rarity": "Rare",
+          "Color": "Blue",
+          "Text": "Deal 5 damage to each enemy across from an empty combat position.",
+          "ManaCost": 6,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "remote_detonation"
+        },
+        {
+          "Id": 210,
           "Name": "Rend Armor",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -3230,7 +3829,7 @@
           "fileName": "rend_armor"
         },
         {
-          "Id": 174,
+          "Id": 211,
           "Name": "Restoration Effort",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -3242,7 +3841,7 @@
           "fileName": "restoration_effort"
         },
         {
-          "Id": 175,
+          "Id": 212,
           "Name": "Revtel Convoy",
           "CardType": "Creep",
           "Rarity": "Rare",
@@ -3264,2227 +3863,7 @@
           "fileName": "revtel_convoy"
         },
         {
-          "Id": 176,
-          "Name": "Revtel Signet Ring",
-          "CardType": "Item",
-          "Rarity": "Uncommon",
-          "Color": "Yellow",
-          "Text": "Equipped hero has +4 Health and -3 Bounty.",
-          "ItemType": "Accessory",
-          "GoldCost": 4,
-          "Abilities": [
-            {
-              "Name": "Revtel Signet Ring : Effect",
-              "Type": "Continuous",
-              "Text": "Equipped hero has +4 Health and -3 Bounty."
-            }
-          ],
-          "Artist": "",
-          "Lore": "",
-          "fileName": "revtel_signet_ring"
-        },
-        {
-          "Id": 177,
-          "Name": "Ring of Tarrasque",
-          "CardType": "Item",
-          "Color": "Yellow",
-          "ItemType": "Accessory",
-          "Text": "Equipped hero has +4 Health and +6 Regeneration.",
-          "Abilities": [
-            {
-              "Name": "Ring of Tarrasque : Effect",
-              "Type": "Continuous",
-              "Text": "Equipped hero has +4 Health and +6 Regeneration."
-            }
-          ],
-          "GoldCost": 12,
-          "Artist": "",
-          "Lore": "",
-          "Rarity": "Common",
-          "fileName": "ring_of_tarrasque"
-        },
-        {
-          "Id": 178,
-          "Name": "Ristul Emblem",
-          "CardType": "Item",
-          "Rarity": "Rare",
-          "Color": "Yellow",
-          "Text": "Equipped Hero has +4 Health and -2 Armor. The unit blocking equipped Hero has -2 Armor.",
-          "ItemType": "Accessory",
-          "GoldCost": 4,
-          "Abilities": [
-            {
-              "Name": "Ristul Emblem : Effect",
-              "Type": "Continuous",
-              "Text": "Equipped Hero has +4 Health and -2 Armor. The unit blocking equipped Hero has -2 Armor."
-            }
-          ],
-          "Artist": "Christine Choi",
-          "Lore": "To those willing to step into a world of Demonic etiquette and politics, the Court of Ristul is willing to offer considerable power... for a price. — Jolixia",
-          "fileName": "ristul_emblem"
-        },
-        {
-          "Id": 179,
-          "Name": "Rix",
-          "CardType": "Hero",
-          "Rarity": "Uncommon",
-          "Color": "Green",
-          "Attack": 3,
-          "Armor": 0,
-          "Health": 7,
-          "Abilities": [
-            {
-              "Name": "Relentless Rebel",
-              "Type": "Continuous",
-              "Text": "Rapid deployment."
-            }
-          ],
-          "Artist": "",
-          "Lore": "",
-          "RelatedIds": [
-            3
-          ],
-          "SignatureCard": 3,
-          "fileName": "rix"
-        },
-        {
-          "Id": 180,
-          "Name": "Rolling Storm",
-          "CardType": "Spell",
-          "Rarity": "Uncommon",
-          "Color": "Blue",
-          "Text": "Deal 2 damage to all towers in all lanes.",
-          "ManaCost": 3,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "rolling_storm"
-        },
-        {
-          "Id": 181,
-          "Name": "Roseleaf Druid",
-          "CardType": "Creep",
-          "Rarity": "Common",
-          "Color": "Green",
-          "ManaCost": 4,
-          "Text": "Your tower has +1 Mana.",
-          "Attack": 2,
-          "Armor": 0,
-          "Health": 6,
-          "Abilities": [
-            {
-              "Name": "Roseleaf Druid : Effect",
-              "Type": "Continuous",
-              "Text": "Your tower has +1 Mana."
-            }
-          ],
-          "Artist": "Alix Branwyn",
-          "Lore": "",
-          "RelatedIds": [
-            229
-          ],
-          "fileName": "roseleaf_druid"
-        },
-        {
-          "Id": 182,
-          "Name": "Roseleaf Rejuvenator",
-          "CardType": "Creep",
-          "Rarity": "Common",
-          "Color": "Green",
-          "ManaCost": 7,
-          "Text": "Play Effect: Heal your tower 7.",
-          "Attack": 7,
-          "Armor": 0,
-          "Health": 7,
-          "Abilities": [
-            {
-              "Name": "Roseleaf Rejuvenator : Effect",
-              "Type": "Play",
-              "Text": "Heal your tower 7."
-            }
-          ],
-          "Artist": "Jakub Kasper",
-          "Lore": "The Treants of Roseleaf and the Vhoul have lived together peacefully for generations. But now interlopers have turned our home into a battlefield. We have made the call to our cousins in the Vale of Augery - the Vhoul must be protected...",
-          "fileName": "roseleaf_rejuvenator"
-        },
-        {
-          "Id": 183,
-          "Name": "Roseleaf Wall",
-          "CardType": "Creep",
-          "Rarity": "Uncommon",
-          "Color": "Green",
-          "ManaCost": 3,
-          "Text": "",
-          "Attack": 0,
-          "Armor": 0,
-          "Health": 8,
-          "Artist": "Pauline Voß",
-          "Lore": "",
-          "Token": false,
-          "RelatedIds": [
-            61
-          ],
-          "SignatureCard": 61,
-          "fileName": "roseleaf_wall"
-        },
-        {
-          "Id": 184,
-          "Name": "Rumusque Blessing",
-          "CardType": "Spell",
-          "Rarity": "Common",
-          "Color": "Green",
-          "Text": "Choose a lane. Modify allies in that lane with +3 Health.",
-          "ManaCost": 3,
-          "Artist": "John Stanko",
-          "Lore": "",
-          "CrossLane": true,
-          "fileName": "rumusque_blessing"
-        },
-        {
-          "Id": 185,
-          "Name": "Satyr Duelist",
-          "CardType": "Creep",
-          "Rarity": "Common",
-          "Color": "Green",
-          "ManaCost": 4,
-          "Text": "Modify Satyr Duelist with +2 Attack after the combat phase.",
-          "Attack": 3,
-          "Armor": 0,
-          "Health": 5,
-          "Abilities": [
-            {
-              "Name": "Satyr Duelist : Effect",
-              "Type": "Continuous",
-              "Text": "Modify Satyr Duelist with +2 Attack after the combat phase."
-            }
-          ],
-          "Artist": "",
-          "Lore": "",
-          "fileName": "satyr_duelist"
-        },
-        {
-          "Id": 186,
-          "Name": "Satyr Magician",
-          "CardType": "Creep",
-          "Rarity": "Uncommon",
-          "Color": "Blue",
-          "ManaCost": 5,
-          "Text": "Active 1: Fully restore your tower's Mana.",
-          "Attack": 2,
-          "Armor": 0,
-          "Health": 5,
-          "Abilities": [
-            {
-              "Name": "Satyr Magician : Effect",
-              "Type": "Active",
-              "Text": "Fully restore your tower's Mana.",
-              "Cooldown": 1
-            }
-          ],
-          "Artist": "Alix Branwin",
-          "Lore": "",
-          "fileName": "satyr_magician"
-        },
-        {
-          "Id": 187,
-          "Name": "Savage Wolf",
-          "CardType": "Creep",
-          "Rarity": "Common",
-          "Color": "Green",
-          "ManaCost": 4,
-          "Attack": 3,
-          "Armor": 0,
-          "Health": 3,
-          "Abilities": [
-            {
-              "Name": "Savage Wolf : Effect",
-              "Type": "Continuous",
-              "Text": "Modify Savage Wolf with +1 Attack and +2 Health after the combat phase."
-            }
-          ],
-          "Artist": "",
-          "Lore": "",
-          "RelatedIds": [
-            129
-          ],
-          "fileName": "savage_wolf"
-        },
-        {
-          "Id": 188,
-          "Name": "Selemene's Favor",
-          "CardType": "Improvement",
-          "Rarity": "Common",
-          "Color": "Green",
-          "Text": "Your tower has +2 Mana.",
-          "ManaCost": 4,
-          "Abilities": [
-            {
-              "Name": "Selemene's Favor : Effect",
-              "Type": "Continuous",
-              "Text": "Your tower has +2 Mana."
-            }
-          ],
-          "Artist": "",
-          "Lore": "",
-          "CrossLane": true,
-          "fileName": "selemenes_favor"
-        },
-        {
-          "Id": 189,
-          "Name": "Self Sabotage",
-          "CardType": "Spell",
-          "Color": "Blue",
-          "Rarity": "Uncommon",
-          "Text": "Modify two random cards in opponent's hand with \"□ Deal 6 damage to a random allied tower in any lane.\"",
-          "Artist": "",
-          "Lore": "",
-          "fileName": "self_sabotage",
-          "ManaCost": 4
-        },
-        {
-          "Id": 190,
-          "Name": "Selfish Cleric",
-          "CardType": "Creep",
-          "Color": "Green",
-          "Rarity": "Common",
-          "Text": "Fully heal Selfish Cleric after the combat phase.",
-          "Attack": 4,
-          "Armor": 0,
-          "Health": 4,
-          "Abilities": [
-            {
-              "Name": "Selfish Cleric : Effect",
-              "Type": "Continuous",
-              "Text": "Fully heal Selfish Cleric after the combat phase."
-            }
-          ],
-          "ManaCost": 4,
-          "Artist": "John Stanko",
-          "Lore": "By helping myself I'm helping all of us!",
-          "fileName": "selfish_cleric"
-        },
-        {
-          "Id": 191,
-          "Name": "Seraphim Shield",
-          "CardType": "Item",
-          "Rarity": "Rare",
-          "Color": "Yellow",
-          "Text": "Equipped hero has +2 Armor. All units have -2 Attack.",
-          "ItemType": "Armor",
-          "GoldCost": 13,
-          "Abilities": [
-            {
-              "Name": "Seraphim Shield : Effect",
-              "Type": "Continuous",
-              "Text": "Equipped hero has +2 Armor. All units have -2 Attack."
-            }
-          ],
-          "Artist": "Magali Villeneuve",
-          "Lore": "",
-          "fileName": "seraphim_shield"
-        },
-        {
-          "Id": 192,
-          "Name": "Shield of Basilius",
-          "CardType": "Item",
-          "Rarity": "Common",
-          "Color": "Yellow",
-          "Text": "Equipped Hero has +2 Armor. Equipped Hero's allied neighbors have +1 Armor.",
-          "ItemType": "Armor",
-          "GoldCost": 8,
-          "Abilities": [
-            {
-              "Name": "Shield of Basilius : Effect",
-              "Type": "Continuous",
-              "Text": "Equipped Hero has +2 Armor. Equipped Hero's allied neighbors have +1 Armor."
-            }
-          ],
-          "Artist": "",
-          "Lore": "",
-          "fileName": "shield_of_basilius"
-        },
-        {
-          "Id": 193,
-          "Name": "Shop Deed",
-          "CardType": "Item",
-          "Rarity": "Rare",
-          "Color": "Yellow",
-          "Text": "Each item in your Secret Shop costs X less gold, where X is equal to its base cost.",
-          "ItemType": "Consumable",
-          "GoldCost": 22,
-          "Abilities": [
-            {
-              "Name": "Shop Deed : Effect",
-              "Type": "Continuous",
-              "Text": "Each item in your Secret Shop costs X less gold, where X is equal to its base cost."
-            }
-          ],
-          "Artist": "",
-          "Lore": "",
-          "fileName": "shop_deed"
-        },
-        {
-          "Id": 194,
-          "Name": "Short Sword",
-          "CardType": "Item",
-          "Rarity": "Basic",
-          "Color": "Yellow",
-          "Text": "Equipped Hero has +2 Attack.",
-          "ItemType": "Weapon",
-          "GoldCost": 3,
-          "Abilities": [
-            {
-              "Name": "Short Sword : Effect",
-              "Type": "Continuous",
-              "Text": "Equipped Hero has +2 Attack."
-            }
-          ],
-          "Artist": "",
-          "Lore": "",
-          "fileName": "short_sword"
-        },
-        {
-          "Id": 195,
-          "Name": "Sister of the Veil",
-          "CardType": "Creep",
-          "Rarity": "Uncommon",
-          "Color": "Black",
-          "ManaCost": 5,
-          "Text": "Active 1: Choose a combat target for Sister of the Veil.",
-          "Attack": 4,
-          "Armor": 0,
-          "Health": 5,
-          "Abilities": [
-            {
-              "Name": "Sister of the Veil : Effect",
-              "Type": "Active",
-              "Text": "Choose a combat target for Sister of the Veil.",
-              "Cooldown": 1
-            }
-          ],
-          "Artist": "Anthony Palumbo",
-          "Lore": "",
-          "fileName": "sister_of_the_veil"
-        },
-        {
-          "Id": 196,
-          "Name": "Skywrath Mage",
-          "CardType": "Hero",
-          "Rarity": "Common",
-          "Color": "Blue",
-          "Attack": 3,
-          "Armor": 0,
-          "Health": 6,
-          "Abilities": [
-            {
-              "Name": "Concussive Shot",
-              "Type": "Active",
-              "Text": "Give a hero and its allied neighbors -2 armor this round.",
-              "Cooldown": 2
-            }
-          ],
-          "Artist": "Greg Opalinski",
-          "Lore": "",
-          "RelatedIds": [
-            136
-          ],
-          "SignatureCard": 136,
-          "fileName": "skywrath_mage"
-        },
-        {
-          "Id": 197,
-          "Name": "Slay",
-          "CardType": "Spell",
-          "Color": "Black",
-          "Rarity": "Common",
-          "Text": "Condemn a creep.",
-          "Artist": "",
-          "Lore": "",
-          "fileName": "slay",
-          "ManaCost": 3
-        },
-        {
-          "Id": 198,
-          "Name": "Smash Their Defenses!",
-          "CardType": "Spell",
-          "Rarity": "Uncommon",
-          "Color": "Red",
-          "Text": "Condemn an improvement. Draw a card.",
-          "ManaCost": 3,
-          "Artist": "JiHun Lee",
-          "Lore": "",
-          "fileName": "smash_their_defenses"
-        },
-        {
-          "Id": 199,
-          "Name": "Smeevil Blacksmith",
-          "CardType": "Creep",
-          "Rarity": "Uncommon",
-          "Color": "Green",
-          "ManaCost": 4,
-          "Text": "Play Effect: Modify a random allied hero with +1 Armor.",
-          "Attack": 2,
-          "Armor": 0,
-          "Health": 2,
-          "Abilities": [
-            {
-              "Name": "Smeevil Blacksmith : Effect",
-              "Type": "Play",
-              "Text": "Modify a random allied hero with +1 Armor."
-            }
-          ],
-          "Artist": "",
-          "Lore": "",
-          "fileName": "smeevil_blacksmith"
-        },
-        {
-          "Id": 200,
-          "Name": "Sorla Khan",
-          "CardType": "Hero",
-          "Rarity": "Uncommon",
-          "Color": "Black",
-          "Attack": 8,
-          "Armor": 0,
-          "Health": 6,
-          "Abilities": [
-            {
-              "Name": "Warmonger",
-              "Type": "Continuous",
-              "Text": "Sorla Khan deals +4 damage when attacking a tower."
-            }
-          ],
-          "Artist": "",
-          "Lore": "",
-          "RelatedIds": [
-            14
-          ],
-          "SignatureCard": 14,
-          "fileName": "sorla_khan"
-        },
-        {
-          "Id": 201,
-          "Name": "Soul of Spring",
-          "CardType": "Spell",
-          "Color": "Green",
-          "Rarity": "Rare",
-          "Text": "Modify a hero with \"After you play a green card, give this hero and its allied neighbors +4 Regeneration this round.\"",
-          "Artist": "",
-          "Lore": "",
-          "fileName": "soul_of_spring",
-          "ManaCost": 4
-        },
-        {
-          "Id": 202,
-          "Name": "Sow Venom",
-          "CardType": "Spell",
-          "Rarity": "Common",
-          "Color": "Blue",
-          "Text": "Summon two Plague Wards.",
-          "ManaCost": 4,
-          "Artist": "",
-          "Lore": "",
-          "RelatedIds": [
-            235
-          ],
-          "IsSignatureCard": true,
-          "fileName": "sow_venom"
-        },
-        {
-          "Id": 203,
-          "Name": "Spot Weakness",
-          "CardType": "Spell",
-          "Rarity": "Uncommon",
-          "Color": "Red",
-          "Text": "Give a hero and its allied neighbors Pierce this round. Draw a card.",
-          "ManaCost": 3,
-          "Artist": "Lius Lasahido",
-          "Lore": "",
-          "fileName": "spot_weakness"
-        },
-        {
-          "Id": 204,
-          "Name": "Spring the Trap",
-          "CardType": "Spell",
-          "Rarity": "Rare",
-          "Color": "Red",
-          "Text": "Summon two Centaur Hunters into any lane.",
-          "ManaCost": 7,
-          "Artist": "James Paick",
-          "Lore": "",
-          "CrossLane": true,
-          "fileName": "spring_the_trap"
-        },
-        {
-          "Id": 205,
-          "Name": "Stars Align",
-          "CardType": "Spell",
-          "Rarity": "Uncommon",
-          "Color": "Green",
-          "Text": "Give your tower +3 Mana this round.",
-          "ManaCost": 1,
-          "Artist": "John Stanko",
-          "Lore": "",
-          "fileName": "stars_align"
-        },
-        {
-          "Id": 206,
-          "Name": "Steal Strength",
-          "CardType": "Spell",
-          "Rarity": "Uncommon",
-          "Color": "Green",
-          "Text": "Give a unit -4 Attack this round and give another unit +4 Attack this round.",
-          "ManaCost": 4,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "steal_strength"
-        },
-        {
-          "Id": 207,
-          "Name": "Steam Cannon",
-          "CardType": "Improvement",
-          "Rarity": "Rare",
-          "Color": "Black",
-          "Text": "Active 1: Deal 4 piercing damage to a unit in any lane.",
-          "ManaCost": 7,
-          "Abilities": [
-            {
-              "Name": "Steam Cannon : Effect",
-              "Type": "Active",
-              "Text": "Deal 4 piercing damage to a unit in any lane.",
-              "Cooldown": 1
-            }
-          ],
-          "Artist": "",
-          "Lore": "",
-          "CrossLane": true,
-          "fileName": "steam_cannon"
-        },
-        {
-          "Id": 208,
-          "Name": "Stonehall Cloak",
-          "CardType": "Item",
-          "ItemType": "Accessory",
-          "Color": "Yellow",
-          "Rarity": "Common",
-          "Text": "Equipped hero has +4 Health. Modify Stonehall Cloak with \"Equipped hero has +2 Health\" after the combat phase.",
-          "Abilities": [
-            {
-              "Name": "Stonehall Cloak : Effect",
-              "Type": "Continuous",
-              "Text": "Equipped hero has +4 Health."
-            },
-            {
-              "Name": "Stonehall Cloak : Effect",
-              "Type": "Continuous",
-              "Text": "Modify Stonehall Cloak with \"Equipped hero has +2 Health\" after the combat phase."
-            }
-          ],
-          "GoldCost": 5,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "stonehall_cloak"
-        },
-        {
-          "Id": 209,
-          "Name": "Stonehall Elite",
-          "CardType": "Creep",
-          "Color": "Red",
-          "Rarity": "Uncommon",
-          "Text": "Modify Stonehall Elite with +2 Attack and +2 Health after a unit blocking it dies.",
-          "Abilities": [
-            {
-              "Name": "Stonehall Elite : Effect",
-              "Type": "Continuous",
-              "Text": "Modify Stonehall Elite with +2 Attack and +2 Health after a unit blocking it dies."
-            }
-          ],
-          "Attack": 4,
-          "Armor": 2,
-          "Health": 2,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "stonehall_elite",
-          "ManaCost": 4
-        },
-        {
-          "Id": 210,
-          "Name": "Stonehall Plate",
-          "CardType": "Item",
-          "Rarity": "Common",
-          "Color": "Yellow",
-          "Text": "Equipped hero has +1 Armor. Modify Stonehall Plate with \"Equipped hero has +1 Armor\" after the combat phase.",
-          "ItemType": "Armor",
-          "GoldCost": 6,
-          "Abilities": [
-            {
-              "Name": "Stonehall Plate : Effect",
-              "Type": "Continuous",
-              "Text": "Equipped hero has +1 Armor. Modify Stonehall Plate with \"Equipped hero has +1 Armor\" after the combat phase."
-            }
-          ],
-          "Artist": "",
-          "Lore": "",
-          "fileName": "stonehall_plate"
-        },
-        {
-          "Id": 211,
-          "Name": "Strafing Run",
-          "CardType": "Spell",
-          "Rarity": "Common",
-          "Color": "Blue",
-          "Text": "Deal 2 damage to each enemy creep.",
-          "ManaCost": 1,
-          "Artist": "Mike Lim",
-          "Lore": "",
-          "fileName": "strafing_run"
-        },
-        {
-          "Id": 212,
-          "Name": "Sucker Punch",
-          "CardType": "Spell",
-          "Rarity": "Common",
-          "Color": "Red",
-          "Text": "Stun a unit blocking an allied red hero this round. Deal 2 damage to that unit.",
-          "ManaCost": 4,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "sucker_punch"
-        },
-        {
           "Id": 213,
-          "Name": "Sven",
-          "RelatedIds": [
-            91
-          ],
-          "CardType": "Hero",
-          "Color": "Red",
-          "Rarity": "Common",
-          "Attack": 5,
-          "Armor": 0,
-          "Health": 11,
-          "Abilities": [
-            {
-              "Name": "Great Cleave",
-              "Type": "Continuous",
-              "Text": "Sven has +X Cleave where X is equal to half its Attack."
-            }
-          ],
-          "SignatureCard": 91,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "sven"
-        },
-        {
-          "Id": 214,
-          "Name": "Temple of War",
-          "CardType": "Improvement",
-          "Rarity": "Uncommon",
-          "Color": "Red",
-          "Text": "All equipped heroes have +2 Attack and +1 Armor.",
-          "ManaCost": 3,
-          "Abilities": [
-            {
-              "Name": "Temple of War : Effect",
-              "Type": "Continuous",
-              "Text": "All equipped heroes have +2 Attack and +1 Armor."
-            }
-          ],
-          "Artist": "Titus Lunter",
-          "Lore": "\"Our god is strange to the Vhoul. I understand. Once She was strange to me. But in time they will learn to love her as we do.\" — Legion Commander on the re-purposing of a Vhoul place of worship.",
-          "CrossLane": true,
-          "fileName": "temple_of_war"
-        },
-        {
-          "Id": 215,
-          "Name": "The Cover of Night",
-          "CardType": "Spell",
-          "Rarity": "Rare",
-          "Color": "Black",
-          "Text": "Move an allied black hero to another lane. Give that hero +4 Attack and +7 Siege until end of its next combat phase.",
-          "ManaCost": 7,
-          "Artist": "Michael Kommark",
-          "Lore": "",
-          "CrossLane": true,
-          "fileName": "the_cover_of_night"
-        },
-        {
-          "Id": 216,
-          "Name": "The Oath",
-          "CardType": "Improvement",
-          "Rarity": "Rare",
-          "Color": "Black",
-          "Text": "You can not play spells or creep while this is the active lane. If there is an allied black hero in this lane, allies have +4 Attack.",
-          "ManaCost": 3,
-          "Abilities": [
-            {
-              "Name": "The Oath : Effect",
-              "Type": "Continuous",
-              "Text": "You can not play spells or creep while this is the active lane. If there is an allied black hero in this lane, allies have +4 Attack."
-            }
-          ],
-          "Artist": "",
-          "Lore": "",
-          "CrossLane": true,
-          "fileName": "the_oath"
-        },
-        {
-          "Id": 217,
-          "Name": "The Omexe Arena",
-          "CardType": "Improvement",
-          "Color": "Red",
-          "Rarity": "Uncommon",
-          "Text": "Draw a card after a hero dies.",
-          "Abilities": [
-            {
-              "Name": "The Omexe Aren : Effect",
-              "Type": "Reactive",
-              "Text": "Draw a card after a hero dies."
-            }
-          ],
-          "CrossLane": true,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "the_omexe_arena",
-          "ManaCost": 6
-        },
-        {
-          "Id": 218,
-          "Name": "The Tyler Estate",
-          "CardType": "Improvement",
-          "Rarity": "Uncommon",
-          "Color": "Black",
-          "Text": "Both towers have -2 Mana.",
-          "ManaCost": 4,
-          "Abilities": [
-            {
-              "Name": "The Tyler Estate : Effect",
-              "Type": "Continuous",
-              "Text": "Both towers have -2 Mana."
-            }
-          ],
-          "Artist": "Dimitar Marinski",
-          "Lore": "",
-          "fileName": "the_tyler_estate"
-        },
-        {
-          "Id": 219,
-          "Name": "Thundergod's Wrath",
-          "CardType": "Spell",
-          "Rarity": "Common",
-          "Color": "Blue",
-          "Text": "Deal 4 piercing damage to each enemy hero in all lanes.",
-          "ManaCost": 7,
-          "Artist": "",
-          "Lore": "",
-          "RelatedIds": [
-            248
-          ],
-          "IsSignatureCard": true,
-          "fileName": "thundergods_wrath"
-        },
-        {
-          "Id": 220,
-          "Name": "Thunderhide Alpha",
-          "CardType": "Creep",
-          "Rarity": "Rare",
-          "Color": "Green",
-          "ManaCost": 9,
-          "Attack": 25,
-          "Armor": 0,
-          "Health": 25,
-          "Artist": "Vance Kovacs",
-          "Lore": "",
-          "fileName": "thunderhide_alpha"
-        },
-        {
-          "Id": 221,
-          "Name": "Thunderhide Pack",
-          "CardType": "Creep",
-          "Rarity": "Common",
-          "Color": "Green",
-          "ManaCost": 8,
-          "Text": "Siege 6.",
-          "Attack": 14,
-          "Armor": 0,
-          "Health": 14,
-          "Abilities": [
-            {
-              "Name": "Thunderhide Pack : Effect",
-              "Type": "Continuous",
-              "Text": "Siege 6."
-            }
-          ],
-          "Artist": "",
-          "Lore": "",
-          "fileName": "thunderhide_pack"
-        },
-        {
-          "Id": 222,
-          "Name": "Thunderstorm",
-          "CardType": "Spell",
-          "Rarity": "Uncommon",
-          "Color": "Blue",
-          "ManaCost": 6,
-          "Text": "Deal 4 damage to each enemy.",
-          "Artist": "",
-          "Lore": "",
-          "fileName": "thunderstorm"
-        },
-        {
-          "Id": 223,
-          "Name": "Tidehunter",
-          "CardType": "Hero",
-          "Rarity": "Uncommon",
-          "Color": "Red",
-          "Attack": 2,
-          "Armor": 1,
-          "Health": 18,
-          "Abilities": [
-            {
-              "Name": "Ravage",
-              "Type": "Active",
-              "Text": "Stun Tidehunter's enemy neighbors this round and each other enemy has a 50% chance of being stunned this round.",
-              "Cooldown": 4
-            }
-          ],
-          "Artist": "Mike Lim",
-          "Lore": "",
-          "RelatedIds": [
-            118
-          ],
-          "SignatureCard": 118,
-          "fileName": "tidehunter"
-        },
-        {
-          "Id": 224,
-          "RelatedIds": [
-            243
-          ],
-          "Name": "Timbersaw",
-          "CardType": "Hero",
-          "Color": "Red",
-          "Rarity": "Uncommon",
-          "Attack": 4,
-          "Armor": 0,
-          "Health": 11,
-          "Abilities": [
-            {
-              "Name": "Reactive Armor",
-              "Type": "Continuous",
-              "Text": "Timbersaw has +1 Armor for each of its attackers."
-            }
-          ],
-          "SignatureCard": 243,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "timbersaw"
-        },
-        {
-          "Id": 225,
-          "Name": "Time of Triumph",
-          "CardType": "Spell",
-          "Rarity": "Rare",
-          "Color": "Red",
-          "Text": "Modify allied heroes with +4 Attack, +4 Armor, +4 Health, +4 Cleave, +4 Retaliate, and +4 Siege.",
-          "ManaCost": 8,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "time_of_triumph"
-        },
-        {
-          "Id": 226,
-          "Name": "Tower Barrage",
-          "CardType": "Spell",
-          "Rarity": "Common",
-          "Color": "Blue",
-          "Text": "Deal 2 damage to each enemy.",
-          "ManaCost": 3,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "tower_barrage"
-        },
-        {
-          "Id": 227,
-          "Name": "Track",
-          "CardType": "Spell",
-          "Rarity": "Common",
-          "Color": "Black",
-          "Text": "Give a hero +10 Bounty until it dies.",
-          "ManaCost": 3,
-          "Artist": "Erik M. Gist",
-          "Lore": "",
-          "RelatedIds": [
-            32
-          ],
-          "IsSignatureCard": true,
-          "fileName": "track"
-        },
-        {
-          "Id": 228,
-          "Name": "Traveler's Cloak",
-          "CardType": "Item",
-          "Rarity": "Basic",
-          "Color": "Yellow",
-          "Text": "Equipped Hero has +4 Health.",
-          "ItemType": "Accessory",
-          "GoldCost": 3,
-          "Abilities": [
-            {
-              "Name": "Traveler's Cloak : Effect",
-              "Type": "Continuous",
-              "Text": "Equipped Hero has +4 Health."
-            }
-          ],
-          "Artist": "",
-          "Lore": "",
-          "fileName": "travelers_cloak"
-        },
-        {
-          "Id": 229,
-          "Name": "Treant Protector",
-          "CardType": "Hero",
-          "Rarity": "Common",
-          "Color": "Green",
-          "Attack": 4,
-          "Armor": 0,
-          "Health": 10,
-          "Abilities": [
-            {
-              "Name": "Branches of Iron",
-              "Type": "Continuous",
-              "Text": "Treant Protector's allied neighbors have +2 Armor."
-            }
-          ],
-          "Artist": "Alix Branwyn",
-          "Lore": "My feelings on the war in Roseleaf are... complicated. Neither the Bronze Legion nor the Red Mist are threats to my people, and yet my cousins willingly intercede on the Vhoul's behalf. Their fondness for such frail creatures is strange to me.",
-          "RelatedIds": [
-            181
-          ],
-          "fileName": "treant_protector"
-        },
-        {
-          "Id": 230,
-          "Name": "Tresdin's Standards",
-          "CardType": "Spell",
-          "Color": "Red",
-          "Rarity": "Rare",
-          "Text": "Modify a red hero with \"After you play a red card, give this hero and its allied neighbors +1 Attack and +1 Armor this round.\"",
-          "Artist": "",
-          "Lore": "",
-          "fileName": "tresdins_standards",
-          "ManaCost": 4
-        },
-        {
-          "Id": 231,
-          "Name": "Troll Soothsayer",
-          "CardType": "Creep",
-          "Rarity": "Uncommon",
-          "Color": "Blue",
-          "ManaCost": 6,
-          "Text": "Draw an extra card each round.",
-          "Attack": 2,
-          "Armor": 0,
-          "Health": 8,
-          "Abilities": [
-            {
-              "Name": "Troll Soothsayer : Effect",
-              "Type": "Continuous",
-              "Text": "Draw an extra card each round."
-            }
-          ],
-          "Artist": "",
-          "Lore": "",
-          "fileName": "troll_soothsayer"
-        },
-        {
-          "Id": 232,
-          "Name": "Unearthed Secrets",
-          "CardType": "Improvement",
-          "Rarity": "Rare",
-          "Color": "Green",
-          "Text": "Draw a card after the combat phase if your tower was dealt damage this round.",
-          "ManaCost": 3,
-          "Abilities": [
-            {
-              "Name": "Unearthed Secrets : Effect",
-              "Type": "Continuous",
-              "Text": "Draw a card after the combat phase if your tower was dealt damage this round."
-            }
-          ],
-          "Artist": "David Palumbo",
-          "Lore": "",
-          "CrossLane": true,
-          "fileName": "unearthed_secrets"
-        },
-        {
-          "Id": 233,
-          "Name": "Untested Grunt",
-          "CardType": "Creep",
-          "Rarity": "Common",
-          "Color": "Black",
-          "ManaCost": 2,
-          "Attack": 4,
-          "Armor": 0,
-          "Health": 2,
-          "Artist": "Jason Kang",
-          "Lore": "",
-          "fileName": "untested_grunt"
-        },
-        {
-          "Id": 234,
-          "RelatedIds": [
-            79
-          ],
-          "Name": "Ursa",
-          "CardType": "Hero",
-          "Color": "Red",
-          "Rarity": "Common",
-          "Attack": 7,
-          "Armor": 0,
-          "Health": 10,
-          "Abilities": [
-            {
-              "Name": "Fury Swipes",
-              "Type": "Reactive",
-              "Text": "When Ursa deals battle damage to a unit, modify that unit with -1 Armor."
-            }
-          ],
-          "SignatureCard": 79,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "ursa"
-        },
-        {
-          "Id": 235,
-          "Name": "Venomancer",
-          "CardType": "Hero",
-          "Rarity": "Common",
-          "Color": "Blue",
-          "Attack": 2,
-          "Armor": 0,
-          "Health": 6,
-          "Abilities": [
-            {
-              "Name": "Venomous Nature",
-              "Type": "Continuous",
-              "Text": "Summon a Plague Ward into Venomancer's lane each deployment phase."
-            }
-          ],
-          "Artist": "",
-          "Lore": "",
-          "RelatedIds": [
-            202,
-            156
-          ],
-          "SignatureCard": 202,
-          "fileName": "venomancer"
-        },
-        {
-          "Id": 236,
-          "Name": "Ventriloquy",
-          "CardType": "Spell",
-          "Rarity": "Common",
-          "Color": "Blue",
-          "Text": "Choose a unit. It taunts.",
-          "ManaCost": 1,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "ventriloquy"
-        },
-        {
-          "Id": 237,
-          "Name": "Verdant Refuge",
-          "CardType": "Improvement",
-          "Rarity": "Common",
-          "Color": "Green",
-          "Text": "Allies have +1 Armor.",
-          "ManaCost": 5,
-          "Abilities": [
-            {
-              "Name": "Verdant Refuge : Effect",
-              "Type": "Continuous",
-              "Text": "Allies have +1 Armor."
-            }
-          ],
-          "Artist": "Chris Rallis",
-          "Lore": "",
-          "RelatedIds": [
-            77
-          ],
-          "CrossLane": true,
-          "IsSignatureCard": true,
-          "fileName": "verdant_refuge"
-        },
-        {
-          "Id": 238,
-          "Name": "Vhoul Martyr",
-          "CardType": "Creep",
-          "Rarity": "Common",
-          "Color": "Green",
-          "ManaCost": 2,
-          "Text": "Death Effect: Modify allies with +1 Attack and +1 Health.",
-          "Attack": 2,
-          "Armor": 0,
-          "Health": 2,
-          "Abilities": [
-            {
-              "Name": "Vhoul Martyr : Effect",
-              "Type": "Death",
-              "Text": "Modify allies with +1 Attack and +1 Health."
-            }
-          ],
-          "Artist": "",
-          "Lore": "I knew this day would come the moment I agreed to host Rix's gatherings in my wine cellar... [...] I know it's only a matter of time before Tresdin has me executed, and I won't lie. I'm scared. But we all have our parts to play. — Papa Samet, Vhoul Martyr",
-          "fileName": "vhoul_martyr"
-        },
-        {
-          "Id": 239,
-          "Name": "Viper",
-          "CardType": "Hero",
-          "Rarity": "Uncommon",
-          "Color": "Green",
-          "Attack": 4,
-          "Armor": 0,
-          "Health": 10,
-          "Abilities": [
-            {
-              "Name": "Corrosive Skin",
-              "Type": "Reactive",
-              "Text": "When a unit deals battle damage to Viper, modify that unit with -1 Attack."
-            }
-          ],
-          "Artist": "Lars Grant-West",
-          "Lore": "",
-          "RelatedIds": [
-            240
-          ],
-          "SignatureCard": 240,
-          "fileName": "viper"
-        },
-        {
-          "Id": 240,
-          "Name": "Viper Strike",
-          "CardType": "Spell",
-          "Rarity": "Uncommon",
-          "Color": "Green",
-          "Text": "Give a unit \"Deal 2 piercing damage to this unit before the action phase\" until it dies.",
-          "ManaCost": 3,
-          "Artist": "Lars Grant-West",
-          "Lore": "",
-          "RelatedIds": [
-            239
-          ],
-          "IsSignatureCard": true,
-          "fileName": "viper_strike"
-        },
-        {
-          "Id": 241,
-          "Name": "Viscous Nasal Goo",
-          "CardType": "Spell",
-          "Rarity": "Common",
-          "Color": "Red",
-          "Text": "Modify a unit with -2 Armor.",
-          "ManaCost": 4,
-          "Artist": "",
-          "Lore": "",
-          "RelatedIds": [
-            33
-          ],
-          "IsSignatureCard": true,
-          "fileName": "viscous_nasal_goo"
-        },
-        {
-          "Id": 242,
-          "Name": "Watchtower",
-          "CardType": "Improvement",
-          "Color": "Blue",
-          "Rarity": "Rare",
-          "Text": "Whenever an enemy improvement enters this lane, draw a card.",
-          "Abilities": [
-            {
-              "Name": "Watchtower : Effect",
-              "Type": "Reactive",
-              "Text": "Whenever an enemy improvement enters this lane, draw a card."
-            }
-          ],
-          "CrossLane": true,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "watchtower",
-          "ManaCost": 1
-        },
-        {
-          "Id": 243,
-          "RelatedIds": [
-            224
-          ],
-          "Name": "Whirling Death",
-          "CardType": "Spell",
-          "Color": "Red",
-          "Rarity": "Uncommon",
-          "Text": "Choose an allied red hero. Deal 2 damage to its enemy neighbors and give them -2 Attack this round.",
-          "IsSignatureCard": true,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "whirling_death",
-          "ManaCost": 2
-        },
-        {
-          "Id": 244,
-          "Name": "Whispers of Madness",
-          "CardType": "Spell",
-          "Rarity": "Rare",
-          "Color": "Blue",
-          "ManaCost": 2,
-          "Text": "Stun an enemy this round and stun allied heroes in all lanes this round.",
-          "Artist": "",
-          "Lore": "",
-          "fileName": "whispers_of_madness"
-        },
-        {
-          "Id": 245,
-          "Name": "Winter Wyvern",
-          "CardType": "Hero",
-          "Rarity": "Uncommon",
-          "Color": "Black",
-          "Attack": 6,
-          "Armor": 0,
-          "Health": 6,
-          "Abilities": [
-            {
-              "Name": "Arctic Burn",
-              "Type": "Active",
-              "Text": "Move Winter Wyvern to an empty combat position and give it +4 Attack this round.",
-              "Cooldown": 2
-            }
-          ],
-          "Artist": "Sung Choi",
-          "Lore": "",
-          "RelatedIds": [
-            246
-          ],
-          "SignatureCard": 246,
-          "fileName": "winter_wyvern"
-        },
-        {
-          "Id": 246,
-          "Name": "Winter's Curse",
-          "CardType": "Spell",
-          "Rarity": "Uncommon",
-          "Color": "Black",
-          "Text": "Disarm a unit until end of round. That unit's allied neighbors battle it.",
-          "ManaCost": 6,
-          "Artist": "",
-          "Lore": "",
-          "RelatedIds": [
-            245
-          ],
-          "IsSignatureCard": true,
-          "fileName": "winters_curse"
-        },
-        {
-          "Id": 247,
-          "Name": "Wrath of Gold",
-          "CardType": "Spell",
-          "Rarity": "Rare",
-          "Color": "Blue",
-          "Text": "Spend all your gold. Repeat one time for each gold spent: Deal 4 damage to a random ally or enemy.",
-          "ManaCost": 3,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "wrath_of_gold"
-        },
-        {
-          "Id": 248,
-          "Name": "Zeus",
-          "CardType": "Hero",
-          "Rarity": "Common",
-          "Color": "Blue",
-          "Attack": 3,
-          "Armor": 0,
-          "Health": 7,
-          "Abilities": [
-            {
-              "Name": "Static Field",
-              "Type": "Reactive",
-              "Text": "Deal 1 piercing damage to Zeus's enemy neighbors after you play a blue spell."
-            }
-          ],
-          "Artist": "",
-          "Lore": "",
-          "RelatedIds": [
-            219
-          ],
-          "SignatureCard": 219,
-          "fileName": "zeus"
-        },
-        {
-          "Id": 249,
-          "Name": "Zombie",
-          "CardType": "Creep",
-          "Rarity": "Basic",
-          "Color": "Black",
-          "ManaCost": 3,
-          "Attack": 2,
-          "Armor": 0,
-          "Health": 2,
-          "Token": true,
-          "Artist": "Forrest Imel",
-          "Lore": "",
-          "fileName": "zombie"
-        },
-        {
-          "Id": 250,
-          "Name": "Melee Creep Dire",
-          "CardType": "Creep",
-          "Rarity": "Basic",
-          "Color": "",
-          "Artist": "",
-          "Lore": "",
-          "fileName": "melee_creep_dire"
-        },
-        {
-          "Id": 251,
-          "Name": "Melee Creep Radiant",
-          "CardType": "Creep",
-          "Rarity": "Basic",
-          "Color": "",
-          "Artist": "",
-          "Lore": "",
-          "fileName": "melee_creep_radiant"
-        },
-        {
-          "Id": 252,
-          "Name": "Sniper",
-          "CardType": "Hero",
-          "Rarity": "Uncommon",
-          "Color": "Black",
-          "Attack" : 5,
-          "Armor" : 0,
-          "Health" : 6,
-          "Text": "Active 3: Deal 5 damage to a unit.",
-          "Abilities": [
-            {
-              "Name": "Headshot",
-              "Type": "Active",
-              "Text": "Deal 5 damage to a unit.",
-              "Cooldown" : 3
-            }
-          ],
-          "RelatedIds": [
-            253
-          ],
-          "SignatureCard" : 253,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "sniper"
-        },
-        {
-          "Id": 253,
-          "Name": "Assassinate",
-          "CardType": "Spell",
-          "Rarity": "Uncommon",
-          "Color": "Black",
-          "Text": "Deal 10 piercing damage to a unit in any lane.",
-          "ManaCost": 7,
-          "CrossLane": true,
-          "Artist": "",
-          "Lore": "",
-          "RelatedIds": [
-            252
-          ],
-          "IsSignatureCard": true,
-          "fileName": "assassinate"
-        },
-        {
-          "Id": 254,
-          "Name": "Assassin's Veil",
-          "CardType": "Item",
-          "Rarity": "Uncommon",
-          "Color": "Yellow",
-          "Text": "Active 2: Choose a combat target for equipped hero.",
-          "ItemType": "Accessory",
-          "Abilities": [
-            {
-              "Name": "Assassin's Veil : Effect",
-              "Type": "Active",
-              "Text": "Choose a combat target for equipped hero.",
-              "Cooldown": 2
-            }
-          ],
-          "GoldCost": 6,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "assassin-s_veil"
-        },
-        {
-          "Id": 255,
-          "Name": "Outworld Devourer",
-          "CardType": "Hero",
-          "Rarity": "Uncommon",
-          "Color": "Blue",
-          "Attack": 4,
-          "Armor": 0,
-          "Health": 6,
-          "Text": "After you play a blue card, there is a 50% chance to restore 2 Mana.",
-          "Abilities": [
-            {
-              "Name": "Essence Aura",
-              "Type": "Reactive",
-              "Text": "After you play a blue card, there is a 50% chance to restore 2 Mana.",
-              "Cooldown": 3
-            }
-          ],
-          "RelatedIds": [
-            256
-          ],
-          "SignatureCard": 256,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "outworld_devourer"
-        },
-        {
-          "Id": 256,
-          "Name": "Astral Imprisionment",
-          "CardType": "Spell",
-          "Rarity": "Uncommon",
-          "Color": "Blue",
-          "Text": "Stun a unit this round. Give that unit Damage Immunity this round.",
-          "ManaCost": 4,
-          "Artist": "",
-          "Lore": "",
-          "RelatedIds": [
-            255
-          ],
-          "IsSignatureCard": true,
-          "fileName": "astral_imprisionment"
-        },
-        {
-          "Id": 257,
-          "Name": "At Any Cost",
-          "CardType": "Spell",
-          "Rarity": "Rare",
-          "Color": "Blue",
-          "Text": "Deal 6 damage to every unit.",
-          "ManaCost": 3,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "at_any_cost"
-        },
-        {
-          "Id": 258,
-          "Name": "Broadsword",
-          "CardType": "Item",
-          "Rarity": "Common",
-          "Color": "Yellow",
-          "ItemType" : "Weapon",
-          "Text": "Equipped hero has +4 Attack.",
-          "Abilities" : [
-            {
-            "Name": "Broadsword : Effect",
-            "Type": "Continuous",
-            "Text": "Equipped hero has +4 Attack."
-            }
-          ],
-          "GoldCost": 7,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "broadsword"
-        },
-        {
-          "Id": 259,
-          "Name": "Buying Time",
-          "CardType": "Spell",
-          "Rarity": "Common",
-          "Color": "Blue",
-          "Text": "Give two random cards in opponent's hands +2 Lock.",
-          "ManaCost": 3,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "buying_time"
-        },
-        {
-          "Id": 260,
-          "Name": "Claymore",
-          "CardType": "Item",
-          "Rarity": "Uncommon",
-          "Color": "Yellow",
-          "ItemType": "Weapon",
-          "Text": "Equipped hero has +8 Attack.",
-          "Abilities" : [
-            {
-            "Name": "Claymore : Effect",
-            "Type": "Continuous",
-            "Text": "Equipped hero has +8 Attack."
-            }
-          ],
-          "GoldCost": 15,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "claymore"
-        },
-        {
-          "Id": 261,
-          "Name": "Cloak of Endless Carnage",
-          "CardType": "Item",
-          "Rarity": "Rare",
-          "Color": "Yellow",
-          "ItemType": "Accesory",
-          "Text": "Equipped hero has +8 Health. Draw a card after an allied neighbor of equipped hero dies.",
-          "Abilities": [
-            {
-              "Name": "Cloak of Endless Carnage : Effect",
-              "Type": "Continuous",
-              "Text": "Equipped hero has +8 Health."
-            },
-            {
-              "Name": "Cloak of Endless Carnage : Effect",
-              "Type": "Reactive",
-              "Text": "Draw a card after an allied neighbor of equipped hero dies."
-            }
-          ],
-          "GoldCost": 13,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "cloak_of_endless_carnage"
-        },
-        {
-          "Id": 262,
-          "Name": "Collateral Damage",
-          "CardType": "Spell",
-          "Rarity": "Common",
-          "Color": "Black",
-          "Text": "Modify a black hero with +3 Siege.",
-          "ManaCost": 4,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "collateral_damage"
-        },
-        {
-          "Id": 263,
-          "Name": "Combat Training",
-          "CardType": "Spell",
-          "Rarity": "Common",
-          "Color": "Red",
-          "Text": "Modify a hero with +2 Attack.",
-          "ManaCost": 3,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "combat_training"
-        },
-        {
-          "Id": 264,
-          "Name": "Dirty Deeds",
-          "CardType": "Spell",
-          "Rarity": "Uncommon",
-          "Color": "Black",
-          "Text": "Deal 2 damage to the enemy tower for each of its improvements.",
-          "ManaCost": 3,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "dirty_deeds"
-        },
-        {
-          "Id": 265,
-          "Name": "Magnus",
-          "CardType": "Hero",
-          "Rarity": "Common",
-          "Color": "Green",
-          "Attack": 4,
-          "Armor": 1,
-          "Health": 9,
-          "RelatedIds": [
-            266
-          ],
-          "SignatureCard": 266,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "magnus"
-        },
-        {
-          "Id": 266,
-          "Name": "Empower",
-          "CardType": "Spell",
-          "Rarity": "Common",
-          "Color": "Green",
-          "Text": "Modify a unit with +3 Attack and +3 Cleave.",
-          "ManaCost": 4,
-          "Artist": "",
-          "Lore": "",
-          "RelatedIds": [
-            265
-          ],
-          "IsSignatureCard": true,
-          "fileName": "empower"
-        },
-        {
-          "Id": 267,
-          "Name": "Fight Through the Pain",
-          "CardType": "Spell",
-          "Rarity": "Common",
-          "Color": "Red",
-          "Text": "Give a red hero +2 Armor this round. Get initiative.",
-          "ManaCost": 1,
-          "GetInitiative" : true,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "fight_through_the_pain"
-        },
-        {
-          "Id": 268,
-          "Name": "Fountain Flask",
-          "CardType": "Item",
-          "ItemType" : "Consumable",
-          "Rarity": "Basic",
-          "Color": "Yellow",
-          "Text": "Fully heal a unit.",
-          "GoldCost": 4,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "fountain_flask"
-        },
-        {
-          "Id": 269,
-          "Name": "Friendly Fire",
-          "CardType": "Spell",
-          "Rarity": "Uncommon",
-          "Color": "Blue",
-          "Text": "Choose two enemies. They battle each other.",
-          "ManaCost": 6,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "friendly_fire"
-        },
-        {
-          "Id": 270,
-          "Name": "Healing Salve",
-          "CardType": "Item",
-          "ItemType": "Consumable",
-          "Rarity": "Basic",
-          "Color": "Yellow",
-          "Text": "Heal a unit 6.",
-          "GoldCost": 3,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "healing_salve"
-        },
-        {
-          "Id": 271,
-          "Name": "Heroic Resolve",
-          "CardType": "Spell",
-          "Rarity": "Rare",
-          "Color": "Red",
-          "Text": "Modify a red hero with \"After you play a non-item card costing 2 or less, modify this hero with +2 Health.\"",
-          "GoldCost": 2,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "heroic_resolve"
-        },
-        {
-          "Id": 272,
-          "Name": "Hero's Cape",
-          "CardType": "Item",
-          "ItemType": "Accesory",
-          "Rarity": "Rare",
-          "Color": "Yellow",
-          "Text": "Equipped hero has +16 Health.",
-          "GoldCost": 15,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "hero-s_cape"
-        },
-        {
-          "Id": 273,
-          "Name": "Incarnation of Selemene",
-          "CardType": "Creep",
-          "Rarity": "Rare",
-          "Color": "Blue",
-          "Attack": 3,
-          "Armor": 0,
-          "Health": 11,
-          "Text": "Fully restore your tower's Mana after you play any card.",
-          "ManaCost": 9,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "incarnation_of_selemene"
-        },
-        {
-          "Id": 274,
-          "Name": "Keenfolk Golem",
-          "CardType": "Creep",
-          "Rarity": "Rare",
-          "Color": "Red",
-          "Attack": 13,
-          "Armor": 0,
-          "Health": 13,
-          "Text": "Play Effect: Discard your hand.",
-          "Abilities": [
-            {
-              "Name": "Keenfolk Golem : Effect",
-              "Type": "Play",
-              "Text": "Discard your hand."
-            }
-          ],
-          "ManaCost": 9,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "keenfolk_golem"
-        },
-        {
-          "Id": 275,
-          "Name": "Keenfolk Plate",
-          "CardType": "Item",
-          "ItemType": "Armor",
-          "Rarity": "Uncommon",
-          "Color": "Yellow",
-          "Text": "Equipped hero has +1 Armor. Equipped hero has +1 Armor for each of its attackers.",
-          "GoldCost": 8,
-          "Abilities": [
-            {
-              "Name": "Keenfolk Plate : Effect",
-              "Type": "Continuous",
-              "Text": "Equipped hero has +1 Armor. Equipped hero has +1 Armor for each of its attackers."
-            }
-          ],
-          "Artist": "",
-          "Lore": "",
-          "fileName": "keenfolk_plate"
-        },
-        {
-          "Id": 276,
-          "Name": "Messenger Rookery",
-          "CardType": "Improvement",
-          "Rarity": "Common",
-          "Color": "Blue",
-          "Text": "Choose an ally. Choose a combat target for it.",
-          "ManaCost": 1,
-          "Abilities": [
-            {
-              "Name": "Messenger Rookery : Effect",
-              "Type": "Active",
-              "Text": "Choose an ally. Choose a combat target for it."
-            }
-          ],
-          "Artist": "",
-          "Lore": "",
-          "fileName": "messenger_rookery"
-        },
-        {
-          "Id": 277,
-          "Name": "Murder Plot",
-          "CardType": "Spell",
-          "Rarity": "Uncommon",
-          "Color": "Black",
-          "Text": "Give a black hero +8 Attack this round. Choose a combat target for it.",
-          "ManaCost": 4,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "murder_plot"
-        },
-        {
-          "Id": 278,
-          "Name": "Nyctasha's Guard",
-          "CardType": "Item",
-          "ItemType": "Armor",
-          "Rarity": "Rare",
-          "Color": "Yellow",
-          "Text": "Equipped hero has +1 Armor.\nActive 1: Move Equipped hero's enemy neighbors to random other lanes.",
-          "Abilities": [
-            {
-              "Name": "Nyctasha's Guard : Effect",
-              "Type": "Continuous",
-              "Text": "Equipped hero has +1 Armor."
-            },
-            {
-              "Name": "Nyctasha's Guard : Effect",
-              "Type": "Active",
-              "Text": "Move Equipped hero's enemy neighbors to random other lanes.",
-              "Cooldown": 1
-            }
-          ],
-          "GoldCost": 25,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "nyctasha-s_guard"
-        },
-        {
-          "Id": 279,
-          "Name": "Pick a Fight",
-          "CardType": "Spell",
-          "Rarity": "Common",
-          "Color": "Red",
-          "Text": "Choose an allied hero. It taunts. Choose a combat target for it.",
-          "ManaCost": 2,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "pick_a_fight"
-        },
-        {
-          "Id": 280,
-          "Name": "Platemail",
-          "CardType": "Item",
-          "ItemType": "Armor",
-          "Rarity": "Uncommon",
-          "Color": "Yellow",
-          "Text": "Equipped hero has +4 Armor.",
-          "Abilities": [
-            {
-              "Name": "Platemail : Effect",
-              "Type": "Continuous",
-              "Text": "Equipped hero has +4 Armor."
-            }
-          ],
-          "GoldCost": 15,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "platemail"
-        },
-        {
-          "Id": 281,
-          "Name": "Potion of Knowledge",
-          "CardType": "Item",
-          "ItemType": "Consumable",
-          "Rarity": "Basic",
-          "Color": "Yellow",
-          "Text": "Draw a card.",
-          "GoldCost": 5,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "potion_of_knowledge"
-        },
-        {
-          "Id": 282,
-          "Name": "Relentless Pursuit",
-          "CardType": "Spell",
-          "Rarity": "Uncommon",
-          "Color": "Black",
-          "Text": "Choose a unit in another lane. Move a random allied black hero from this lane to that lane. Deal 2 damage to the chosen unit.",
-          "ManaCost": 1,
-          "CrossLane": true,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "relentless_pursuit"
-        },
-        {
-          "Id": 283,
-          "Name": "Rising Anger",
-          "CardType": "Spell",
-          "Rarity": "Rare",
-          "Color": "Red",
-          "Text": "Modify a red hero with \"After you play a non-item card costing 2 or less, modify this hero with +1 Attack.\"",
-          "ManaCost": 2,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "rising_anger"
-        },
-        {
-          "Id": 284,
-          "Name": "Rumusque Vestments",
-          "CardType": "Item",
-          "ItemType": "Armor",
-          "Rarity": "Common",
-          "Color": "Yellow",
-          "Text": "Equipped hero has +1 Armor.\nActive 2: Heal a unit 4.",
-          "Abilities": [
-            {
-              "Name": "Rumusque Vestments : Effect",
-              "Type": "Continuous",
-              "Text": "Equipped hero has +1 Armor."
-            },
-            {
-              "Name": "Rumusque Vestments : Effect",
-              "Type": "Active",
-              "Text": "Heal a unit 4.",
-              "Cooldwon": 2
-            }
-          ],
-          "GoldCost": 9,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "rumusque_vestments"
-        },
-        {
-          "Id": 285,
-          "Name": "Shiva's Guard",
-          "CardType": "Item",
-          "ItemType": "Armor",
-          "Rarity": "Rare",
-          "Color": "Yellow",
-          "Text": "Equipped hero has +2 Armor.\nActive 2: Modify a unit and its allied neighbors with -2 Attack.",
-          "Abilities": [
-            {
-              "Name": "Shiva's Guard : Effect",
-              "Type": "Continuous",
-              "Text": "Equipped hero has +2 Armor."
-            },
-            {
-              "Name": "Shiva's Guard : Effect",
-              "Type": "Active",
-              "Text": "Modify a unit and its allied neighbors with -2 Attack.",
-              "Cooldwon": 2
-            }
-          ],
-          "GoldCost": 16,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "shiva-s_guard"
-        },
-        {
-          "Id": 286,
-          "Name": "Smeevil Armsmaster",
-          "CardType": "Creep",
-          "Rarity": "Uncommon",
-          "Color": "Red",
-          "Attack": 2,
-          "Armor": 0,
-          "Health": 2,
-          "Text": "Play Effect: Modify a random allied hero with +2 Attack.",
-          "Abilities": [
-            {
-              "Name": "Smeevil Armsmaster : Effect",
-              "Type": "Play",
-              "Text": "Modify a random allied hero with +2 Attack."
-            }
-          ],
-          "ManaCost": 4,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "smeevil_armsmaster"
-        },
-        {
-          "Id": 287,
-          "Name": "Mazzie",
-          "CardType": "Hero",
-          "Rarity": "Common",
-          "Color": "Red",
-          "Attack": 6,
-          "Armor": 3,
-          "Health": 6,
-          "Artist": "",
-          "Lore": "",
-          "RelatedIds" : [
-            288
-          ],
-          "SignatureCard": 288,
-          "fileName": "mazzie"
-        },
-        {
-          "Id": 288,
-          "Name": "Steel Reinforcement",
-          "CardType": "Improvement",
-          "Rarity": "Common",
-          "Color": "Red",
-          "Text": "Your tower has +1 Armor.",
-          "Abilities": [
-            {
-              "Name": "Steel Reinforcement : Effect",
-              "Type": "Continuous",
-              "Text": "Your tower has +1 Armor."
-            }
-          ],
-          "ManaCost": 4,
-          "CrossLane": true,
-          "RelatedIds" : [
-            287
-          ],
-          "IsSignatureCard": true,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "steel_reinforcement"
-        },
-        {
-          "Id": 289,
-          "Name": "Stonehall Pike",
-          "CardType": "Item",
-          "ItemType": "Weapon",
-          "Rarity": "Common",
-          "Color": "Red",
-          "Text": "Equipped hero has +2 Attack. Modify Stonehall Pike with \"Equipped hero has +1 Attack\" after the combat phase.",
-          "Abilities": [
-            {
-              "Name": "Stonehall Pike : Effect",
-              "Type": "Continuous",
-              "Text": "Equipped hero has +2 Attack."
-            },{
-              "Name": "Stonehall Pike : Effect",
-              "Type": "Continuous",
-              "Text": "Modify Stonehall Pike with \"Equipped hero has +1 Attack\" after the combat phase."
-            }
-          ],
-          "GoldCost": 6,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "stonehall_pike"
-        },
-        {
-          "Id": 290,
-          "Name": "Town Portal Scroll",
-          "CardType": "Item",
-          "ItemType": "Consumable",
-          "Rarity": "Basic",
-          "Color": "Yellow",
-          "Text": "Return an allied hero to the Fountain.",
-          "Artist": "",
-          "Lore": "",
-          "fileName": "town_portal_scroll"
-        },
-        {
-          "Id": 291,
-          "Name": "Trebuchets",
-          "CardType": "Improvement",
-          "Rarity": "Common",
-          "Color": "Black",
-          "Text": "Deal 2 piercing damage to the enemy tower before the action phase.",
-          "Abilities": [
-            {
-              "Name": "Trebuchets : Effect",
-              "Type": "Continuous",
-              "Text": "Deal 2 piercing damage to the enemy tower before the action phase."
-            }
-          ],
-          "ManaCost": 1,
-          "CrossLane": true,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "Trebuchets"
-        },
-        {
-          "Id": 292,
-          "Name": "Tyler Estate Censor",
-          "CardType": "Creep",
-          "Rarity": "Uncommon",
-          "Color": "Black",
-          "Attack": 2,
-          "Armor": 0,
-          "Health": 8,
-          "Text": "The enemy tower has -1 Mana.",
-          "Abilities": [
-            {
-              "Name": "Tyler Estate Censor : Effect",
-              "Type": "Continuous",
-              "Text": "The enemy tower has -1 Mana."
-            }
-          ],
-          "ManaCost": 4,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "tyler_estate_censor"
-        },
-        {
-          "Id": 293,
-          "Name": "Unsupervised Artillery",
-          "CardType": "Improvement",
-          "Rarity": "Uncommon",
-          "Color": "Black",
-          "Text": "Active 1: Deal 4 piercing damage to the enemy tower. May only be used if there are no unblocked enemies.",
-          "Abilities": [
-            {
-              "Name": "Unsupervised Artillery : Effect",
-              "Type": "Active",
-              "Text": "Deal 4 piercing damage to the enemy tower. May only be used if there are no unblocked enemies.",
-              "Cooldown": 1
-            }
-          ],
-          "ManaCost": 2,
-          "CrossLane": true,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "unsupervised_artillery"
-        },
-        {
-          "Id": 294,
-          "Name": "Vesture of the Tyrant",
-          "CardType": "Item",
-          "ItemType": "Armor",
-          "Rarity": "Rare",
-          "Color": "Black",
-          "Text": "Equipped hero has +3 Armor and Rapid Deployment. Your tower has +3 Armor.",
-          "Abilities": [
-            {
-              "Name": "Vesture of the Tyrant : Effect",
-              "Type": "Continuous",
-              "Text": "Equipped hero has +3 Armor and Rapid Deployment. Your tower has +3 Armor."
-            }
-          ],
-          "GoldCost": 19,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "Vesture of the Tyrant"
-        },
-        {
-          "Id": 295,
-          "Name": "Wingfall Hammer",
-          "CardType": "Item",
-          "ItemType": "Armor",
-          "Rarity": "Rare",
-          "Color": "Black",
-          "Text": "Equipped hero has +4 Attack.\nActive 1: Give equipped hero and its allied neighbors +X Regeneration this round where X is half its Attack.",
-          "Abilities": [
-            {
-              "Name": "Wingfall Hammer : Effect",
-              "Type": "Continuous",
-              "Text": "Equipped hero has +4 Attack."
-            },
-            {
-              "Name": "Wingfall Hammer : Effect",
-              "Type": "Active",
-              "Text": "Give equipped hero and its allied neighbors +X Regeneration this round where X is half its Attack.",
-              "Cooldown": 1
-            }
-          ],
-          "GoldCost": 19,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "wingfall_hammer"
-        },
-        {
-          "Id": 296,
-          "Name": "Oglodi Catapult",
-          "CardType": "Crepp",
-          "Rarity": "Uncommon",
-          "Color": "Black",
-          "Attack": 0,
-          "Armor": 0,
-          "Health": 4,
-          "Text": "Deal 2 piercing damage to the enemy tower before the action phase.",
-          "Abilities": [
-            {
-              "Name": "Oglodi Catapult : Effect",
-              "Type": "Continuous",
-              "Text": "Deal 2 piercing damage to the enemy tower before the action phase."
-            }
-          ],
-          "ManaCost": 2,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "oglodi_catapult"
-        },
-        {
-          "Id": 297,
-          "Name": "Bracers of Sacrifice",
-          "CardType": "Item",
-          "Rarity": "Rare",
-          "Color": "Yellow",
-          "Text": "Equipped hero has +2 Armor.\nActive 1: Deal 6 damage to equiped hero's enemy neighbors and condemn equipped hero.",
-          "Abilities": [
-            {
-              "Name": "Bracers of Sacrifice : Effect",
-              "Type": "Continuous",
-              "Text": "Equipped hero has +2 Armor."
-            },
-            {
-              "Name": "Bracers of Sacrifice : Effect",
-              "Type": "Active",
-              "Text": "Deal 6 damage to equiped hero's enemy neighbors and condemn equipped hero.",
-              "Cooldown": 1
-            }
-          ],
-          "GoldCost": 8,
-          "Artist": "",
-          "Lore": "",
-          "fileName": "Bracers of Sacrifice"
-        },
-        {
-          "Id": 298,
           "Name": "Revtel Investments",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -5510,7 +3889,830 @@
           "fileName": "revtel_investments"
         },
         {
-          "Id": 299,
+          "Id": 214,
+          "Name": "Revtel Signet Ring",
+          "CardType": "Item",
+          "Rarity": "Uncommon",
+          "Color": "Yellow",
+          "Text": "Equipped hero has +4 Health and -3 Bounty.",
+          "ItemType": "Accessory",
+          "GoldCost": 4,
+          "Abilities": [
+            {
+              "Name": "Revtel Signet Ring : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +4 Health and -3 Bounty."
+            }
+          ],
+          "Artist": "",
+          "Lore": "",
+          "fileName": "revtel_signet_ring"
+        },
+        {
+          "Id": 215,
+          "Name": "Ring of Tarrasque",
+          "CardType": "Item",
+          "Color": "Yellow",
+          "ItemType": "Accessory",
+          "Text": "Equipped hero has +4 Health and +6 Regeneration.",
+          "Abilities": [
+            {
+              "Name": "Ring of Tarrasque : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +4 Health and +6 Regeneration."
+            }
+          ],
+          "GoldCost": 12,
+          "Artist": "",
+          "Lore": "",
+          "Rarity": "Common",
+          "fileName": "ring_of_tarrasque"
+        },
+        {
+          "Id": 216,
+          "Name": "Rising Anger",
+          "CardType": "Spell",
+          "Rarity": "Rare",
+          "Color": "Red",
+          "Text": "Modify a red hero with \"After you play a non-item card costing 2 or less, modify this hero with +1 Attack.\"",
+          "ManaCost": 2,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "rising_anger"
+        },
+        {
+          "Id": 217,
+          "Name": "Ristul Emblem",
+          "CardType": "Item",
+          "Rarity": "Rare",
+          "Color": "Yellow",
+          "Text": "Equipped Hero has +4 Health and -2 Armor. The unit blocking equipped Hero has -2 Armor.",
+          "ItemType": "Accessory",
+          "GoldCost": 4,
+          "Abilities": [
+            {
+              "Name": "Ristul Emblem : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped Hero has +4 Health and -2 Armor. The unit blocking equipped Hero has -2 Armor."
+            }
+          ],
+          "Artist": "Christine Choi",
+          "Lore": "To those willing to step into a world of Demonic etiquette and politics, the Court of Ristul is willing to offer considerable power... for a price. — Jolixia",
+          "fileName": "ristul_emblem"
+        },
+        {
+          "Id": 218,
+          "Name": "Rix",
+          "CardType": "Hero",
+          "Rarity": "Uncommon",
+          "Color": "Green",
+          "Attack": 3,
+          "Armor": 0,
+          "Health": 7,
+          "Abilities": [
+            {
+              "Name": "Relentless Rebel",
+              "Type": "Continuous",
+              "Text": "Rapid deployment."
+            }
+          ],
+          "Artist": "",
+          "Lore": "",
+          "RelatedIds": [
+            3
+          ],
+          "SignatureCard": 3,
+          "fileName": "rix"
+        },
+        {
+          "Id": 219,
+          "Name": "Rolling Storm",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Blue",
+          "Text": "Deal 2 damage to all towers in all lanes.",
+          "ManaCost": 3,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "rolling_storm"
+        },
+        {
+          "Id": 220,
+          "Name": "Roseleaf Druid",
+          "CardType": "Creep",
+          "Rarity": "Common",
+          "Color": "Green",
+          "ManaCost": 4,
+          "Text": "Your tower has +1 Mana.",
+          "Attack": 2,
+          "Armor": 0,
+          "Health": 6,
+          "Abilities": [
+            {
+              "Name": "Roseleaf Druid : Effect",
+              "Type": "Continuous",
+              "Text": "Your tower has +1 Mana."
+            }
+          ],
+          "Artist": "Alix Branwyn",
+          "Lore": "",
+          "RelatedIds": [
+            276
+          ],
+          "fileName": "roseleaf_druid"
+        },
+        {
+          "Id": 221,
+          "Name": "Roseleaf Rejuvenator",
+          "CardType": "Creep",
+          "Rarity": "Common",
+          "Color": "Green",
+          "ManaCost": 7,
+          "Text": "Play Effect: Heal your tower 7.",
+          "Attack": 7,
+          "Armor": 0,
+          "Health": 7,
+          "Abilities": [
+            {
+              "Name": "Roseleaf Rejuvenator : Effect",
+              "Type": "Play",
+              "Text": "Heal your tower 7."
+            }
+          ],
+          "Artist": "Jakub Kasper",
+          "Lore": "The Treants of Roseleaf and the Vhoul have lived together peacefully for generations. But now interlopers have turned our home into a battlefield. We have made the call to our cousins in the Vale of Augery - the Vhoul must be protected...",
+          "fileName": "roseleaf_rejuvenator"
+        },
+        {
+          "Id": 222,
+          "Name": "Roseleaf Wall",
+          "CardType": "Creep",
+          "Rarity": "Uncommon",
+          "Color": "Green",
+          "ManaCost": 3,
+          "Text": "",
+          "Attack": 0,
+          "Armor": 0,
+          "Health": 8,
+          "Artist": "Pauline Voß",
+          "Lore": "",
+          "Token": false,
+          "RelatedIds": [
+            73
+          ],
+          "SignatureCard": 73,
+          "fileName": "roseleaf_wall"
+        },
+        {
+          "Id": 223,
+          "Name": "Rumusque Blessing",
+          "CardType": "Spell",
+          "Rarity": "Common",
+          "Color": "Green",
+          "Text": "Choose a lane. Modify allies in that lane with +3 Health.",
+          "ManaCost": 3,
+          "Artist": "John Stanko",
+          "Lore": "",
+          "CrossLane": true,
+          "fileName": "rumusque_blessing"
+        },
+        {
+          "Id": 224,
+          "Name": "Rumusque Vestments",
+          "CardType": "Item",
+          "ItemType": "Armor",
+          "Rarity": "Common",
+          "Color": "Yellow",
+          "Text": "Equipped hero has +1 Armor.\nActive 2: Heal a unit 4.",
+          "Abilities": [
+            {
+              "Name": "Rumusque Vestments : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +1 Armor."
+            },
+            {
+              "Name": "Rumusque Vestments : Effect",
+              "Type": "Active",
+              "Text": "Heal a unit 4.",
+              "Cooldwon": 2
+            }
+          ],
+          "GoldCost": 9,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "rumusque_vestments"
+        },
+        {
+          "Id": 225,
+          "Name": "Satyr Duelist",
+          "CardType": "Creep",
+          "Rarity": "Common",
+          "Color": "Green",
+          "ManaCost": 4,
+          "Text": "Modify Satyr Duelist with +2 Attack after the combat phase.",
+          "Attack": 3,
+          "Armor": 0,
+          "Health": 5,
+          "Abilities": [
+            {
+              "Name": "Satyr Duelist : Effect",
+              "Type": "Continuous",
+              "Text": "Modify Satyr Duelist with +2 Attack after the combat phase."
+            }
+          ],
+          "Artist": "",
+          "Lore": "",
+          "fileName": "satyr_duelist"
+        },
+        {
+          "Id": 226,
+          "Name": "Satyr Magician",
+          "CardType": "Creep",
+          "Rarity": "Uncommon",
+          "Color": "Blue",
+          "ManaCost": 5,
+          "Text": "Active 1: Fully restore your tower's Mana.",
+          "Attack": 2,
+          "Armor": 0,
+          "Health": 5,
+          "Abilities": [
+            {
+              "Name": "Satyr Magician : Effect",
+              "Type": "Active",
+              "Text": "Fully restore your tower's Mana.",
+              "Cooldown": 1
+            }
+          ],
+          "Artist": "Alix Branwin",
+          "Lore": "",
+          "fileName": "satyr_magician"
+        },
+        {
+          "Id": 227,
+          "Name": "Savage Wolf",
+          "CardType": "Creep",
+          "Rarity": "Common",
+          "Color": "Green",
+          "ManaCost": 4,
+          "Attack": 3,
+          "Armor": 0,
+          "Health": 3,
+          "Abilities": [
+            {
+              "Name": "Savage Wolf : Effect",
+              "Type": "Continuous",
+              "Text": "Modify Savage Wolf with +1 Attack and +2 Health after the combat phase."
+            }
+          ],
+          "Artist": "",
+          "Lore": "",
+          "RelatedIds": [
+            152
+          ],
+          "fileName": "savage_wolf"
+        },
+        {
+          "Id": 228,
+          "Name": "Selemene's Favor",
+          "CardType": "Improvement",
+          "Rarity": "Common",
+          "Color": "Green",
+          "Text": "Your tower has +2 Mana.",
+          "ManaCost": 4,
+          "Abilities": [
+            {
+              "Name": "Selemene's Favor : Effect",
+              "Type": "Continuous",
+              "Text": "Your tower has +2 Mana."
+            }
+          ],
+          "Artist": "",
+          "Lore": "",
+          "CrossLane": true,
+          "fileName": "selemenes_favor"
+        },
+        {
+          "Id": 229,
+          "Name": "Self Sabotage",
+          "CardType": "Spell",
+          "Color": "Blue",
+          "Rarity": "Uncommon",
+          "Text": "Modify two random cards in opponent's hand with \"□ Deal 6 damage to a random allied tower in any lane.\"",
+          "Artist": "",
+          "Lore": "",
+          "fileName": "self_sabotage",
+          "ManaCost": 4
+        },
+        {
+          "Id": 230,
+          "Name": "Selfish Cleric",
+          "CardType": "Creep",
+          "Color": "Green",
+          "Rarity": "Common",
+          "Text": "Fully heal Selfish Cleric after the combat phase.",
+          "Attack": 4,
+          "Armor": 0,
+          "Health": 4,
+          "Abilities": [
+            {
+              "Name": "Selfish Cleric : Effect",
+              "Type": "Continuous",
+              "Text": "Fully heal Selfish Cleric after the combat phase."
+            }
+          ],
+          "ManaCost": 4,
+          "Artist": "John Stanko",
+          "Lore": "By helping myself I'm helping all of us!",
+          "fileName": "selfish_cleric"
+        },
+        {
+          "Id": 231,
+          "Name": "Seraphim Shield",
+          "CardType": "Item",
+          "Rarity": "Rare",
+          "Color": "Yellow",
+          "Text": "Equipped hero has +2 Armor. All units have -2 Attack.",
+          "ItemType": "Armor",
+          "GoldCost": 13,
+          "Abilities": [
+            {
+              "Name": "Seraphim Shield : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +2 Armor. All units have -2 Attack."
+            }
+          ],
+          "Artist": "Magali Villeneuve",
+          "Lore": "",
+          "fileName": "seraphim_shield"
+        },
+        {
+          "Id": 232,
+          "Name": "Shield of Basilius",
+          "CardType": "Item",
+          "Rarity": "Common",
+          "Color": "Yellow",
+          "Text": "Equipped Hero has +2 Armor. Equipped Hero's allied neighbors have +1 Armor.",
+          "ItemType": "Armor",
+          "GoldCost": 8,
+          "Abilities": [
+            {
+              "Name": "Shield of Basilius : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped Hero has +2 Armor. Equipped Hero's allied neighbors have +1 Armor."
+            }
+          ],
+          "Artist": "",
+          "Lore": "",
+          "fileName": "shield_of_basilius"
+        },
+        {
+          "Id": 233,
+          "Name": "Shiva's Guard",
+          "CardType": "Item",
+          "ItemType": "Armor",
+          "Rarity": "Rare",
+          "Color": "Yellow",
+          "Text": "Equipped hero has +2 Armor.\nActive 2: Modify a unit and its allied neighbors with -2 Attack.",
+          "Abilities": [
+            {
+              "Name": "Shiva's Guard : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +2 Armor."
+            },
+            {
+              "Name": "Shiva's Guard : Effect",
+              "Type": "Active",
+              "Text": "Modify a unit and its allied neighbors with -2 Attack.",
+              "Cooldwon": 2
+            }
+          ],
+          "GoldCost": 16,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "shivas_guard"
+        },
+        {
+          "Id": 234,
+          "Name": "Shop Deed",
+          "CardType": "Item",
+          "Rarity": "Rare",
+          "Color": "Yellow",
+          "Text": "Each item in your Secret Shop costs X less gold, where X is equal to its base cost.",
+          "ItemType": "Consumable",
+          "GoldCost": 22,
+          "Abilities": [
+            {
+              "Name": "Shop Deed : Effect",
+              "Type": "Continuous",
+              "Text": "Each item in your Secret Shop costs X less gold, where X is equal to its base cost."
+            }
+          ],
+          "Artist": "",
+          "Lore": "",
+          "fileName": "shop_deed"
+        },
+        {
+          "Id": 235,
+          "Name": "Short Sword",
+          "CardType": "Item",
+          "Rarity": "Basic",
+          "Color": "Yellow",
+          "Text": "Equipped Hero has +2 Attack.",
+          "ItemType": "Weapon",
+          "GoldCost": 3,
+          "Abilities": [
+            {
+              "Name": "Short Sword : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped Hero has +2 Attack."
+            }
+          ],
+          "Artist": "",
+          "Lore": "",
+          "fileName": "short_sword"
+        },
+        {
+          "Id": 236,
+          "Name": "Sister of the Veil",
+          "CardType": "Creep",
+          "Rarity": "Uncommon",
+          "Color": "Black",
+          "ManaCost": 5,
+          "Text": "Active 1: Choose a combat target for Sister of the Veil.",
+          "Attack": 4,
+          "Armor": 0,
+          "Health": 5,
+          "Abilities": [
+            {
+              "Name": "Sister of the Veil : Effect",
+              "Type": "Active",
+              "Text": "Choose a combat target for Sister of the Veil.",
+              "Cooldown": 1
+            }
+          ],
+          "Artist": "Anthony Palumbo",
+          "Lore": "",
+          "fileName": "sister_of_the_veil"
+        },
+        {
+          "Id": 237,
+          "Name": "Skywrath Mage",
+          "CardType": "Hero",
+          "Rarity": "Common",
+          "Color": "Blue",
+          "Attack": 3,
+          "Armor": 0,
+          "Health": 6,
+          "Abilities": [
+            {
+              "Name": "Concussive Shot",
+              "Type": "Active",
+              "Text": "Give a hero and its allied neighbors -2 armor this round.",
+              "Cooldown": 2
+            }
+          ],
+          "Artist": "Greg Opalinski",
+          "Lore": "",
+          "RelatedIds": [
+            165
+          ],
+          "SignatureCard": 165,
+          "fileName": "skywrath_mage"
+        },
+        {
+          "Id": 238,
+          "Name": "Slay",
+          "CardType": "Spell",
+          "Color": "Black",
+          "Rarity": "Common",
+          "Text": "Condemn a creep.",
+          "Artist": "",
+          "Lore": "",
+          "fileName": "slay",
+          "ManaCost": 3
+        },
+        {
+          "Id": 239,
+          "Name": "Smash Their Defenses!",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Red",
+          "Text": "Condemn an improvement. Draw a card.",
+          "ManaCost": 3,
+          "Artist": "JiHun Lee",
+          "Lore": "",
+          "fileName": "smash_their_defenses"
+        },
+        {
+          "Id": 240,
+          "Name": "Smeevil Armsmaster",
+          "CardType": "Creep",
+          "Rarity": "Uncommon",
+          "Color": "Red",
+          "Attack": 2,
+          "Armor": 0,
+          "Health": 2,
+          "Text": "Play Effect: Modify a random allied hero with +2 Attack.",
+          "Abilities": [
+            {
+              "Name": "Smeevil Armsmaster : Effect",
+              "Type": "Play",
+              "Text": "Modify a random allied hero with +2 Attack."
+            }
+          ],
+          "ManaCost": 4,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "smeevil_armsmaster"
+        },
+        {
+          "Id": 241,
+          "Name": "Smeevil Blacksmith",
+          "CardType": "Creep",
+          "Rarity": "Uncommon",
+          "Color": "Green",
+          "ManaCost": 4,
+          "Text": "Play Effect: Modify a random allied hero with +1 Armor.",
+          "Attack": 2,
+          "Armor": 0,
+          "Health": 2,
+          "Abilities": [
+            {
+              "Name": "Smeevil Blacksmith : Effect",
+              "Type": "Play",
+              "Text": "Modify a random allied hero with +1 Armor."
+            }
+          ],
+          "Artist": "",
+          "Lore": "",
+          "fileName": "smeevil_blacksmith"
+        },
+        {
+          "Id": 242,
+          "Name": "Sniper",
+          "CardType": "Hero",
+          "Rarity": "Uncommon",
+          "Color": "Black",
+          "Attack": 5,
+          "Armor": 0,
+          "Health": 6,
+          "Text": "Active 3: Deal 5 damage to a unit.",
+          "Abilities": [
+            {
+              "Name": "Headshot",
+              "Type": "Active",
+              "Text": "Deal 5 damage to a unit.",
+              "Cooldown": 3
+            }
+          ],
+          "RelatedIds": [
+            15
+          ],
+          "SignatureCard": 15,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "sniper"
+        },
+        {
+          "Id": 243,
+          "Name": "Sorla Khan",
+          "CardType": "Hero",
+          "Rarity": "Uncommon",
+          "Color": "Black",
+          "Attack": 8,
+          "Armor": 0,
+          "Health": 6,
+          "Abilities": [
+            {
+              "Name": "Warmonger",
+              "Type": "Continuous",
+              "Text": "Sorla Khan deals +4 damage when attacking a tower."
+            }
+          ],
+          "Artist": "",
+          "Lore": "",
+          "RelatedIds": [
+            16
+          ],
+          "SignatureCard": 16,
+          "fileName": "sorla_khan"
+        },
+        {
+          "Id": 244,
+          "Name": "Soul of Spring",
+          "CardType": "Spell",
+          "Color": "Green",
+          "Rarity": "Rare",
+          "Text": "Modify a hero with \"After you play a green card, give this hero and its allied neighbors +4 Regeneration this round.\"",
+          "Artist": "",
+          "Lore": "",
+          "fileName": "soul_of_spring",
+          "ManaCost": 4
+        },
+        {
+          "Id": 245,
+          "Name": "Sow Venom",
+          "CardType": "Spell",
+          "Rarity": "Common",
+          "Color": "Blue",
+          "Text": "Summon two Plague Wards.",
+          "ManaCost": 4,
+          "Artist": "",
+          "Lore": "",
+          "RelatedIds": [
+            285
+          ],
+          "IsSignatureCard": true,
+          "fileName": "sow_venom"
+        },
+        {
+          "Id": 246,
+          "Name": "Spot Weakness",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Red",
+          "Text": "Give a hero and its allied neighbors Pierce this round. Draw a card.",
+          "ManaCost": 3,
+          "Artist": "Lius Lasahido",
+          "Lore": "",
+          "fileName": "spot_weakness"
+        },
+        {
+          "Id": 247,
+          "Name": "Spring the Trap",
+          "CardType": "Spell",
+          "Rarity": "Rare",
+          "Color": "Red",
+          "Text": "Summon two Centaur Hunters into any lane.",
+          "ManaCost": 7,
+          "Artist": "James Paick",
+          "Lore": "",
+          "CrossLane": true,
+          "fileName": "spring_the_trap"
+        },
+        {
+          "Id": 248,
+          "Name": "Stars Align",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Green",
+          "Text": "Give your tower +3 Mana this round.",
+          "ManaCost": 1,
+          "Artist": "John Stanko",
+          "Lore": "",
+          "fileName": "stars_align"
+        },
+        {
+          "Id": 249,
+          "Name": "Steal Strength",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Green",
+          "Text": "Give a unit -4 Attack this round and give another unit +4 Attack this round.",
+          "ManaCost": 4,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "steal_strength"
+        },
+        {
+          "Id": 250,
+          "Name": "Steam Cannon",
+          "CardType": "Improvement",
+          "Rarity": "Rare",
+          "Color": "Black",
+          "Text": "Active 1: Deal 4 piercing damage to a unit in any lane.",
+          "ManaCost": 7,
+          "Abilities": [
+            {
+              "Name": "Steam Cannon : Effect",
+              "Type": "Active",
+              "Text": "Deal 4 piercing damage to a unit in any lane.",
+              "Cooldown": 1
+            }
+          ],
+          "Artist": "",
+          "Lore": "",
+          "CrossLane": true,
+          "fileName": "steam_cannon"
+        },
+        {
+          "Id": 251,
+          "Name": "Steel Reinforcement",
+          "CardType": "Improvement",
+          "Rarity": "Common",
+          "Color": "Red",
+          "Text": "Your tower has +1 Armor.",
+          "Abilities": [
+            {
+              "Name": "Steel Reinforcement : Effect",
+              "Type": "Continuous",
+              "Text": "Your tower has +1 Armor."
+            }
+          ],
+          "ManaCost": 4,
+          "CrossLane": true,
+          "RelatedIds": [
+            156
+          ],
+          "IsSignatureCard": true,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "steel_reinforcement"
+        },
+        {
+          "Id": 252,
+          "Name": "Stonehall Cloak",
+          "CardType": "Item",
+          "ItemType": "Accessory",
+          "Color": "Yellow",
+          "Rarity": "Common",
+          "Text": "Equipped hero has +4 Health. Modify Stonehall Cloak with \"Equipped hero has +2 Health\" after the combat phase.",
+          "Abilities": [
+            {
+              "Name": "Stonehall Cloak : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +4 Health."
+            },
+            {
+              "Name": "Stonehall Cloak : Effect",
+              "Type": "Continuous",
+              "Text": "Modify Stonehall Cloak with \"Equipped hero has +2 Health\" after the combat phase."
+            }
+          ],
+          "GoldCost": 5,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "stonehall_cloak"
+        },
+        {
+          "Id": 253,
+          "Name": "Stonehall Elite",
+          "CardType": "Creep",
+          "Color": "Red",
+          "Rarity": "Uncommon",
+          "Text": "Modify Stonehall Elite with +2 Attack and +2 Health after a unit blocking it dies.",
+          "Abilities": [
+            {
+              "Name": "Stonehall Elite : Effect",
+              "Type": "Continuous",
+              "Text": "Modify Stonehall Elite with +2 Attack and +2 Health after a unit blocking it dies."
+            }
+          ],
+          "Attack": 4,
+          "Armor": 2,
+          "Health": 2,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "stonehall_elite",
+          "ManaCost": 4
+        },
+        {
+          "Id": 254,
+          "Name": "Stonehall Pike",
+          "CardType": "Item",
+          "ItemType": "Weapon",
+          "Rarity": "Common",
+          "Color": "Red",
+          "Text": "Equipped hero has +2 Attack. Modify Stonehall Pike with \"Equipped hero has +1 Attack\" after the combat phase.",
+          "Abilities": [
+            {
+              "Name": "Stonehall Pike : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +2 Attack."
+            },
+            {
+              "Name": "Stonehall Pike : Effect",
+              "Type": "Continuous",
+              "Text": "Modify Stonehall Pike with \"Equipped hero has +1 Attack\" after the combat phase."
+            }
+          ],
+          "GoldCost": 6,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "stonehall_pike"
+        },
+        {
+          "Id": 255,
+          "Name": "Stonehall Plate",
+          "CardType": "Item",
+          "Rarity": "Common",
+          "Color": "Yellow",
+          "Text": "Equipped hero has +1 Armor. Modify Stonehall Plate with \"Equipped hero has +1 Armor\" after the combat phase.",
+          "ItemType": "Armor",
+          "GoldCost": 6,
+          "Abilities": [
+            {
+              "Name": "Stonehall Plate : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +1 Armor. Modify Stonehall Plate with \"Equipped hero has +1 Armor\" after the combat phase."
+            }
+          ],
+          "Artist": "",
+          "Lore": "",
+          "fileName": "stonehall_plate"
+        },
+        {
+          "Id": 256,
           "Name": "Storm Spirit",
           "CardType": "Hero",
           "Rarity": "Rare",
@@ -5526,41 +4728,840 @@
             }
           ],
           "RelatedIds": [
-            300
+            22
           ],
-          "SignatureCard": 300,
+          "SignatureCard": 22,
           "Artist": "",
           "Lore": "",
           "fileName": "storm_spirit"
         },
         {
-          "Id": 300,
-          "Name": "Ball Lightning",
+          "Id": 257,
+          "Name": "Strafing Run",
+          "CardType": "Spell",
+          "Rarity": "Common",
+          "Color": "Blue",
+          "Text": "Deal 2 damage to each enemy creep.",
+          "ManaCost": 1,
+          "Artist": "Mike Lim",
+          "Lore": "",
+          "fileName": "strafing_run"
+        },
+        {
+          "Id": 258,
+          "Name": "Sucker Punch",
+          "CardType": "Spell",
+          "Rarity": "Common",
+          "Color": "Red",
+          "Text": "Stun a unit blocking an allied red hero this round. Deal 2 damage to that unit.",
+          "ManaCost": 4,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "sucker_punch"
+        },
+        {
+          "Id": 259,
+          "Name": "Sven",
+          "RelatedIds": [
+            108
+          ],
+          "CardType": "Hero",
+          "Color": "Red",
+          "Rarity": "Common",
+          "Attack": 5,
+          "Armor": 0,
+          "Health": 11,
+          "Abilities": [
+            {
+              "Name": "Great Cleave",
+              "Type": "Continuous",
+              "Text": "Sven has +X Cleave where X is equal to half its Attack."
+            }
+          ],
+          "SignatureCard": 108,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "sven"
+        },
+        {
+          "Id": 260,
+          "Name": "Temple of War",
+          "CardType": "Improvement",
+          "Rarity": "Uncommon",
+          "Color": "Red",
+          "Text": "All equipped heroes have +2 Attack and +1 Armor.",
+          "ManaCost": 3,
+          "Abilities": [
+            {
+              "Name": "Temple of War : Effect",
+              "Type": "Continuous",
+              "Text": "All equipped heroes have +2 Attack and +1 Armor."
+            }
+          ],
+          "Artist": "Titus Lunter",
+          "Lore": "\"Our god is strange to the Vhoul. I understand. Once She was strange to me. But in time they will learn to love her as we do.\" — Legion Commander on the re-purposing of a Vhoul place of worship.",
+          "CrossLane": true,
+          "fileName": "temple_of_war"
+        },
+        {
+          "Id": 261,
+          "Name": "The Cover of Night",
           "CardType": "Spell",
           "Rarity": "Rare",
           "Color": "Black",
-          "Text": "Move an allied black hero to an empty combat position in any lane.",
-          "ManaCost": 3,
+          "Text": "Move an allied black hero to another lane. Give that hero +4 Attack and +7 Siege until end of its next combat phase.",
+          "ManaCost": 7,
+          "Artist": "Michael Kommark",
+          "Lore": "",
           "CrossLane": true,
-          "RelatedIds": [
-            299
+          "fileName": "the_cover_of_night"
+        },
+        {
+          "Id": 262,
+          "Name": "The Oath",
+          "CardType": "Improvement",
+          "Rarity": "Rare",
+          "Color": "Black",
+          "Text": "You can not play spells or creep while this is the active lane. If there is an allied black hero in this lane, allies have +4 Attack.",
+          "ManaCost": 3,
+          "Abilities": [
+            {
+              "Name": "The Oath : Effect",
+              "Type": "Continuous",
+              "Text": "You can not play spells or creep while this is the active lane. If there is an allied black hero in this lane, allies have +4 Attack."
+            }
           ],
+          "Artist": "",
+          "Lore": "",
+          "CrossLane": true,
+          "fileName": "the_oath"
+        },
+        {
+          "Id": 263,
+          "Name": "The Omexe Arena",
+          "CardType": "Improvement",
+          "Color": "Red",
+          "Rarity": "Uncommon",
+          "Text": "Draw a card after a hero dies.",
+          "Abilities": [
+            {
+              "Name": "The Omexe Aren : Effect",
+              "Type": "Reactive",
+              "Text": "Draw a card after a hero dies."
+            }
+          ],
+          "CrossLane": true,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "the_omexe_arena",
+          "ManaCost": 6
+        },
+        {
+          "Id": 264,
+          "Name": "The Tyler Estate",
+          "CardType": "Improvement",
+          "Rarity": "Uncommon",
+          "Color": "Black",
+          "Text": "Both towers have -2 Mana.",
+          "ManaCost": 4,
+          "Abilities": [
+            {
+              "Name": "The Tyler Estate : Effect",
+              "Type": "Continuous",
+              "Text": "Both towers have -2 Mana."
+            }
+          ],
+          "Artist": "Dimitar Marinski",
+          "Lore": "",
+          "fileName": "the_tyler_estate"
+        },
+        {
+          "Id": 265,
+          "Name": "Thundergod's Wrath",
+          "CardType": "Spell",
+          "Rarity": "Common",
+          "Color": "Blue",
+          "Text": "Deal 4 piercing damage to each enemy hero in all lanes.",
+          "ManaCost": 7,
+          "Artist": "",
+          "Lore": "",
+          "RelatedIds": [
+            300
+          ],
+          "IsSignatureCard": true,
+          "fileName": "thundergods_wrath"
+        },
+        {
+          "Id": 266,
+          "Name": "Thunderhide Alpha",
+          "CardType": "Creep",
+          "Rarity": "Rare",
+          "Color": "Green",
+          "ManaCost": 9,
+          "Attack": 25,
+          "Armor": 0,
+          "Health": 25,
+          "Artist": "Vance Kovacs",
+          "Lore": "",
+          "fileName": "thunderhide_alpha"
+        },
+        {
+          "Id": 267,
+          "Name": "Thunderhide Pack",
+          "CardType": "Creep",
+          "Rarity": "Common",
+          "Color": "Green",
+          "ManaCost": 8,
+          "Text": "Siege 6.",
+          "Attack": 14,
+          "Armor": 0,
+          "Health": 14,
+          "Abilities": [
+            {
+              "Name": "Thunderhide Pack : Effect",
+              "Type": "Continuous",
+              "Text": "Siege 6."
+            }
+          ],
+          "Artist": "",
+          "Lore": "",
+          "fileName": "thunderhide_pack"
+        },
+        {
+          "Id": 268,
+          "Name": "Thunderstorm",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Blue",
+          "ManaCost": 6,
+          "Text": "Deal 4 damage to each enemy.",
+          "Artist": "",
+          "Lore": "",
+          "fileName": "thunderstorm"
+        },
+        {
+          "Id": 269,
+          "Name": "Tidehunter",
+          "CardType": "Hero",
+          "Rarity": "Uncommon",
+          "Color": "Red",
+          "Attack": 2,
+          "Armor": 1,
+          "Health": 18,
+          "Abilities": [
+            {
+              "Name": "Ravage",
+              "Type": "Active",
+              "Text": "Stun Tidehunter's enemy neighbors this round and each other enemy has a 50% chance of being stunned this round.",
+              "Cooldown": 4
+            }
+          ],
+          "Artist": "Mike Lim",
+          "Lore": "",
+          "RelatedIds": [
+            141
+          ],
+          "SignatureCard": 141,
+          "fileName": "tidehunter"
+        },
+        {
+          "Id": 270,
+          "RelatedIds": [
+            294
+          ],
+          "Name": "Timbersaw",
+          "CardType": "Hero",
+          "Color": "Red",
+          "Rarity": "Uncommon",
+          "Attack": 4,
+          "Armor": 0,
+          "Health": 11,
+          "Abilities": [
+            {
+              "Name": "Reactive Armor",
+              "Type": "Continuous",
+              "Text": "Timbersaw has +1 Armor for each of its attackers."
+            }
+          ],
+          "SignatureCard": 294,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "timbersaw"
+        },
+        {
+          "Id": 271,
+          "Name": "Time of Triumph",
+          "CardType": "Spell",
+          "Rarity": "Rare",
+          "Color": "Red",
+          "Text": "Modify allied heroes with +4 Attack, +4 Armor, +4 Health, +4 Cleave, +4 Retaliate, and +4 Siege.",
+          "ManaCost": 8,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "time_of_triumph"
+        },
+        {
+          "Id": 272,
+          "Name": "Tower Barrage",
+          "CardType": "Spell",
+          "Rarity": "Common",
+          "Color": "Blue",
+          "Text": "Deal 2 damage to each enemy.",
+          "ManaCost": 3,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "tower_barrage"
+        },
+        {
+          "Id": 273,
+          "Name": "Town Portal Scroll",
+          "CardType": "Item",
+          "ItemType": "Consumable",
+          "Rarity": "Basic",
+          "Color": "Yellow",
+          "Text": "Return an allied hero to the Fountain.",
+          "Artist": "",
+          "Lore": "",
+          "fileName": "town_portal_scroll"
+        },
+        {
+          "Id": 274,
+          "Name": "Track",
+          "CardType": "Spell",
+          "Rarity": "Common",
+          "Color": "Black",
+          "Text": "Give a hero +10 Bounty until it dies.",
+          "ManaCost": 3,
+          "Artist": "Erik M. Gist",
+          "Lore": "",
+          "RelatedIds": [
+            37
+          ],
+          "IsSignatureCard": true,
+          "fileName": "track"
+        },
+        {
+          "Id": 275,
+          "Name": "Traveler's Cloak",
+          "CardType": "Item",
+          "Rarity": "Basic",
+          "Color": "Yellow",
+          "Text": "Equipped Hero has +4 Health.",
+          "ItemType": "Accessory",
+          "GoldCost": 3,
+          "Abilities": [
+            {
+              "Name": "Traveler's Cloak : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped Hero has +4 Health."
+            }
+          ],
+          "Artist": "",
+          "Lore": "",
+          "fileName": "travelers_cloak"
+        },
+        {
+          "Id": 276,
+          "Name": "Treant Protector",
+          "CardType": "Hero",
+          "Rarity": "Common",
+          "Color": "Green",
+          "Attack": 4,
+          "Armor": 0,
+          "Health": 10,
+          "Abilities": [
+            {
+              "Name": "Branches of Iron",
+              "Type": "Continuous",
+              "Text": "Treant Protector's allied neighbors have +2 Armor."
+            }
+          ],
+          "Artist": "Alix Branwyn",
+          "Lore": "My feelings on the war in Roseleaf are... complicated. Neither the Bronze Legion nor the Red Mist are threats to my people, and yet my cousins willingly intercede on the Vhoul's behalf. Their fondness for such frail creatures is strange to me.",
+          "RelatedIds": [
+            220
+          ],
+          "fileName": "treant_protector"
+        },
+        {
+          "Id": 277,
+          "Name": "Trebuchets",
+          "CardType": "Improvement",
+          "Rarity": "Common",
+          "Color": "Black",
+          "Text": "Deal 2 piercing damage to the enemy tower before the action phase.",
+          "Abilities": [
+            {
+              "Name": "Trebuchets : Effect",
+              "Type": "Continuous",
+              "Text": "Deal 2 piercing damage to the enemy tower before the action phase."
+            }
+          ],
+          "ManaCost": 1,
+          "CrossLane": true,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "trebuchets"
+        },
+        {
+          "Id": 278,
+          "Name": "Tresdin's Standards",
+          "CardType": "Spell",
+          "Color": "Red",
+          "Rarity": "Rare",
+          "Text": "Modify a red hero with \"After you play a red card, give this hero and its allied neighbors +1 Attack and +1 Armor this round.\"",
+          "Artist": "",
+          "Lore": "",
+          "fileName": "tresdins_standards",
+          "ManaCost": 4
+        },
+        {
+          "Id": 279,
+          "Name": "Troll Soothsayer",
+          "CardType": "Creep",
+          "Rarity": "Uncommon",
+          "Color": "Blue",
+          "ManaCost": 6,
+          "Text": "Draw an extra card each round.",
+          "Attack": 2,
+          "Armor": 0,
+          "Health": 8,
+          "Abilities": [
+            {
+              "Name": "Troll Soothsayer : Effect",
+              "Type": "Continuous",
+              "Text": "Draw an extra card each round."
+            }
+          ],
+          "Artist": "",
+          "Lore": "",
+          "fileName": "troll_soothsayer"
+        },
+        {
+          "Id": 280,
+          "Name": "Tyler Estate Censor",
+          "CardType": "Creep",
+          "Rarity": "Uncommon",
+          "Color": "Black",
+          "Attack": 2,
+          "Armor": 0,
+          "Health": 8,
+          "Text": "The enemy tower has -1 Mana.",
+          "Abilities": [
+            {
+              "Name": "Tyler Estate Censor : Effect",
+              "Type": "Continuous",
+              "Text": "The enemy tower has -1 Mana."
+            }
+          ],
+          "ManaCost": 4,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "tyler_estate_censor"
+        },
+        {
+          "Id": 281,
+          "Name": "Unearthed Secrets",
+          "CardType": "Improvement",
+          "Rarity": "Rare",
+          "Color": "Green",
+          "Text": "Draw a card after the combat phase if your tower was dealt damage this round.",
+          "ManaCost": 3,
+          "Abilities": [
+            {
+              "Name": "Unearthed Secrets : Effect",
+              "Type": "Continuous",
+              "Text": "Draw a card after the combat phase if your tower was dealt damage this round."
+            }
+          ],
+          "Artist": "David Palumbo",
+          "Lore": "",
+          "CrossLane": true,
+          "fileName": "unearthed_secrets"
+        },
+        {
+          "Id": 282,
+          "Name": "Unsupervised Artillery",
+          "CardType": "Improvement",
+          "Rarity": "Uncommon",
+          "Color": "Black",
+          "Text": "Active 1: Deal 4 piercing damage to the enemy tower. May only be used if there are no unblocked enemies.",
+          "Abilities": [
+            {
+              "Name": "Unsupervised Artillery : Effect",
+              "Type": "Active",
+              "Text": "Deal 4 piercing damage to the enemy tower. May only be used if there are no unblocked enemies.",
+              "Cooldown": 1
+            }
+          ],
+          "ManaCost": 2,
+          "CrossLane": true,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "unsupervised_artillery"
+        },
+        {
+          "Id": 283,
+          "Name": "Untested Grunt",
+          "CardType": "Creep",
+          "Rarity": "Common",
+          "Color": "Black",
+          "ManaCost": 2,
+          "Attack": 4,
+          "Armor": 0,
+          "Health": 2,
+          "Artist": "Jason Kang",
+          "Lore": "",
+          "fileName": "untested_grunt"
+        },
+        {
+          "Id": 284,
+          "RelatedIds": [
+            93
+          ],
+          "Name": "Ursa",
+          "CardType": "Hero",
+          "Color": "Red",
+          "Rarity": "Common",
+          "Attack": 7,
+          "Armor": 0,
+          "Health": 10,
+          "Abilities": [
+            {
+              "Name": "Fury Swipes",
+              "Type": "Reactive",
+              "Text": "When Ursa deals battle damage to a unit, modify that unit with -1 Armor."
+            }
+          ],
+          "SignatureCard": 93,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "ursa"
+        },
+        {
+          "Id": 285,
+          "Name": "Venomancer",
+          "CardType": "Hero",
+          "Rarity": "Common",
+          "Color": "Blue",
+          "Attack": 2,
+          "Armor": 0,
+          "Health": 6,
+          "Abilities": [
+            {
+              "Name": "Venomous Nature",
+              "Type": "Continuous",
+              "Text": "Summon a Plague Ward into Venomancer's lane each deployment phase."
+            }
+          ],
+          "Artist": "",
+          "Lore": "",
+          "RelatedIds": [
+            245,
+            189
+          ],
+          "SignatureCard": 245,
+          "fileName": "venomancer"
+        },
+        {
+          "Id": 286,
+          "Name": "Ventriloquy",
+          "CardType": "Spell",
+          "Rarity": "Common",
+          "Color": "Blue",
+          "Text": "Choose a unit. It taunts.",
+          "ManaCost": 1,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "ventriloquy"
+        },
+        {
+          "Id": 287,
+          "Name": "Verdant Refuge",
+          "CardType": "Improvement",
+          "Rarity": "Common",
+          "Color": "Green",
+          "Text": "Allies have +1 Armor.",
+          "ManaCost": 5,
+          "Abilities": [
+            {
+              "Name": "Verdant Refuge : Effect",
+              "Type": "Continuous",
+              "Text": "Allies have +1 Armor."
+            }
+          ],
+          "Artist": "Chris Rallis",
+          "Lore": "",
+          "RelatedIds": [
+            91
+          ],
+          "CrossLane": true,
+          "IsSignatureCard": true,
+          "fileName": "verdant_refuge"
+        },
+        {
+          "Id": 288,
+          "Name": "Vesture of the Tyrant",
+          "CardType": "Item",
+          "ItemType": "Armor",
+          "Rarity": "Rare",
+          "Color": "Black",
+          "Text": "Equipped hero has +3 Armor and Rapid Deployment. Your tower has +3 Armor.",
+          "Abilities": [
+            {
+              "Name": "Vesture of the Tyrant : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +3 Armor and Rapid Deployment. Your tower has +3 Armor."
+            }
+          ],
+          "GoldCost": 19,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "vesture_of_the_tyrant"
+        },
+        {
+          "Id": 289,
+          "Name": "Vhoul Martyr",
+          "CardType": "Creep",
+          "Rarity": "Common",
+          "Color": "Green",
+          "ManaCost": 2,
+          "Text": "Death Effect: Modify allies with +1 Attack and +1 Health.",
+          "Attack": 2,
+          "Armor": 0,
+          "Health": 2,
+          "Abilities": [
+            {
+              "Name": "Vhoul Martyr : Effect",
+              "Type": "Death",
+              "Text": "Modify allies with +1 Attack and +1 Health."
+            }
+          ],
+          "Artist": "",
+          "Lore": "I knew this day would come the moment I agreed to host Rix's gatherings in my wine cellar... [...] I know it's only a matter of time before Tresdin has me executed, and I won't lie. I'm scared. But we all have our parts to play. — Papa Samet, Vhoul Martyr",
+          "fileName": "vhoul_martyr"
+        },
+        {
+          "Id": 290,
+          "Name": "Viper",
+          "CardType": "Hero",
+          "Rarity": "Uncommon",
+          "Color": "Green",
+          "Attack": 4,
+          "Armor": 0,
+          "Health": 10,
+          "Abilities": [
+            {
+              "Name": "Corrosive Skin",
+              "Type": "Reactive",
+              "Text": "When a unit deals battle damage to Viper, modify that unit with -1 Attack."
+            }
+          ],
+          "Artist": "Lars Grant-West",
+          "Lore": "",
+          "RelatedIds": [
+            291
+          ],
+          "SignatureCard": 291,
+          "fileName": "viper"
+        },
+        {
+          "Id": 291,
+          "Name": "Viper Strike",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Green",
+          "Text": "Give a unit \"Deal 2 piercing damage to this unit before the action phase\" until it dies.",
+          "ManaCost": 3,
+          "Artist": "Lars Grant-West",
+          "Lore": "",
+          "RelatedIds": [
+            290
+          ],
+          "IsSignatureCard": true,
+          "fileName": "viper_strike"
+        },
+        {
+          "Id": 292,
+          "Name": "Viscous Nasal Goo",
+          "CardType": "Spell",
+          "Rarity": "Common",
+          "Color": "Red",
+          "Text": "Modify a unit with -2 Armor.",
+          "ManaCost": 4,
+          "Artist": "",
+          "Lore": "",
+          "RelatedIds": [
+            39
+          ],
+          "IsSignatureCard": true,
+          "fileName": "viscous_nasal_goo"
+        },
+        {
+          "Id": 293,
+          "Name": "Watchtower",
+          "CardType": "Improvement",
+          "Color": "Blue",
+          "Rarity": "Rare",
+          "Text": "Whenever an enemy improvement enters this lane, draw a card.",
+          "Abilities": [
+            {
+              "Name": "Watchtower : Effect",
+              "Type": "Reactive",
+              "Text": "Whenever an enemy improvement enters this lane, draw a card."
+            }
+          ],
+          "CrossLane": true,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "watchtower",
+          "ManaCost": 1
+        },
+        {
+          "Id": 294,
+          "RelatedIds": [
+            270
+          ],
+          "Name": "Whirling Death",
+          "CardType": "Spell",
+          "Color": "Red",
+          "Rarity": "Uncommon",
+          "Text": "Choose an allied red hero. Deal 2 damage to its enemy neighbors and give them -2 Attack this round.",
           "IsSignatureCard": true,
           "Artist": "",
           "Lore": "",
-          "fileName": "ball_lightning"
+          "fileName": "whirling_death",
+          "ManaCost": 2
         },
         {
-          "Id": 301,
-          "Name": "Remote Detonation",
+          "Id": 295,
+          "Name": "Whispers of Madness",
           "CardType": "Spell",
           "Rarity": "Rare",
           "Color": "Blue",
-          "Text": "Deal 5 damage to each enemy across from an empty combat position.",
+          "ManaCost": 2,
+          "Text": "Stun an enemy this round and stun allied heroes in all lanes this round.",
+          "Artist": "",
+          "Lore": "",
+          "fileName": "whispers_of_madness"
+        },
+        {
+          "Id": 296,
+          "Name": "Wingfall Hammer",
+          "CardType": "Item",
+          "ItemType": "Armor",
+          "Rarity": "Rare",
+          "Color": "Black",
+          "Text": "Equipped hero has +4 Attack.\nActive 1: Give equipped hero and its allied neighbors +X Regeneration this round where X is half its Attack.",
+          "Abilities": [
+            {
+              "Name": "Wingfall Hammer : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +4 Attack."
+            },
+            {
+              "Name": "Wingfall Hammer : Effect",
+              "Type": "Active",
+              "Text": "Give equipped hero and its allied neighbors +X Regeneration this round where X is half its Attack.",
+              "Cooldown": 1
+            }
+          ],
+          "GoldCost": 19,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "wingfall_hammer"
+        },
+        {
+          "Id": 297,
+          "Name": "Winter Wyvern",
+          "CardType": "Hero",
+          "Rarity": "Uncommon",
+          "Color": "Black",
+          "Attack": 6,
+          "Armor": 0,
+          "Health": 6,
+          "Abilities": [
+            {
+              "Name": "Arctic Burn",
+              "Type": "Active",
+              "Text": "Move Winter Wyvern to an empty combat position and give it +4 Attack this round.",
+              "Cooldown": 2
+            }
+          ],
+          "Artist": "Sung Choi",
+          "Lore": "",
+          "RelatedIds": [
+            298
+          ],
+          "SignatureCard": 298,
+          "fileName": "winter_wyvern"
+        },
+        {
+          "Id": 298,
+          "Name": "Winter's Curse",
+          "CardType": "Spell",
+          "Rarity": "Uncommon",
+          "Color": "Black",
+          "Text": "Disarm a unit until end of round. That unit's allied neighbors battle it.",
           "ManaCost": 6,
           "Artist": "",
           "Lore": "",
-          "fileName": "remote_detonation"
+          "RelatedIds": [
+            297
+          ],
+          "IsSignatureCard": true,
+          "fileName": "winters_curse"
+        },
+        {
+          "Id": 299,
+          "Name": "Wrath of Gold",
+          "CardType": "Spell",
+          "Rarity": "Rare",
+          "Color": "Blue",
+          "Text": "Spend all your gold. Repeat one time for each gold spent: Deal 4 damage to a random ally or enemy.",
+          "ManaCost": 3,
+          "Artist": "",
+          "Lore": "",
+          "fileName": "wrath_of_gold"
+        },
+        {
+          "Id": 300,
+          "Name": "Zeus",
+          "CardType": "Hero",
+          "Rarity": "Common",
+          "Color": "Blue",
+          "Attack": 3,
+          "Armor": 0,
+          "Health": 7,
+          "Abilities": [
+            {
+              "Name": "Static Field",
+              "Type": "Reactive",
+              "Text": "Deal 1 piercing damage to Zeus's enemy neighbors after you play a blue spell."
+            }
+          ],
+          "Artist": "",
+          "Lore": "",
+          "RelatedIds": [
+            265
+          ],
+          "SignatureCard": 265,
+          "fileName": "zeus"
+        },
+        {
+          "Id": 301,
+          "Name": "Zombie",
+          "CardType": "Creep",
+          "Rarity": "Basic",
+          "Color": "Black",
+          "ManaCost": 3,
+          "Attack": 2,
+          "Armor": 0,
+          "Health": 2,
+          "Token": true,
+          "Artist": "Forrest Imel",
+          "Lore": "",
+          "fileName": "zombie"
         }
       ]
     }
