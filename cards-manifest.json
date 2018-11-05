@@ -4692,7 +4692,7 @@
           "RelatedIds": [
             252
           ],
-          "isSignatureCard": true,
+          "IsSignatureCard": true,
           "fileName": "assassinate"
         },
         {
@@ -4755,7 +4755,7 @@
           "RelatedIds": [
             255
           ],
-          "isSignatureCard": true,
+          "IsSignatureCard": true,
           "fileName": "astral_imprisionment"
         },
         {
@@ -4913,7 +4913,7 @@
           "RelatedIds": [
             265
           ],
-          "isSignatureCard": true,
+          "IsSignatureCard": true,
           "fileName": "empower"
         },
         {
