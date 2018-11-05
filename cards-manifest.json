@@ -15,7 +15,7 @@
           "ManaCost": 4,
           "Artist": "Randy Vargas",
           "Lore": "",
-          "fileName": "and_one_for_me"
+          "FileName": "and_one_for_me"
         },
         {
           "Id": 2,
@@ -40,7 +40,7 @@
             8
           ],
           "SignatureCard": 8,
-          "fileName": "abaddon"
+          "FileName": "abaddon"
         },
         {
           "Id": 3,
@@ -56,7 +56,7 @@
             218
           ],
           "IsSignatureCard": true,
-          "fileName": "act_of_defiance"
+          "FileName": "act_of_defiance"
         },
         {
           "Id": 4,
@@ -77,7 +77,7 @@
           "Artist": "",
           "Lore": "",
           "CrossLane": true,
-          "fileName": "aghanims_sanctum"
+          "FileName": "aghanims_sanctum"
         },
         {
           "Id": 5,
@@ -93,7 +93,7 @@
             177
           ],
           "IsSignatureCard": true,
-          "fileName": "allseeing_ones_favor"
+          "FileName": "allseeing_ones_favor"
         },
         {
           "Id": 6,
@@ -113,7 +113,7 @@
           "Artist": "Dimitar Marinski",
           "Lore": "",
           "CrossLane": true,
-          "fileName": "altar_of_the_mad_moon"
+          "FileName": "altar_of_the_mad_moon"
         },
         {
           "Id": 7,
@@ -125,7 +125,7 @@
           "ManaCost": 6,
           "Artist": "Titus Lunter",
           "Lore": "",
-          "fileName": "annihilation"
+          "FileName": "annihilation"
         },
         {
           "Id": 8,
@@ -141,7 +141,7 @@
             2
           ],
           "IsSignatureCard": true,
-          "fileName": "aphotic_shield"
+          "FileName": "aphotic_shield"
         },
         {
           "Id": 9,
@@ -167,7 +167,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "apotheosis_blade"
+          "FileName": "apotheosis_blade"
         },
         {
           "Id": 10,
@@ -180,7 +180,7 @@
           "ManaCost": 4,
           "Artist": "",
           "Lore": "",
-          "fileName": "arcane_assault"
+          "FileName": "arcane_assault"
         },
         {
           "Id": 11,
@@ -192,7 +192,7 @@
           "ManaCost": 4,
           "Artist": "",
           "Lore": "",
-          "fileName": "arcane_censure"
+          "FileName": "arcane_censure"
         },
         {
           "Id": 12,
@@ -215,7 +215,7 @@
           ],
           "Artist": "David Palumbo",
           "Lore": "",
-          "fileName": "assassins_apprentice"
+          "FileName": "assassins_apprentice"
         },
         {
           "Id": 13,
@@ -241,7 +241,7 @@
           "Health": 5,
           "Artist": "",
           "Lore": "",
-          "fileName": "assassins_shadow",
+          "FileName": "assassins_shadow",
           "ManaCost": 7
         },
         {
@@ -263,7 +263,7 @@
           "GoldCost": 6,
           "Artist": "",
           "Lore": "",
-          "fileName": "assassins_veil"
+          "FileName": "assassins_veil"
         },
         {
           "Id": 15,
@@ -280,7 +280,7 @@
             242
           ],
           "IsSignatureCard": true,
-          "fileName": "assassinate"
+          "FileName": "assassinate"
         },
         {
           "Id": 16,
@@ -304,7 +304,7 @@
           ],
           "CrossLane": true,
           "IsSignatureCard": true,
-          "fileName": "assault_ladders"
+          "FileName": "assault_ladders"
         },
         {
           "Id": 17,
@@ -324,7 +324,7 @@
           "Artist": "Titus Lunter",
           "Lore": "",
           "CrossLane": true,
-          "fileName": "assured_destruction"
+          "FileName": "assured_destruction"
         },
         {
           "Id": 18,
@@ -340,7 +340,7 @@
             178
           ],
           "IsSignatureCard": true,
-          "fileName": "astral_imprisionment"
+          "FileName": "astral_imprisionment"
         },
         {
           "Id": 19,
@@ -352,7 +352,7 @@
           "ManaCost": 3,
           "Artist": "",
           "Lore": "",
-          "fileName": "at_any_cost"
+          "FileName": "at_any_cost"
         },
         {
           "Id": 20,
@@ -364,7 +364,7 @@
           "Text": "Modify a unit with +2 Attack.",
           "Artist": "",
           "Lore": "",
-          "fileName": "avernus_blessing"
+          "FileName": "avernus_blessing"
         },
         {
           "Id": 21,
@@ -381,7 +381,7 @@
             28
           ],
           "SignatureCard": 28,
-          "fileName": "axe"
+          "FileName": "axe"
         },
         {
           "Id": 22,
@@ -398,7 +398,7 @@
           "IsSignatureCard": true,
           "Artist": "",
           "Lore": "",
-          "fileName": "ball_lightning"
+          "FileName": "ball_lightning"
         },
         {
           "Id": 23,
@@ -418,7 +418,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "barbed_mail"
+          "FileName": "barbed_mail"
         },
         {
           "Id": 24,
@@ -442,7 +442,7 @@
           ],
           "CrossLane": true,
           "IsSignatureCard": true,
-          "fileName": "barracks"
+          "FileName": "barracks"
         },
         {
           "Id": 25,
@@ -458,7 +458,7 @@
             132
           ],
           "IsSignatureCard": true,
-          "fileName": "battlefield_control"
+          "FileName": "battlefield_control"
         },
         {
           "Id": 26,
@@ -484,7 +484,7 @@
             150
           ],
           "SignatureCard": 196,
-          "fileName": "beastmaster"
+          "FileName": "beastmaster"
         },
         {
           "Id": 27,
@@ -496,7 +496,7 @@
           "ManaCost": 2,
           "Artist": "",
           "Lore": "",
-          "fileName": "bellow"
+          "FileName": "bellow"
         },
         {
           "Id": 28,
@@ -512,7 +512,7 @@
             21
           ],
           "IsSignatureCard": true,
-          "fileName": "berserkers_call"
+          "FileName": "berserkers_call"
         },
         {
           "Id": 29,
@@ -525,7 +525,7 @@
           "Artist": "",
           "Lore": "",
           "CrossLane": true,
-          "fileName": "better_late_than_never"
+          "FileName": "better_late_than_never"
         },
         {
           "Id": 30,
@@ -546,7 +546,7 @@
           "Artist": "Lius Lasahido",
           "Lore": "\"Look around you commander, this is what awaits your beloved Stonehall.\" \"You're very confident for a woman who's about to die.\" - Roseleaf in flames",
           "CrossLane": true,
-          "fileName": "bitter_enemies"
+          "FileName": "bitter_enemies"
         },
         {
           "Id": 31,
@@ -566,7 +566,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "blade_of_the_vigil"
+          "FileName": "blade_of_the_vigil"
         },
         {
           "Id": 32,
@@ -592,7 +592,7 @@
           "GoldCost": 7,
           "Artist": "",
           "Lore": "",
-          "fileName": "blink_dagger"
+          "FileName": "blink_dagger"
         },
         {
           "Id": 33,
@@ -608,7 +608,7 @@
             34
           ],
           "IsSignatureCard": true,
-          "fileName": "blood_rage"
+          "FileName": "blood_rage"
         },
         {
           "Id": 34,
@@ -632,7 +632,7 @@
             33
           ],
           "SignatureCard": 33,
-          "fileName": "bloodseeker"
+          "FileName": "bloodseeker"
         },
         {
           "Id": 35,
@@ -644,7 +644,7 @@
           "ManaCost": 10,
           "Artist": "Daniel Romanovsky",
           "Lore": "",
-          "fileName": "bolt_of_damocles"
+          "FileName": "bolt_of_damocles"
         },
         {
           "Id": 36,
@@ -670,7 +670,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "book_of_the_dead"
+          "FileName": "book_of_the_dead"
         },
         {
           "Id": 37,
@@ -694,7 +694,7 @@
             274
           ],
           "SignatureCard": 274,
-          "fileName": "bounty_hunter"
+          "FileName": "bounty_hunter"
         },
         {
           "Id": 38,
@@ -719,7 +719,7 @@
           "GoldCost": 8,
           "Artist": "",
           "Lore": "",
-          "fileName": "bracers_of_sacrifice"
+          "FileName": "bracers_of_sacrifice"
         },
         {
           "Id": 39,
@@ -743,7 +743,7 @@
             292
           ],
           "SignatureCard": 292,
-          "fileName": "bristleback"
+          "FileName": "bristleback"
         },
         {
           "Id": 40,
@@ -763,7 +763,7 @@
           "GoldCost": 7,
           "Artist": "",
           "Lore": "",
-          "fileName": "broadsword"
+          "FileName": "broadsword"
         },
         {
           "Id": 41,
@@ -777,7 +777,7 @@
           "Health": 2,
           "Artist": "",
           "Lore": "",
-          "fileName": "bronze_legionnaire"
+          "FileName": "bronze_legionnaire"
         },
         {
           "Id": 42,
@@ -797,7 +797,7 @@
           "Artist": "Mike Lim",
           "Lore": "",
           "CrossLane": true,
-          "fileName": "burning_oil"
+          "FileName": "burning_oil"
         },
         {
           "Id": 43,
@@ -809,7 +809,7 @@
           "ManaCost": 3,
           "Artist": "",
           "Lore": "",
-          "fileName": "buying_time"
+          "FileName": "buying_time"
         },
         {
           "Id": 44,
@@ -821,7 +821,7 @@
           "CrossLane": true,
           "Artist": "",
           "Lore": "",
-          "fileName": "call_the_reserves",
+          "FileName": "call_the_reserves",
           "ManaCost": 6
         },
         {
@@ -834,7 +834,7 @@
           "Text": "Stun a hero until they equip an item.",
           "Artist": "",
           "Lore": "",
-          "fileName": "caught_unprepared"
+          "FileName": "caught_unprepared"
         },
         {
           "Id": 46,
@@ -849,7 +849,7 @@
           "Token": true,
           "Artist": "James Paick",
           "Lore": "",
-          "fileName": "centaur_hunter"
+          "FileName": "centaur_hunter"
         },
         {
           "Id": 47,
@@ -873,7 +873,7 @@
             83
           ],
           "SignatureCard": 83,
-          "fileName": "centaur_warrunner"
+          "FileName": "centaur_warrunner"
         },
         {
           "Id": 48,
@@ -890,7 +890,7 @@
             145
           ],
           "IsSignatureCard": true,
-          "fileName": "chain_frost"
+          "FileName": "chain_frost"
         },
         {
           "Id": 49,
@@ -910,7 +910,7 @@
           "GoldCost": 7,
           "Artist": "",
           "Lore": "",
-          "fileName": "chainmail"
+          "FileName": "chainmail"
         },
         {
           "Id": 50,
@@ -932,7 +932,7 @@
           ],
           "Artist": "Mike Lim",
           "Lore": "",
-          "fileName": "champion_of_the_ancient"
+          "FileName": "champion_of_the_ancient"
         },
         {
           "Id": 51,
@@ -951,7 +951,7 @@
           "CrossLane": true,
           "Artist": "",
           "Lore": "",
-          "fileName": "cheating_death",
+          "FileName": "cheating_death",
           "ManaCost": 5
         },
         {
@@ -977,7 +977,7 @@
             113
           ],
           "SignatureCard": 113,
-          "fileName": "chen"
+          "FileName": "chen"
         },
         {
           "Id": 53,
@@ -1001,7 +1001,7 @@
           "GoldCost": 10,
           "Artist": "",
           "Lore": "",
-          "fileName": "claszureme_hourglass"
+          "FileName": "claszureme_hourglass"
         },
         {
           "Id": 54,
@@ -1021,7 +1021,7 @@
           "GoldCost": 15,
           "Artist": "",
           "Lore": "",
-          "fileName": "claymore"
+          "FileName": "claymore"
         },
         {
           "Id": 55,
@@ -1033,7 +1033,7 @@
           "Text": "Purge your opponent's effects from a hero.",
           "Artist": "",
           "Lore": "",
-          "fileName": "cleansing_rite"
+          "FileName": "cleansing_rite"
         },
         {
           "Id": 56,
@@ -1045,7 +1045,7 @@
           "ManaCost": 4,
           "Artist": "Bayard Wu",
           "Lore": "",
-          "fileName": "clear_the_deck"
+          "FileName": "clear_the_deck"
         },
         {
           "Id": 57,
@@ -1070,7 +1070,7 @@
           "GoldCost": 13,
           "Artist": "",
           "Lore": "",
-          "fileName": "cloak_of_endless_carnage"
+          "FileName": "cloak_of_endless_carnage"
         },
         {
           "Id": 58,
@@ -1082,7 +1082,7 @@
           "ManaCost": 4,
           "Artist": "",
           "Lore": "",
-          "fileName": "collateral_damage"
+          "FileName": "collateral_damage"
         },
         {
           "Id": 59,
@@ -1094,7 +1094,7 @@
           "ManaCost": 3,
           "Artist": "",
           "Lore": "",
-          "fileName": "combat_training"
+          "FileName": "combat_training"
         },
         {
           "Id": 60,
@@ -1106,7 +1106,7 @@
           "ManaCost": 3,
           "Artist": "Lake Hurwitz",
           "Lore": "",
-          "fileName": "compel"
+          "FileName": "compel"
         },
         {
           "Id": 61,
@@ -1126,7 +1126,7 @@
           "Artist": "",
           "Lore": "",
           "CrossLane": true,
-          "fileName": "conflagration"
+          "FileName": "conflagration"
         },
         {
           "Id": 62,
@@ -1138,7 +1138,7 @@
           "ManaCost": 4,
           "Artist": "Wisnu Tan",
           "Lore": "",
-          "fileName": "coordinated_assault"
+          "FileName": "coordinated_assault"
         },
         {
           "Id": 63,
@@ -1150,7 +1150,7 @@
           "ManaCost": 5,
           "Artist": "",
           "Lore": "",
-          "fileName": "corrosive_mist"
+          "FileName": "corrosive_mist"
         },
         {
           "Id": 64,
@@ -1166,7 +1166,7 @@
             184
           ],
           "IsSignatureCard": true,
-          "fileName": "coup_de_grace"
+          "FileName": "coup_de_grace"
         },
         {
           "Id": 65,
@@ -1178,7 +1178,7 @@
           "ManaCost": 4,
           "Artist": "",
           "Lore": "",
-          "fileName": "crippling_blow"
+          "FileName": "crippling_blow"
         },
         {
           "Id": 66,
@@ -1202,7 +1202,7 @@
             104
           ],
           "SignatureCard": 104,
-          "fileName": "crystal_maiden"
+          "FileName": "crystal_maiden"
         },
         {
           "Id": 67,
@@ -1214,7 +1214,7 @@
           "ManaCost": 2,
           "Artist": "",
           "Lore": "",
-          "fileName": "cunning_plan"
+          "FileName": "cunning_plan"
         },
         {
           "Id": 68,
@@ -1225,7 +1225,7 @@
           "Text": "Modify enemy heroes with -2 Attack.",
           "Artist": "",
           "Lore": "",
-          "fileName": "curse_of_atrophy",
+          "FileName": "curse_of_atrophy",
           "ManaCost": 6
         },
         {
@@ -1247,7 +1247,7 @@
           ],
           "Artist": "Jakub Kasper",
           "Lore": "",
-          "fileName": "cursed_satyr"
+          "FileName": "cursed_satyr"
         },
         {
           "Id": 70,
@@ -1272,7 +1272,7 @@
             129
           ],
           "SignatureCard": 129,
-          "fileName": "dark_seer"
+          "FileName": "dark_seer"
         },
         {
           "Id": 71,
@@ -1296,7 +1296,7 @@
             169
           ],
           "SignatureCard": 169,
-          "fileName": "debbi_the_cunning"
+          "FileName": "debbi_the_cunning"
         },
         {
           "Id": 72,
@@ -1307,7 +1307,7 @@
           "Text": "Modify a unit with \"This unit's allied neighbors have +2 Armor.\"",
           "Artist": "",
           "Lore": "",
-          "fileName": "defend_the_weak",
+          "FileName": "defend_the_weak",
           "ManaCost": 2
         },
         {
@@ -1324,7 +1324,7 @@
             222
           ],
           "IsSignatureCard": true,
-          "fileName": "defensive_bloom"
+          "FileName": "defensive_bloom"
         },
         {
           "Id": 74,
@@ -1336,7 +1336,7 @@
           "ManaCost": 2,
           "Artist": "",
           "Lore": "",
-          "fileName": "defensive_stance"
+          "FileName": "defensive_stance"
         },
         {
           "Id": 75,
@@ -1362,7 +1362,7 @@
           ],
           "Artist": "Lake Hurwitz",
           "Lore": "",
-          "fileName": "demagicking_maul"
+          "FileName": "demagicking_maul"
         },
         {
           "Id": 76,
@@ -1374,7 +1374,7 @@
           "ManaCost": 1,
           "Artist": "Jana Schirmer",
           "Lore": "",
-          "fileName": "diabolic_revelation"
+          "FileName": "diabolic_revelation"
         },
         {
           "Id": 77,
@@ -1386,7 +1386,7 @@
           "ManaCost": 4,
           "Artist": "",
           "Lore": "",
-          "fileName": "dimensional_portal"
+          "FileName": "dimensional_portal"
         },
         {
           "Id": 78,
@@ -1398,7 +1398,7 @@
           "ManaCost": 3,
           "Artist": "",
           "Lore": "",
-          "fileName": "dirty_deeds"
+          "FileName": "dirty_deeds"
         },
         {
           "Id": 79,
@@ -1420,7 +1420,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "disciple_of_nevermore"
+          "FileName": "disciple_of_nevermore"
         },
         {
           "Id": 80,
@@ -1436,7 +1436,7 @@
             157
           ],
           "IsSignatureCard": true,
-          "fileName": "divided_we_stand"
+          "FileName": "divided_we_stand"
         },
         {
           "Id": 81,
@@ -1448,7 +1448,7 @@
           "ManaCost": 5,
           "Artist": "",
           "Lore": "",
-          "fileName": "divine_intervention"
+          "FileName": "divine_intervention"
         },
         {
           "Id": 82,
@@ -1460,7 +1460,7 @@
           "ManaCost": 7,
           "Artist": "",
           "Lore": "",
-          "fileName": "divine_purpose"
+          "FileName": "divine_purpose"
         },
         {
           "Id": 83,
@@ -1476,7 +1476,7 @@
             47
           ],
           "IsSignatureCard": true,
-          "fileName": "double_edge"
+          "FileName": "double_edge"
         },
         {
           "Id": 84,
@@ -1500,7 +1500,7 @@
           "SignatureCard": 112,
           "Artist": "",
           "Lore": "",
-          "fileName": "drow_ranger"
+          "FileName": "drow_ranger"
         },
         {
           "Id": 85,
@@ -1516,7 +1516,7 @@
             143
           ],
           "IsSignatureCard": true,
-          "fileName": "duel"
+          "FileName": "duel"
         },
         {
           "Id": 86,
@@ -1541,7 +1541,7 @@
             87
           ],
           "SignatureCard": 87,
-          "fileName": "earthshaker"
+          "FileName": "earthshaker"
         },
         {
           "Id": 87,
@@ -1557,7 +1557,7 @@
             86
           ],
           "IsSignatureCard": true,
-          "fileName": "echo_slam"
+          "FileName": "echo_slam"
         },
         {
           "Id": 88,
@@ -1573,7 +1573,7 @@
             151
           ],
           "IsSignatureCard": true,
-          "fileName": "eclipse"
+          "FileName": "eclipse"
         },
         {
           "Id": 89,
@@ -1595,7 +1595,7 @@
           "Health": 10,
           "Artist": "",
           "Lore": "",
-          "fileName": "emissary_of_the_quorum",
+          "FileName": "emissary_of_the_quorum",
           "ManaCost": 8
         },
         {
@@ -1612,7 +1612,7 @@
             153
           ],
           "IsSignatureCard": true,
-          "fileName": "empower"
+          "FileName": "empower"
         },
         {
           "Id": 91,
@@ -1636,7 +1636,7 @@
             287
           ],
           "SignatureCard": 287,
-          "fileName": "enchantress"
+          "FileName": "enchantress"
         },
         {
           "Id": 92,
@@ -1648,7 +1648,7 @@
           "ManaCost": 5,
           "Artist": "",
           "Lore": "",
-          "fileName": "enough_magic"
+          "FileName": "enough_magic"
         },
         {
           "Id": 93,
@@ -1663,7 +1663,7 @@
           "IsSignatureCard": true,
           "Artist": "",
           "Lore": "",
-          "fileName": "enrage",
+          "FileName": "enrage",
           "ManaCost": 4
         },
         {
@@ -1685,7 +1685,7 @@
           "Artist": "Bayard Wu",
           "Lore": "",
           "CrossLane": true,
-          "fileName": "escape_route"
+          "FileName": "escape_route"
         },
         {
           "Id": 95,
@@ -1708,7 +1708,7 @@
           "RelatedIds": [
             197
           ],
-          "fileName": "fahrvhan_the_dreamer"
+          "FileName": "fahrvhan_the_dreamer"
         },
         {
           "Id": 96,
@@ -1721,7 +1721,7 @@
           "GetInitiative": true,
           "Artist": "",
           "Lore": "",
-          "fileName": "fight_through_the_pain"
+          "FileName": "fight_through_the_pain"
         },
         {
           "Id": 97,
@@ -1737,7 +1737,7 @@
             136
           ],
           "IsSignatureCard": true,
-          "fileName": "fighting_instinct"
+          "FileName": "fighting_instinct"
         },
         {
           "Id": 98,
@@ -1748,7 +1748,7 @@
           "Text": "Each enemy has a 50% chance of being disarmed this round.",
           "Artist": "",
           "Lore": "",
-          "fileName": "fog_of_war",
+          "FileName": "fog_of_war",
           "ManaCost": 4
         },
         {
@@ -1761,7 +1761,7 @@
           "ManaCost": 4,
           "Artist": "",
           "Lore": "",
-          "fileName": "foresight"
+          "FileName": "foresight"
         },
         {
           "Id": 100,
@@ -1773,7 +1773,7 @@
           "ManaCost": 3,
           "Artist": "Darek Zabrocki",
           "Lore": "",
-          "fileName": "forward_charge"
+          "FileName": "forward_charge"
         },
         {
           "Id": 101,
@@ -1786,7 +1786,7 @@
           "GoldCost": 4,
           "Artist": "",
           "Lore": "",
-          "fileName": "fountain_flask"
+          "FileName": "fountain_flask"
         },
         {
           "Id": 102,
@@ -1805,7 +1805,7 @@
           "CrossLane": true,
           "Artist": "",
           "Lore": "",
-          "fileName": "fractured_timeline",
+          "FileName": "fractured_timeline",
           "ManaCost": 2
         },
         {
@@ -1818,7 +1818,7 @@
           "ManaCost": 6,
           "Artist": "",
           "Lore": "",
-          "fileName": "friendly_fire"
+          "FileName": "friendly_fire"
         },
         {
           "Id": 104,
@@ -1834,7 +1834,7 @@
             66
           ],
           "IsSignatureCard": true,
-          "fileName": "frostbite"
+          "FileName": "frostbite"
         },
         {
           "Id": 105,
@@ -1854,7 +1854,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "fur-lined_mantle"
+          "FileName": "fur-lined_mantle"
         },
         {
           "Id": 106,
@@ -1867,7 +1867,7 @@
           "Artist": "",
           "Lore": "",
           "CrossLane": true,
-          "fileName": "gank"
+          "FileName": "gank"
         },
         {
           "Id": 107,
@@ -1886,7 +1886,7 @@
           "CrossLane": true,
           "Artist": "",
           "Lore": "",
-          "fileName": "glyph_of_confusion",
+          "FileName": "glyph_of_confusion",
           "ManaCost": 6
         },
         {
@@ -1901,7 +1901,7 @@
           "Text": "Modify a red hero with +4 Attack.",
           "Artist": "",
           "Lore": "",
-          "fileName": "gods_strength",
+          "FileName": "gods_strength",
           "ManaCost": 6
         },
         {
@@ -1922,7 +1922,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "golden_ticket"
+          "FileName": "golden_ticket"
         },
         {
           "Id": 110,
@@ -1942,7 +1942,7 @@
           "Artist": "JiHun Lee",
           "Lore": "",
           "CrossLane": true,
-          "fileName": "grand_melee"
+          "FileName": "grand_melee"
         },
         {
           "Id": 111,
@@ -1955,7 +1955,7 @@
           "Artist": "",
           "Lore": "",
           "CrossLane": true,
-          "fileName": "grazing_shot"
+          "FileName": "grazing_shot"
         },
         {
           "Id": 112,
@@ -1970,7 +1970,7 @@
           "IsSignatureCard": true,
           "Artist": "",
           "Lore": "",
-          "fileName": "gust",
+          "FileName": "gust",
           "ManaCost": 4
         },
         {
@@ -1987,7 +1987,7 @@
             52
           ],
           "IsSignatureCard": true,
-          "fileName": "hand_of_god"
+          "FileName": "hand_of_god"
         },
         {
           "Id": 114,
@@ -2000,7 +2000,7 @@
           "GoldCost": 3,
           "Artist": "",
           "Lore": "",
-          "fileName": "healing_salve"
+          "FileName": "healing_salve"
         },
         {
           "Id": 115,
@@ -2016,7 +2016,7 @@
             166
           ],
           "IsSignatureCard": true,
-          "fileName": "heartstopper_aura"
+          "FileName": "heartstopper_aura"
         },
         {
           "Id": 116,
@@ -2038,7 +2038,7 @@
           ],
           "Artist": "Vance Kovacs",
           "Lore": "",
-          "fileName": "hellbear_crippler"
+          "FileName": "hellbear_crippler"
         },
         {
           "Id": 117,
@@ -2058,7 +2058,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "helm_of_the_dominator"
+          "FileName": "helm_of_the_dominator"
         },
         {
           "Id": 118,
@@ -2071,7 +2071,7 @@
           "GoldCost": 15,
           "Artist": "",
           "Lore": "",
-          "fileName": "heros_cape"
+          "FileName": "heros_cape"
         },
         {
           "Id": 119,
@@ -2083,7 +2083,7 @@
           "GoldCost": 2,
           "Artist": "",
           "Lore": "",
-          "fileName": "heroic_resolve"
+          "FileName": "heroic_resolve"
         },
         {
           "Id": 120,
@@ -2096,7 +2096,7 @@
           "GetInitiative": true,
           "Artist": "",
           "Lore": "",
-          "fileName": "hip_fire"
+          "FileName": "hip_fire"
         },
         {
           "Id": 121,
@@ -2116,7 +2116,7 @@
           "Artist": "Jason Kang",
           "Lore": "",
           "CrossLane": true,
-          "fileName": "homefield_advantage"
+          "FileName": "homefield_advantage"
         },
         {
           "Id": 122,
@@ -2137,7 +2137,7 @@
           "Health": 4,
           "Artist": "",
           "Lore": "",
-          "fileName": "horde_catapult",
+          "FileName": "horde_catapult",
           "ManaCost": 2
         },
         {
@@ -2164,7 +2164,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "horn_of_the_alpha"
+          "FileName": "horn_of_the_alpha"
         },
         {
           "Id": 124,
@@ -2179,7 +2179,7 @@
           "Token": true,
           "Artist": "",
           "Lore": "",
-          "fileName": "hound_of_war"
+          "FileName": "hound_of_war"
         },
         {
           "Id": 125,
@@ -2199,7 +2199,7 @@
           "Artist": "",
           "Lore": "",
           "CrossLane": true,
-          "fileName": "howling_mind"
+          "FileName": "howling_mind"
         },
         {
           "Id": 126,
@@ -2222,7 +2222,7 @@
           "IsSignatureCard": true,
           "Artist": "",
           "Lore": "",
-          "fileName": "ignite",
+          "FileName": "ignite",
           "ManaCost": 3
         },
         {
@@ -2238,7 +2238,7 @@
           "ManaCost": 9,
           "Artist": "",
           "Lore": "",
-          "fileName": "incarnation_of_selemene"
+          "FileName": "incarnation_of_selemene"
         },
         {
           "Id": 128,
@@ -2250,7 +2250,7 @@
           "ManaCost": 5,
           "Artist": "Bayard Wu",
           "Lore": "",
-          "fileName": "intimidation"
+          "FileName": "intimidation"
         },
         {
           "Id": 129,
@@ -2266,7 +2266,7 @@
             70
           ],
           "IsSignatureCard": true,
-          "fileName": "ion_shell"
+          "FileName": "ion_shell"
         },
         {
           "Id": 130,
@@ -2279,7 +2279,7 @@
           "Artist": "Magali Villeneuve",
           "Lore": "",
           "CrossLane": true,
-          "fileName": "iron_branch_protection"
+          "FileName": "iron_branch_protection"
         },
         {
           "Id": 131,
@@ -2299,7 +2299,7 @@
           "Artist": "James Paick",
           "Lore": "\"Iron Fog. A city of industry. Of Precision. Of perfection. I guided not only its construction, but its conception. And while some take issue with our labor practices, the results speak for themselves.\"  — The Brass Herald, King of Iron Fog.",
           "CrossLane": true,
-          "fileName": "iron_fog_goldmine"
+          "FileName": "iron_fog_goldmine"
         },
         {
           "Id": 132,
@@ -2324,7 +2324,7 @@
             25
           ],
           "SignatureCard": 25,
-          "fileName": "jmuy_the_wise"
+          "FileName": "jmuy_the_wise"
         },
         {
           "Id": 133,
@@ -2344,7 +2344,7 @@
           "GoldCost": 7,
           "Artist": "",
           "Lore": "",
-          "fileName": "jasper_daggers"
+          "FileName": "jasper_daggers"
         },
         {
           "Id": 134,
@@ -2356,7 +2356,7 @@
           "ManaCost": 1,
           "Artist": "",
           "Lore": "",
-          "fileName": "juke"
+          "FileName": "juke"
         },
         {
           "Id": 135,
@@ -2380,7 +2380,7 @@
             195
           ],
           "SignatureCard": 195,
-          "fileName": "kanna"
+          "FileName": "kanna"
         },
         {
           "Id": 136,
@@ -2397,7 +2397,7 @@
             97
           ],
           "SignatureCard": 97,
-          "fileName": "keefe_the_bold"
+          "FileName": "keefe_the_bold"
         },
         {
           "Id": 137,
@@ -2419,7 +2419,7 @@
           "ManaCost": 9,
           "Artist": "",
           "Lore": "",
-          "fileName": "keenfolk_golem"
+          "FileName": "keenfolk_golem"
         },
         {
           "Id": 138,
@@ -2445,7 +2445,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "keenfolk_musket"
+          "FileName": "keenfolk_musket"
         },
         {
           "Id": 139,
@@ -2465,7 +2465,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "keenfolk_plate"
+          "FileName": "keenfolk_plate"
         },
         {
           "Id": 140,
@@ -2486,7 +2486,7 @@
           "Artist": "Robbie Trevino",
           "Lore": "",
           "CrossLane": true,
-          "fileName": "keenfolk_turret"
+          "FileName": "keenfolk_turret"
         },
         {
           "Id": 141,
@@ -2503,7 +2503,7 @@
             269
           ],
           "IsSignatureCard": true,
-          "fileName": "kraken_shell"
+          "FileName": "kraken_shell"
         },
         {
           "Id": 142,
@@ -2523,7 +2523,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "leather_armor"
+          "FileName": "leather_armor"
         },
         {
           "Id": 143,
@@ -2547,7 +2547,7 @@
             85
           ],
           "SignatureCard": 85,
-          "fileName": "legion_commander"
+          "FileName": "legion_commander"
         },
         {
           "Id": 144,
@@ -2569,7 +2569,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "legion_standard_bearer"
+          "FileName": "legion_standard_bearer"
         },
         {
           "Id": 145,
@@ -2594,7 +2594,7 @@
             48
           ],
           "SignatureCard": 48,
-          "fileName": "lich"
+          "FileName": "lich"
         },
         {
           "Id": 146,
@@ -2606,7 +2606,7 @@
           "ManaCost": 2,
           "Artist": "Daniel Romanovsky",
           "Lore": "\"Be grateful you only annoyed me mortal, had you offended me the results would be far more... interesting.\" — Zeus, 'Merciful' God",
-          "fileName": "lightning_strike"
+          "FileName": "lightning_strike"
         },
         {
           "Id": 147,
@@ -2631,7 +2631,7 @@
             154
           ],
           "SignatureCard": 154,
-          "fileName": "lion"
+          "FileName": "lion"
         },
         {
           "Id": 148,
@@ -2642,7 +2642,7 @@
           "Text": "Deal damage to the enemy tower equal to the total Armor on enemies.",
           "Artist": "",
           "Lore": "",
-          "fileName": "lodestone_demolition",
+          "FileName": "lodestone_demolition",
           "ManaCost": 3
         },
         {
@@ -2655,7 +2655,7 @@
           "Text": "Give three random cards in opponent's hand +3 Lock.",
           "Artist": "",
           "Lore": "",
-          "fileName": "lost_in_time"
+          "FileName": "lost_in_time"
         },
         {
           "Id": 150,
@@ -2678,7 +2678,7 @@
           "Token": true,
           "Artist": "Clint Cearley",
           "Lore": "",
-          "fileName": "loyal_beast"
+          "FileName": "loyal_beast"
         },
         {
           "Id": 151,
@@ -2702,7 +2702,7 @@
             88
           ],
           "SignatureCard": 88,
-          "fileName": "luna"
+          "FileName": "luna"
         },
         {
           "Id": 152,
@@ -2725,7 +2725,7 @@
           "RelatedIds": [
             227
           ],
-          "fileName": "lycan"
+          "FileName": "lycan"
         },
         {
           "Id": 153,
@@ -2742,7 +2742,7 @@
           "SignatureCard": 90,
           "Artist": "",
           "Lore": "",
-          "fileName": "magnus"
+          "FileName": "magnus"
         },
         {
           "Id": 154,
@@ -2758,7 +2758,7 @@
             147
           ],
           "IsSignatureCard": true,
-          "fileName": "mana_drain"
+          "FileName": "mana_drain"
         },
         {
           "Id": 155,
@@ -2771,7 +2771,7 @@
           "Health": 16,
           "Artist": "",
           "Lore": "",
-          "fileName": "marrowfell_brawler",
+          "FileName": "marrowfell_brawler",
           "ManaCost": 6
         },
         {
@@ -2789,7 +2789,7 @@
             251
           ],
           "SignatureCard": 251,
-          "fileName": "mazzie"
+          "FileName": "mazzie"
         },
         {
           "Id": 157,
@@ -2819,7 +2819,7 @@
             80
           ],
           "SignatureCard": 80,
-          "fileName": "meepo"
+          "FileName": "meepo"
         },
         {
           "Id": 158,
@@ -2834,7 +2834,7 @@
           "Artist": "",
           "Lore": "",
           "ManaCost": 0,
-          "fileName": "melee_creep"
+          "FileName": "melee_creep"
         },
         {
           "Id": 159,
@@ -2844,7 +2844,7 @@
           "Color": "",
           "Artist": "",
           "Lore": "",
-          "fileName": "melee_creep_dire"
+          "FileName": "melee_creep_dire"
         },
         {
           "Id": 160,
@@ -2854,7 +2854,7 @@
           "Color": "",
           "Artist": "",
           "Lore": "",
-          "fileName": "melee_creep_radiant"
+          "FileName": "melee_creep_radiant"
         },
         {
           "Id": 161,
@@ -2877,7 +2877,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "mercenary_exiles"
+          "FileName": "mercenary_exiles"
         },
         {
           "Id": 162,
@@ -2896,7 +2896,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "messenger_rookery"
+          "FileName": "messenger_rookery"
         },
         {
           "Id": 163,
@@ -2916,7 +2916,7 @@
           "Artist": "",
           "Lore": "",
           "CrossLane": true,
-          "fileName": "mist_of_avernus"
+          "FileName": "mist_of_avernus"
         },
         {
           "Id": 164,
@@ -2928,7 +2928,7 @@
           "ManaCost": 4,
           "Artist": "",
           "Lore": "",
-          "fileName": "murder_plot"
+          "FileName": "murder_plot"
         },
         {
           "Id": 165,
@@ -2944,7 +2944,7 @@
             237
           ],
           "IsSignatureCard": true,
-          "fileName": "mystic_flare"
+          "FileName": "mystic_flare"
         },
         {
           "Id": 166,
@@ -2968,7 +2968,7 @@
             115
           ],
           "SignatureCard": 115,
-          "fileName": "necrophos"
+          "FileName": "necrophos"
         },
         {
           "Id": 167,
@@ -2992,7 +2992,7 @@
           ],
           "CrossLane": true,
           "IsSignatureCard": true,
-          "fileName": "nether_ward"
+          "FileName": "nether_ward"
         },
         {
           "Id": 168,
@@ -3004,7 +3004,7 @@
           "ManaCost": 1,
           "Artist": "",
           "Lore": "",
-          "fileName": "new_orders"
+          "FileName": "new_orders"
         },
         {
           "Id": 169,
@@ -3020,7 +3020,7 @@
             71
           ],
           "IsSignatureCard": true,
-          "fileName": "no_accident"
+          "FileName": "no_accident"
         },
         {
           "Id": 170,
@@ -3046,7 +3046,7 @@
           "GoldCost": 25,
           "Artist": "",
           "Lore": "",
-          "fileName": "nyctashas_guard"
+          "FileName": "nyctashas_guard"
         },
         {
           "Id": 171,
@@ -3066,7 +3066,7 @@
           ],
           "Artist": "Forrest Imel",
           "Lore": "",
-          "fileName": "obliterating_orb"
+          "FileName": "obliterating_orb"
         },
         {
           "Id": 172,
@@ -3088,7 +3088,7 @@
           "ManaCost": 2,
           "Artist": "",
           "Lore": "",
-          "fileName": "oglodi_catapult"
+          "FileName": "oglodi_catapult"
         },
         {
           "Id": 173,
@@ -3110,7 +3110,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "oglodi_vandal"
+          "FileName": "oglodi_vandal"
         },
         {
           "Id": 174,
@@ -3124,7 +3124,7 @@
           "Health": 7,
           "Artist": "",
           "Lore": "",
-          "fileName": "ogre_conscript"
+          "FileName": "ogre_conscript"
         },
         {
           "Id": 175,
@@ -3146,7 +3146,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "ogre_corpse_tosser"
+          "FileName": "ogre_corpse_tosser"
         },
         {
           "Id": 176,
@@ -3170,7 +3170,7 @@
           "SignatureCard": 126,
           "Artist": "",
           "Lore": "",
-          "fileName": "ogre_magi"
+          "FileName": "ogre_magi"
         },
         {
           "Id": 177,
@@ -3195,7 +3195,7 @@
             5
           ],
           "SignatureCard": 5,
-          "fileName": "omniknight"
+          "FileName": "omniknight"
         },
         {
           "Id": 178,
@@ -3221,7 +3221,7 @@
           "SignatureCard": 18,
           "Artist": "",
           "Lore": "",
-          "fileName": "outworld_devourer"
+          "FileName": "outworld_devourer"
         },
         {
           "Id": 179,
@@ -3241,7 +3241,7 @@
           "Artist": "",
           "Lore": "",
           "CrossLane": true,
-          "fileName": "path_of_the_bold"
+          "FileName": "path_of_the_bold"
         },
         {
           "Id": 180,
@@ -3261,7 +3261,7 @@
           "Artist": "",
           "Lore": "",
           "CrossLane": true,
-          "fileName": "path_of_the_cunning"
+          "FileName": "path_of_the_cunning"
         },
         {
           "Id": 181,
@@ -3281,7 +3281,7 @@
           "Artist": "",
           "Lore": "",
           "CrossLane": true,
-          "fileName": "path_of_the_dreamer"
+          "FileName": "path_of_the_dreamer"
         },
         {
           "Id": 182,
@@ -3301,7 +3301,7 @@
           "Artist": "",
           "Lore": "",
           "CrossLane": true,
-          "fileName": "path_of_the_wise"
+          "FileName": "path_of_the_wise"
         },
         {
           "Id": 183,
@@ -3313,7 +3313,7 @@
           "ManaCost": 3,
           "Artist": "",
           "Lore": "",
-          "fileName": "payday"
+          "FileName": "payday"
         },
         {
           "Id": 184,
@@ -3337,7 +3337,7 @@
             64
           ],
           "SignatureCard": 64,
-          "fileName": "phantom_assassin"
+          "FileName": "phantom_assassin"
         },
         {
           "Id": 185,
@@ -3363,7 +3363,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "phase_boots"
+          "FileName": "phase_boots"
         },
         {
           "Id": 186,
@@ -3376,7 +3376,7 @@
           "Artist": "",
           "Lore": "",
           "CrossLane": true,
-          "fileName": "pick_off"
+          "FileName": "pick_off"
         },
         {
           "Id": 187,
@@ -3388,7 +3388,7 @@
           "ManaCost": 2,
           "Artist": "",
           "Lore": "",
-          "fileName": "pick_a_fight"
+          "FileName": "pick_a_fight"
         },
         {
           "Id": 188,
@@ -3402,7 +3402,7 @@
           "Health": 8,
           "Artist": "",
           "Lore": "",
-          "fileName": "pit_fighter_of_quoidge"
+          "FileName": "pit_fighter_of_quoidge"
         },
         {
           "Id": 189,
@@ -3429,7 +3429,7 @@
             285,
             245
           ],
-          "fileName": "plague_ward"
+          "FileName": "plague_ward"
         },
         {
           "Id": 190,
@@ -3449,7 +3449,7 @@
           "GoldCost": 15,
           "Artist": "",
           "Lore": "",
-          "fileName": "platemail"
+          "FileName": "platemail"
         },
         {
           "Id": 191,
@@ -3469,7 +3469,7 @@
           ],
           "Artist": "Pauline Voß",
           "Lore": "Know that this gold must coin a stratagem, Which, cunningly effected, will beget. A very excellent piece of villainy.",
-          "fileName": "poaching_knife"
+          "FileName": "poaching_knife"
         },
         {
           "Id": 192,
@@ -3481,7 +3481,7 @@
           "ManaCost": 1,
           "Artist": "",
           "Lore": "",
-          "fileName": "poised_to_strike"
+          "FileName": "poised_to_strike"
         },
         {
           "Id": 193,
@@ -3494,7 +3494,7 @@
           "GoldCost": 5,
           "Artist": "",
           "Lore": "",
-          "fileName": "potion_of_knowledge"
+          "FileName": "potion_of_knowledge"
         },
         {
           "Id": 194,
@@ -3518,7 +3518,7 @@
             24
           ],
           "SignatureCard": 24,
-          "fileName": "prellex"
+          "FileName": "prellex"
         },
         {
           "Id": 195,
@@ -3534,7 +3534,7 @@
             135
           ],
           "IsSignatureCard": true,
-          "fileName": "prey_on_the_weak"
+          "FileName": "prey_on_the_weak"
         },
         {
           "Id": 196,
@@ -3550,7 +3550,7 @@
             26
           ],
           "IsSignatureCard": true,
-          "fileName": "primal_roar"
+          "FileName": "primal_roar"
         },
         {
           "Id": 197,
@@ -3575,7 +3575,7 @@
           "RelatedIds": [
             95
           ],
-          "fileName": "prowler_vanguard"
+          "FileName": "prowler_vanguard"
         },
         {
           "Id": 198,
@@ -3600,7 +3600,7 @@
             167
           ],
           "SignatureCard": 167,
-          "fileName": "pugna"
+          "FileName": "pugna"
         },
         {
           "Id": 199,
@@ -3621,7 +3621,7 @@
           "Health": 3,
           "Artist": "",
           "Lore": "",
-          "fileName": "rampaging_hellbear",
+          "FileName": "rampaging_hellbear",
           "ManaCost": 4
         },
         {
@@ -3645,7 +3645,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "ravenhook"
+          "FileName": "ravenhook"
         },
         {
           "Id": 201,
@@ -3668,7 +3668,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "ravenous_mass"
+          "FileName": "ravenous_mass"
         },
         {
           "Id": 202,
@@ -3680,7 +3680,7 @@
           "Text": "Condemn all enemy improvements",
           "Artist": "",
           "Lore": "",
-          "fileName": "raze"
+          "FileName": "raze"
         },
         {
           "Id": 203,
@@ -3703,7 +3703,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "rebel_decoy"
+          "FileName": "rebel_decoy"
         },
         {
           "Id": 204,
@@ -3725,7 +3725,7 @@
           ],
           "Artist": "Forrest Imel",
           "Lore": "",
-          "fileName": "rebel_instigator"
+          "FileName": "rebel_instigator"
         },
         {
           "Id": 205,
@@ -3745,7 +3745,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "red_mist_maul"
+          "FileName": "red_mist_maul"
         },
         {
           "Id": 206,
@@ -3767,7 +3767,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "red_mist_pillager"
+          "FileName": "red_mist_pillager"
         },
         {
           "Id": 207,
@@ -3780,7 +3780,7 @@
           "CrossLane": true,
           "Artist": "",
           "Lore": "",
-          "fileName": "relentless_pursuit"
+          "FileName": "relentless_pursuit"
         },
         {
           "Id": 208,
@@ -3802,7 +3802,7 @@
           ],
           "Artist": "Lars Grant-West",
           "Lore": "",
-          "fileName": "relentless_zombie"
+          "FileName": "relentless_zombie"
         },
         {
           "Id": 209,
@@ -3814,7 +3814,7 @@
           "ManaCost": 6,
           "Artist": "",
           "Lore": "",
-          "fileName": "remote_detonation"
+          "FileName": "remote_detonation"
         },
         {
           "Id": 210,
@@ -3826,7 +3826,7 @@
           "ManaCost": 3,
           "Artist": "Forrest Imel",
           "Lore": "",
-          "fileName": "rend_armor"
+          "FileName": "rend_armor"
         },
         {
           "Id": 211,
@@ -3838,7 +3838,7 @@
           "ManaCost": 4,
           "Artist": "Mike Lim",
           "Lore": "",
-          "fileName": "restoration_effort"
+          "FileName": "restoration_effort"
         },
         {
           "Id": 212,
@@ -3860,7 +3860,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "revtel_convoy"
+          "FileName": "revtel_convoy"
         },
         {
           "Id": 213,
@@ -3886,7 +3886,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "revtel_investments"
+          "FileName": "revtel_investments"
         },
         {
           "Id": 214,
@@ -3906,7 +3906,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "revtel_signet_ring"
+          "FileName": "revtel_signet_ring"
         },
         {
           "Id": 215,
@@ -3926,7 +3926,7 @@
           "Artist": "",
           "Lore": "",
           "Rarity": "Common",
-          "fileName": "ring_of_tarrasque"
+          "FileName": "ring_of_tarrasque"
         },
         {
           "Id": 216,
@@ -3938,7 +3938,7 @@
           "ManaCost": 2,
           "Artist": "",
           "Lore": "",
-          "fileName": "rising_anger"
+          "FileName": "rising_anger"
         },
         {
           "Id": 217,
@@ -3958,7 +3958,7 @@
           ],
           "Artist": "Christine Choi",
           "Lore": "To those willing to step into a world of Demonic etiquette and politics, the Court of Ristul is willing to offer considerable power... for a price. — Jolixia",
-          "fileName": "ristul_emblem"
+          "FileName": "ristul_emblem"
         },
         {
           "Id": 218,
@@ -3982,7 +3982,7 @@
             3
           ],
           "SignatureCard": 3,
-          "fileName": "rix"
+          "FileName": "rix"
         },
         {
           "Id": 219,
@@ -3994,7 +3994,7 @@
           "ManaCost": 3,
           "Artist": "",
           "Lore": "",
-          "fileName": "rolling_storm"
+          "FileName": "rolling_storm"
         },
         {
           "Id": 220,
@@ -4019,7 +4019,7 @@
           "RelatedIds": [
             276
           ],
-          "fileName": "roseleaf_druid"
+          "FileName": "roseleaf_druid"
         },
         {
           "Id": 221,
@@ -4041,7 +4041,7 @@
           ],
           "Artist": "Jakub Kasper",
           "Lore": "The Treants of Roseleaf and the Vhoul have lived together peacefully for generations. But now interlopers have turned our home into a battlefield. We have made the call to our cousins in the Vale of Augery - the Vhoul must be protected...",
-          "fileName": "roseleaf_rejuvenator"
+          "FileName": "roseleaf_rejuvenator"
         },
         {
           "Id": 222,
@@ -4061,7 +4061,7 @@
             73
           ],
           "SignatureCard": 73,
-          "fileName": "roseleaf_wall"
+          "FileName": "roseleaf_wall"
         },
         {
           "Id": 223,
@@ -4074,7 +4074,7 @@
           "Artist": "John Stanko",
           "Lore": "",
           "CrossLane": true,
-          "fileName": "rumusque_blessing"
+          "FileName": "rumusque_blessing"
         },
         {
           "Id": 224,
@@ -4100,7 +4100,7 @@
           "GoldCost": 9,
           "Artist": "",
           "Lore": "",
-          "fileName": "rumusque_vestments"
+          "FileName": "rumusque_vestments"
         },
         {
           "Id": 225,
@@ -4122,7 +4122,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "satyr_duelist"
+          "FileName": "satyr_duelist"
         },
         {
           "Id": 226,
@@ -4145,7 +4145,7 @@
           ],
           "Artist": "Alix Branwin",
           "Lore": "",
-          "fileName": "satyr_magician"
+          "FileName": "satyr_magician"
         },
         {
           "Id": 227,
@@ -4169,7 +4169,7 @@
           "RelatedIds": [
             152
           ],
-          "fileName": "savage_wolf"
+          "FileName": "savage_wolf"
         },
         {
           "Id": 228,
@@ -4189,7 +4189,7 @@
           "Artist": "",
           "Lore": "",
           "CrossLane": true,
-          "fileName": "selemenes_favor"
+          "FileName": "selemenes_favor"
         },
         {
           "Id": 229,
@@ -4200,7 +4200,7 @@
           "Text": "Modify two random cards in opponent's hand with \"□ Deal 6 damage to a random allied tower in any lane.\"",
           "Artist": "",
           "Lore": "",
-          "fileName": "self_sabotage",
+          "FileName": "self_sabotage",
           "ManaCost": 4
         },
         {
@@ -4223,7 +4223,7 @@
           "ManaCost": 4,
           "Artist": "John Stanko",
           "Lore": "By helping myself I'm helping all of us!",
-          "fileName": "selfish_cleric"
+          "FileName": "selfish_cleric"
         },
         {
           "Id": 231,
@@ -4243,7 +4243,7 @@
           ],
           "Artist": "Magali Villeneuve",
           "Lore": "",
-          "fileName": "seraphim_shield"
+          "FileName": "seraphim_shield"
         },
         {
           "Id": 232,
@@ -4263,7 +4263,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "shield_of_basilius"
+          "FileName": "shield_of_basilius"
         },
         {
           "Id": 233,
@@ -4289,7 +4289,7 @@
           "GoldCost": 16,
           "Artist": "",
           "Lore": "",
-          "fileName": "shivas_guard"
+          "FileName": "shivas_guard"
         },
         {
           "Id": 234,
@@ -4309,7 +4309,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "shop_deed"
+          "FileName": "shop_deed"
         },
         {
           "Id": 235,
@@ -4329,7 +4329,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "short_sword"
+          "FileName": "short_sword"
         },
         {
           "Id": 236,
@@ -4352,7 +4352,7 @@
           ],
           "Artist": "Anthony Palumbo",
           "Lore": "",
-          "fileName": "sister_of_the_veil"
+          "FileName": "sister_of_the_veil"
         },
         {
           "Id": 237,
@@ -4377,7 +4377,7 @@
             165
           ],
           "SignatureCard": 165,
-          "fileName": "skywrath_mage"
+          "FileName": "skywrath_mage"
         },
         {
           "Id": 238,
@@ -4388,7 +4388,7 @@
           "Text": "Condemn a creep.",
           "Artist": "",
           "Lore": "",
-          "fileName": "slay",
+          "FileName": "slay",
           "ManaCost": 3
         },
         {
@@ -4401,7 +4401,7 @@
           "ManaCost": 3,
           "Artist": "JiHun Lee",
           "Lore": "",
-          "fileName": "smash_their_defenses"
+          "FileName": "smash_their_defenses"
         },
         {
           "Id": 240,
@@ -4423,7 +4423,7 @@
           "ManaCost": 4,
           "Artist": "",
           "Lore": "",
-          "fileName": "smeevil_armsmaster"
+          "FileName": "smeevil_armsmaster"
         },
         {
           "Id": 241,
@@ -4445,7 +4445,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "smeevil_blacksmith"
+          "FileName": "smeevil_blacksmith"
         },
         {
           "Id": 242,
@@ -4471,7 +4471,7 @@
           "SignatureCard": 15,
           "Artist": "",
           "Lore": "",
-          "fileName": "sniper"
+          "FileName": "sniper"
         },
         {
           "Id": 243,
@@ -4495,7 +4495,7 @@
             16
           ],
           "SignatureCard": 16,
-          "fileName": "sorla_khan"
+          "FileName": "sorla_khan"
         },
         {
           "Id": 244,
@@ -4506,7 +4506,7 @@
           "Text": "Modify a hero with \"After you play a green card, give this hero and its allied neighbors +4 Regeneration this round.\"",
           "Artist": "",
           "Lore": "",
-          "fileName": "soul_of_spring",
+          "FileName": "soul_of_spring",
           "ManaCost": 4
         },
         {
@@ -4523,7 +4523,7 @@
             285
           ],
           "IsSignatureCard": true,
-          "fileName": "sow_venom"
+          "FileName": "sow_venom"
         },
         {
           "Id": 246,
@@ -4535,7 +4535,7 @@
           "ManaCost": 3,
           "Artist": "Lius Lasahido",
           "Lore": "",
-          "fileName": "spot_weakness"
+          "FileName": "spot_weakness"
         },
         {
           "Id": 247,
@@ -4548,7 +4548,7 @@
           "Artist": "James Paick",
           "Lore": "",
           "CrossLane": true,
-          "fileName": "spring_the_trap"
+          "FileName": "spring_the_trap"
         },
         {
           "Id": 248,
@@ -4560,7 +4560,7 @@
           "ManaCost": 1,
           "Artist": "John Stanko",
           "Lore": "",
-          "fileName": "stars_align"
+          "FileName": "stars_align"
         },
         {
           "Id": 249,
@@ -4572,7 +4572,7 @@
           "ManaCost": 4,
           "Artist": "",
           "Lore": "",
-          "fileName": "steal_strength"
+          "FileName": "steal_strength"
         },
         {
           "Id": 250,
@@ -4593,7 +4593,7 @@
           "Artist": "",
           "Lore": "",
           "CrossLane": true,
-          "fileName": "steam_cannon"
+          "FileName": "steam_cannon"
         },
         {
           "Id": 251,
@@ -4617,7 +4617,7 @@
           "IsSignatureCard": true,
           "Artist": "",
           "Lore": "",
-          "fileName": "steel_reinforcement"
+          "FileName": "steel_reinforcement"
         },
         {
           "Id": 252,
@@ -4642,7 +4642,7 @@
           "GoldCost": 5,
           "Artist": "",
           "Lore": "",
-          "fileName": "stonehall_cloak"
+          "FileName": "stonehall_cloak"
         },
         {
           "Id": 253,
@@ -4663,7 +4663,7 @@
           "Health": 2,
           "Artist": "",
           "Lore": "",
-          "fileName": "stonehall_elite",
+          "FileName": "stonehall_elite",
           "ManaCost": 4
         },
         {
@@ -4689,7 +4689,7 @@
           "GoldCost": 6,
           "Artist": "",
           "Lore": "",
-          "fileName": "stonehall_pike"
+          "FileName": "stonehall_pike"
         },
         {
           "Id": 255,
@@ -4709,7 +4709,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "stonehall_plate"
+          "FileName": "stonehall_plate"
         },
         {
           "Id": 256,
@@ -4733,7 +4733,7 @@
           "SignatureCard": 22,
           "Artist": "",
           "Lore": "",
-          "fileName": "storm_spirit"
+          "FileName": "storm_spirit"
         },
         {
           "Id": 257,
@@ -4745,7 +4745,7 @@
           "ManaCost": 1,
           "Artist": "Mike Lim",
           "Lore": "",
-          "fileName": "strafing_run"
+          "FileName": "strafing_run"
         },
         {
           "Id": 258,
@@ -4757,7 +4757,7 @@
           "ManaCost": 4,
           "Artist": "",
           "Lore": "",
-          "fileName": "sucker_punch"
+          "FileName": "sucker_punch"
         },
         {
           "Id": 259,
@@ -4781,7 +4781,7 @@
           "SignatureCard": 108,
           "Artist": "",
           "Lore": "",
-          "fileName": "sven"
+          "FileName": "sven"
         },
         {
           "Id": 260,
@@ -4801,7 +4801,7 @@
           "Artist": "Titus Lunter",
           "Lore": "\"Our god is strange to the Vhoul. I understand. Once She was strange to me. But in time they will learn to love her as we do.\" — Legion Commander on the re-purposing of a Vhoul place of worship.",
           "CrossLane": true,
-          "fileName": "temple_of_war"
+          "FileName": "temple_of_war"
         },
         {
           "Id": 261,
@@ -4814,7 +4814,7 @@
           "Artist": "Michael Kommark",
           "Lore": "",
           "CrossLane": true,
-          "fileName": "the_cover_of_night"
+          "FileName": "the_cover_of_night"
         },
         {
           "Id": 262,
@@ -4834,7 +4834,7 @@
           "Artist": "",
           "Lore": "",
           "CrossLane": true,
-          "fileName": "the_oath"
+          "FileName": "the_oath"
         },
         {
           "Id": 263,
@@ -4853,7 +4853,7 @@
           "CrossLane": true,
           "Artist": "",
           "Lore": "",
-          "fileName": "the_omexe_arena",
+          "FileName": "the_omexe_arena",
           "ManaCost": 6
         },
         {
@@ -4873,7 +4873,7 @@
           ],
           "Artist": "Dimitar Marinski",
           "Lore": "",
-          "fileName": "the_tyler_estate"
+          "FileName": "the_tyler_estate"
         },
         {
           "Id": 265,
@@ -4889,7 +4889,7 @@
             300
           ],
           "IsSignatureCard": true,
-          "fileName": "thundergods_wrath"
+          "FileName": "thundergods_wrath"
         },
         {
           "Id": 266,
@@ -4903,7 +4903,7 @@
           "Health": 25,
           "Artist": "Vance Kovacs",
           "Lore": "",
-          "fileName": "thunderhide_alpha"
+          "FileName": "thunderhide_alpha"
         },
         {
           "Id": 267,
@@ -4925,7 +4925,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "thunderhide_pack"
+          "FileName": "thunderhide_pack"
         },
         {
           "Id": 268,
@@ -4937,7 +4937,7 @@
           "Text": "Deal 4 damage to each enemy.",
           "Artist": "",
           "Lore": "",
-          "fileName": "thunderstorm"
+          "FileName": "thunderstorm"
         },
         {
           "Id": 269,
@@ -4962,7 +4962,7 @@
             141
           ],
           "SignatureCard": 141,
-          "fileName": "tidehunter"
+          "FileName": "tidehunter"
         },
         {
           "Id": 270,
@@ -4986,7 +4986,7 @@
           "SignatureCard": 294,
           "Artist": "",
           "Lore": "",
-          "fileName": "timbersaw"
+          "FileName": "timbersaw"
         },
         {
           "Id": 271,
@@ -4998,7 +4998,7 @@
           "ManaCost": 8,
           "Artist": "",
           "Lore": "",
-          "fileName": "time_of_triumph"
+          "FileName": "time_of_triumph"
         },
         {
           "Id": 272,
@@ -5010,7 +5010,7 @@
           "ManaCost": 3,
           "Artist": "",
           "Lore": "",
-          "fileName": "tower_barrage"
+          "FileName": "tower_barrage"
         },
         {
           "Id": 273,
@@ -5022,7 +5022,7 @@
           "Text": "Return an allied hero to the Fountain.",
           "Artist": "",
           "Lore": "",
-          "fileName": "town_portal_scroll"
+          "FileName": "town_portal_scroll"
         },
         {
           "Id": 274,
@@ -5038,7 +5038,7 @@
             37
           ],
           "IsSignatureCard": true,
-          "fileName": "track"
+          "FileName": "track"
         },
         {
           "Id": 275,
@@ -5058,7 +5058,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "travelers_cloak"
+          "FileName": "travelers_cloak"
         },
         {
           "Id": 276,
@@ -5081,7 +5081,7 @@
           "RelatedIds": [
             220
           ],
-          "fileName": "treant_protector"
+          "FileName": "treant_protector"
         },
         {
           "Id": 277,
@@ -5101,7 +5101,7 @@
           "CrossLane": true,
           "Artist": "",
           "Lore": "",
-          "fileName": "trebuchets"
+          "FileName": "trebuchets"
         },
         {
           "Id": 278,
@@ -5112,7 +5112,7 @@
           "Text": "Modify a red hero with \"After you play a red card, give this hero and its allied neighbors +1 Attack and +1 Armor this round.\"",
           "Artist": "",
           "Lore": "",
-          "fileName": "tresdins_standards",
+          "FileName": "tresdins_standards",
           "ManaCost": 4
         },
         {
@@ -5135,7 +5135,7 @@
           ],
           "Artist": "",
           "Lore": "",
-          "fileName": "troll_soothsayer"
+          "FileName": "troll_soothsayer"
         },
         {
           "Id": 280,
@@ -5157,7 +5157,7 @@
           "ManaCost": 4,
           "Artist": "",
           "Lore": "",
-          "fileName": "tyler_estate_censor"
+          "FileName": "tyler_estate_censor"
         },
         {
           "Id": 281,
@@ -5177,7 +5177,7 @@
           "Artist": "David Palumbo",
           "Lore": "",
           "CrossLane": true,
-          "fileName": "unearthed_secrets"
+          "FileName": "unearthed_secrets"
         },
         {
           "Id": 282,
@@ -5198,7 +5198,7 @@
           "CrossLane": true,
           "Artist": "",
           "Lore": "",
-          "fileName": "unsupervised_artillery"
+          "FileName": "unsupervised_artillery"
         },
         {
           "Id": 283,
@@ -5212,7 +5212,7 @@
           "Health": 2,
           "Artist": "Jason Kang",
           "Lore": "",
-          "fileName": "untested_grunt"
+          "FileName": "untested_grunt"
         },
         {
           "Id": 284,
@@ -5236,7 +5236,7 @@
           "SignatureCard": 93,
           "Artist": "",
           "Lore": "",
-          "fileName": "ursa"
+          "FileName": "ursa"
         },
         {
           "Id": 285,
@@ -5261,7 +5261,7 @@
             189
           ],
           "SignatureCard": 245,
-          "fileName": "venomancer"
+          "FileName": "venomancer"
         },
         {
           "Id": 286,
@@ -5273,7 +5273,7 @@
           "ManaCost": 1,
           "Artist": "",
           "Lore": "",
-          "fileName": "ventriloquy"
+          "FileName": "ventriloquy"
         },
         {
           "Id": 287,
@@ -5297,7 +5297,7 @@
           ],
           "CrossLane": true,
           "IsSignatureCard": true,
-          "fileName": "verdant_refuge"
+          "FileName": "verdant_refuge"
         },
         {
           "Id": 288,
@@ -5317,7 +5317,7 @@
           "GoldCost": 19,
           "Artist": "",
           "Lore": "",
-          "fileName": "vesture_of_the_tyrant"
+          "FileName": "vesture_of_the_tyrant"
         },
         {
           "Id": 289,
@@ -5339,7 +5339,7 @@
           ],
           "Artist": "",
           "Lore": "I knew this day would come the moment I agreed to host Rix's gatherings in my wine cellar... [...] I know it's only a matter of time before Tresdin has me executed, and I won't lie. I'm scared. But we all have our parts to play. — Papa Samet, Vhoul Martyr",
-          "fileName": "vhoul_martyr"
+          "FileName": "vhoul_martyr"
         },
         {
           "Id": 290,
@@ -5363,7 +5363,7 @@
             291
           ],
           "SignatureCard": 291,
-          "fileName": "viper"
+          "FileName": "viper"
         },
         {
           "Id": 291,
@@ -5379,7 +5379,7 @@
             290
           ],
           "IsSignatureCard": true,
-          "fileName": "viper_strike"
+          "FileName": "viper_strike"
         },
         {
           "Id": 292,
@@ -5395,7 +5395,7 @@
             39
           ],
           "IsSignatureCard": true,
-          "fileName": "viscous_nasal_goo"
+          "FileName": "viscous_nasal_goo"
         },
         {
           "Id": 293,
@@ -5414,7 +5414,7 @@
           "CrossLane": true,
           "Artist": "",
           "Lore": "",
-          "fileName": "watchtower",
+          "FileName": "watchtower",
           "ManaCost": 1
         },
         {
@@ -5430,7 +5430,7 @@
           "IsSignatureCard": true,
           "Artist": "",
           "Lore": "",
-          "fileName": "whirling_death",
+          "FileName": "whirling_death",
           "ManaCost": 2
         },
         {
@@ -5443,7 +5443,7 @@
           "Text": "Stun an enemy this round and stun allied heroes in all lanes this round.",
           "Artist": "",
           "Lore": "",
-          "fileName": "whispers_of_madness"
+          "FileName": "whispers_of_madness"
         },
         {
           "Id": 296,
@@ -5469,7 +5469,7 @@
           "GoldCost": 19,
           "Artist": "",
           "Lore": "",
-          "fileName": "wingfall_hammer"
+          "FileName": "wingfall_hammer"
         },
         {
           "Id": 297,
@@ -5494,7 +5494,7 @@
             298
           ],
           "SignatureCard": 298,
-          "fileName": "winter_wyvern"
+          "FileName": "winter_wyvern"
         },
         {
           "Id": 298,
@@ -5510,7 +5510,7 @@
             297
           ],
           "IsSignatureCard": true,
-          "fileName": "winters_curse"
+          "FileName": "winters_curse"
         },
         {
           "Id": 299,
@@ -5522,7 +5522,7 @@
           "ManaCost": 3,
           "Artist": "",
           "Lore": "",
-          "fileName": "wrath_of_gold"
+          "FileName": "wrath_of_gold"
         },
         {
           "Id": 300,
@@ -5546,7 +5546,7 @@
             265
           ],
           "SignatureCard": 265,
-          "fileName": "zeus"
+          "FileName": "zeus"
         },
         {
           "Id": 301,
@@ -5561,7 +5561,7 @@
           "Token": true,
           "Artist": "Forrest Imel",
           "Lore": "",
-          "fileName": "zombie"
+          "FileName": "zombie"
         }
       ]
     }
