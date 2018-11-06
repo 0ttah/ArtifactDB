@@ -49,7 +49,7 @@ I have tried to future proof the schema of the JSON manifest of changes by inclu
 - **GetInitiative** : boolean : If true this card gives player initiative. If null/false it cannot.
 - **CrossLane** : boolean : If true this card can be cast across lanes. If null/false it cannot.
 - **Token** : boolean : If true this card is a token created by another card.
-- **fileName** : string : The name that assets files will use for this card. Just provide a path to what type of asset you want and the file extension.
+- **FileName** : string : The name that assets files will use for this card. Just provide a path to what type of asset you want and the file extension.
 - **Artist** : string : Artist name
 - **Lore** : string : Lore description for the card.
 
