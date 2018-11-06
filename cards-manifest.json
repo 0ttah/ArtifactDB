@@ -5020,6 +5020,7 @@
           "Rarity": "Basic",
           "Color": "Yellow",
           "Text": "Return an allied hero to the Fountain.",
+          "GoldCost": 3,
           "Artist": "",
           "Lore": "",
           "FileName": "town_portal_scroll"
