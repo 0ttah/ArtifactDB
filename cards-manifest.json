@@ -4456,7 +4456,6 @@
           "Attack": 5,
           "Armor": 0,
           "Health": 6,
-          "Text": "Active 3: Deal 5 damage to a unit.",
           "Abilities": [
             {
               "Name": "Headshot",
