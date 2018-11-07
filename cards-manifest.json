@@ -5427,7 +5427,7 @@
           "Id": 295,
           "Name": "Wingfall Hammer",
           "CardType": "Item",
-          "ItemType": "Armor",
+          "ItemType": "Weapon",
           "Rarity": "Rare",
           "Color": "Yellow",
           "Text": "Equipped hero has +4 Attack.\nActive 1: Give equipped hero and its allied neighbors +X Regeneration this round where X is half its Attack.",
