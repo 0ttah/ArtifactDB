@@ -35,7 +35,7 @@ fs.readFile(filePath, 'utf8', (err, data) => {
 
   manifest.Sets[0].Cards.forEach((card) => {
     // console.log(card);
-    card.fileName = cleanFileName(card.Name);
+    card.FileName = cleanFileName(card.Name);
     if (card.RelatedIds) {
       card.RelatedIds = card.RelatedIds.map((id) => {
         const match = newAndOldIds.filter(x => x.oldId === id);
