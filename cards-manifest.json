@@ -2064,11 +2064,18 @@
           "Id": 118,
           "Name": "Hero's Cape",
           "CardType": "Item",
-          "ItemType": "Accesory",
+          "ItemType": "Accessory",
           "Rarity": "Rare",
           "Color": "Yellow",
           "Text": "Equipped hero has +16 Health.",
           "GoldCost": 15,
+          "Abilities": [
+            {
+              "Name": "Hero's Cape : Effect",
+              "Type": "Continuous",
+              "Text": "Equipped hero has +16 Health."
+            }
+          ],
           "Artist": "",
           "Lore": "",
           "FileName": "heros_cape"
