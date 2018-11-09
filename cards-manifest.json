@@ -3385,6 +3385,13 @@
           "Attack": 2,
           "Armor": 0,
           "Health": 8,
+          "Abilities": [
+            {
+              "Name": "Pit Fighter of Quoidge : Effect",
+              "Type": "Reactive",
+              "Text": "Modify Pit Fighter of Quoidge with +2 Attack after an allied neighbor dies."
+            }
+          ],
           "Artist": "",
           "Lore": "",
           "FileName": "pit_fighter_of_quoidge"
