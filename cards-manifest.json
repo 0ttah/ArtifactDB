@@ -1235,6 +1235,7 @@
           "Rarity": "Uncommon",
           "Color": "Red",
           "Text": "Summon a Zombie for your opponent after the combat phase.",
+          "ManaCost": 5,
           "Attack": 6,
           "Armor": 0,
           "Health": 6,
