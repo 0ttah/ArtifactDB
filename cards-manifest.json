@@ -4836,7 +4836,7 @@
           "Text": "Draw a card after a hero dies.",
           "Abilities": [
             {
-              "Name": "The Omexe Aren : Effect",
+              "Name": "The Omexe Arena : Effect",
               "Type": "Reactive",
               "Text": "Draw a card after a hero dies."
             }
