@@ -2711,6 +2711,7 @@
           "RelatedIds": [
             226
           ],
+          "SignatureCard": 226,
           "FileName": "lycan"
         },
         {
@@ -5074,6 +5075,7 @@
           "RelatedIds": [
             219
           ],
+          "SignatureCard": 219,
           "FileName": "treant_protector"
         },
         {
