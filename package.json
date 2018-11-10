@@ -1,6 +1,6 @@
 {
   "name": "artifactdb",
-  "version": "2.4.0",
+  "version": "2.4.2",
   "main": "index.js",
   "description": "Repository of Artifact cards & artwork by Valve.",
   "scripts": {
