@@ -3406,9 +3406,9 @@
           "Color": "Blue",
           "ManaCost": 3,
           "Text": "Before the action phase, deal 2 piercing damage to a random enemy neighbor of Plague Ward.",
-          "Attack": 3,
+          "Attack": 1,
           "Armor": 0,
-          "Health": 1,
+          "Health": 3,
           "Abilities": [
             {
               "Name": "Plague Ward : Effect",
