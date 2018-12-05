@@ -1053,7 +1053,7 @@
           "CardType": "Item",
           "Rarity": "Rare",
           "Color": "Yellow",
-          "ItemType": "Accesory",
+          "ItemType": "Accessory",
           "Text": "Equipped hero has +8 Health. Draw a card after an allied neighbor of equipped hero dies.",
           "Abilities": [
             {
@@ -2828,7 +2828,7 @@
           "Name": "Melee Creep Dire",
           "CardType": "Creep",
           "Rarity": "Basic",
-          "Color": "",
+          "Color": "None",
           "Artist": "",
           "Lore": "",
           "FileName": "melee_creep_dire"
@@ -2838,7 +2838,7 @@
           "Name": "Melee Creep Radiant",
           "CardType": "Creep",
           "Rarity": "Basic",
-          "Color": "",
+          "Color": "None",
           "Artist": "",
           "Lore": "",
           "FileName": "melee_creep_radiant"
