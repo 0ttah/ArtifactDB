@@ -1053,7 +1053,7 @@
           "CardType": "Item",
           "Rarity": "Rare",
           "Color": "Yellow",
-          "ItemType": "Accesory",
+          "ItemType": "Accessory",
           "Text": "Equipped hero has +8 Health. Draw a card after an allied neighbor of equipped hero dies.",
           "Abilities": [
             {
