@@ -2828,7 +2828,7 @@
           "Name": "Melee Creep Dire",
           "CardType": "Creep",
           "Rarity": "Basic",
-          "Color": "",
+          "Color": "None",
           "Artist": "",
           "Lore": "",
           "FileName": "melee_creep_dire"
@@ -2838,7 +2838,7 @@
           "Name": "Melee Creep Radiant",
           "CardType": "Creep",
           "Rarity": "Basic",
-          "Color": "",
+          "Color": "None",
           "Artist": "",
           "Lore": "",
           "FileName": "melee_creep_radiant"
