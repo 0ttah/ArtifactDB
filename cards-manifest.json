@@ -1037,7 +1037,7 @@
         },
         {
           "Id": 56,
-          "Name": "Clear The Deck",
+          "Name": "Clear the Deck",
           "CardType": "Spell",
           "Rarity": "Common",
           "Color": "Red",
