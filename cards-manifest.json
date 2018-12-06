@@ -6,7 +6,7 @@
       "ReleaseDate": "2018-11-28T00:00:00",
       "Cards": [
         {
-          "Id": 1,
+          "Id": 10196,
           "Name": "...And One For Me",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -18,7 +18,7 @@
           "FileName": "and_one_for_me"
         },
         {
-          "Id": 2,
+          "Id": 10016,
           "Name": "Abaddon",
           "CardType": "Hero",
           "Rarity": "Uncommon",
@@ -37,13 +37,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            8
+            10287
           ],
           "SignatureCard": 8,
           "FileName": "abaddon"
         },
         {
-          "Id": 3,
+          "Id": 10420,
           "Name": "Act of Defiance",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -53,13 +53,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            217
+            10026
           ],
           "IsSignatureCard": true,
           "FileName": "act_of_defiance"
         },
         {
-          "Id": 4,
+          "Id": 10175,
           "Name": "Aghanim's Sanctum",
           "CardType": "Improvement",
           "Rarity": "Uncommon",
@@ -80,7 +80,7 @@
           "FileName": "aghanims_sanctum"
         },
         {
-          "Id": 5,
+          "Id": 10348,
           "Name": "Allseeing One's Favor",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -90,13 +90,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            176
+            10044
           ],
           "IsSignatureCard": true,
           "FileName": "allseeing_ones_favor"
         },
         {
-          "Id": 6,
+          "Id": 10170,
           "Name": "Altar of the Mad Moon",
           "CardType": "Improvement",
           "Rarity": "Uncommon",
@@ -116,7 +116,7 @@
           "FileName": "altar_of_the_mad_moon"
         },
         {
-          "Id": 7,
+          "Id": 10315,
           "Name": "Annihilation",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -128,7 +128,7 @@
           "FileName": "annihilation"
         },
         {
-          "Id": 8,
+          "Id": 10287,
           "Name": "Aphotic Shield",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -138,13 +138,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            2
+            10016
           ],
           "IsSignatureCard": true,
           "FileName": "aphotic_shield"
         },
         {
-          "Id": 9,
+          "Id": 10263,
           "Name": "Apotheosis Blade",
           "CardType": "Item",
           "Rarity": "Rare",
@@ -170,7 +170,7 @@
           "FileName": "apotheosis_blade"
         },
         {
-          "Id": 10,
+          "Id": 10374,
           "Name": "Arcane Assault",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -183,7 +183,7 @@
           "FileName": "arcane_assault"
         },
         {
-          "Id": 11,
+          "Id": 10295,
           "Name": "Arcane Censure",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -195,7 +195,7 @@
           "FileName": "arcane_censure"
         },
         {
-          "Id": 12,
+          "Id": 10129,
           "Name": "Assassin's Apprentice",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -218,7 +218,7 @@
           "FileName": "assassins_apprentice"
         },
         {
-          "Id": 13,
+          "Id": 10085,
           "Name": "Assassin's Shadow",
           "CardType": "Creep",
           "Color": "Black",
@@ -245,7 +245,7 @@
           "ManaCost": 7
         },
         {
-          "Id": 14,
+          "Id": 10202,
           "Name": "Assassin's Veil",
           "CardType": "Item",
           "Rarity": "Uncommon",
@@ -266,7 +266,7 @@
           "FileName": "assassins_veil"
         },
         {
-          "Id": 15,
+          "Id": 10272,
           "Name": "Assassinate",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -277,13 +277,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            241
+            10050
           ],
           "IsSignatureCard": true,
           "FileName": "assassinate"
         },
         {
-          "Id": 16,
+          "Id": 10177,
           "Name": "Assault Ladders",
           "CardType": "Improvement",
           "Rarity": "Uncommon",
@@ -300,14 +300,14 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            242
+            10058
           ],
           "CrossLane": true,
           "IsSignatureCard": true,
           "FileName": "assault_ladders"
         },
         {
-          "Id": 17,
+          "Id": 10141,
           "Name": "Assured Destruction",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -327,7 +327,7 @@
           "FileName": "assured_destruction"
         },
         {
-          "Id": 18,
+          "Id": 10267,
           "Name": "Astral Imprisonment",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -337,13 +337,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            177
+            10046
           ],
           "IsSignatureCard": true,
           "FileName": "astral_imprisionment"
         },
         {
-          "Id": 19,
+          "Id": 10424,
           "Name": "At Any Cost",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -355,7 +355,7 @@
           "FileName": "at_any_cost"
         },
         {
-          "Id": 20,
+          "Id": 10368,
           "Name": "Avernus' Blessing",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -367,7 +367,7 @@
           "FileName": "avernus_blessing"
         },
         {
-          "Id": 21,
+          "Id": 10020,
           "Name": "Axe",
           "CardType": "Hero",
           "Rarity": "Rare",
@@ -378,13 +378,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            28
+            10288
           ],
           "SignatureCard": 28,
           "FileName": "axe"
         },
         {
-          "Id": 22,
+          "Id": 10538,
           "Name": "Ball Lightning",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -393,7 +393,7 @@
           "ManaCost": 3,
           "CrossLane": true,
           "RelatedIds": [
-            255
+            10536
           ],
           "IsSignatureCard": true,
           "Artist": "",
@@ -401,7 +401,7 @@
           "FileName": "ball_lightning"
         },
         {
-          "Id": 23,
+          "Id": 10208,
           "Name": "Barbed Mail",
           "CardType": "Item",
           "Rarity": "Common",
@@ -421,7 +421,7 @@
           "FileName": "barbed_mail"
         },
         {
-          "Id": 24,
+          "Id": 10147,
           "Name": "Barracks",
           "CardType": "Improvement",
           "Rarity": "Uncommon",
@@ -438,14 +438,14 @@
           "Artist": "Louis Lasahido",
           "Lore": "",
           "RelatedIds": [
-            186
+            10342
           ],
           "CrossLane": true,
           "IsSignatureCard": true,
           "FileName": "barracks"
         },
         {
-          "Id": 25,
+          "Id": 4010,
           "Name": "Battlefield Control",
           "CardType": "Spell",
           "Rarity": "Basic",
@@ -455,13 +455,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            131
+            4008
           ],
           "IsSignatureCard": true,
           "FileName": "battlefield_control"
         },
         {
-          "Id": 26,
+          "Id": 10029,
           "Name": "Beastmaster",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -487,7 +487,7 @@
           "FileName": "beastmaster"
         },
         {
-          "Id": 27,
+          "Id": 10303,
           "Name": "Bellow",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -499,7 +499,7 @@
           "FileName": "bellow"
         },
         {
-          "Id": 28,
+          "Id": 10288,
           "Name": "Berserker's Call",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -509,13 +509,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            21
+            10020
           ],
           "IsSignatureCard": true,
           "FileName": "berserkers_call"
         },
         {
-          "Id": 29,
+          "Id": 10336,
           "Name": "Better Late Than Never",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -528,7 +528,7 @@
           "FileName": "better_late_than_never"
         },
         {
-          "Id": 30,
+          "Id": 10156,
           "Name": "Bitter Enemies",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -549,7 +549,7 @@
           "FileName": "bitter_enemies"
         },
         {
-          "Id": 31,
+          "Id": 10212,
           "Name": "Blade of the Vigil",
           "CardType": "Item",
           "Rarity": "Common",
@@ -569,7 +569,7 @@
           "FileName": "blade_of_the_vigil"
         },
         {
-          "Id": 32,
+          "Id": 10206,
           "Name": "Blink Dagger",
           "CardType": "Item",
           "ItemType": "Weapon",
@@ -595,7 +595,7 @@
           "FileName": "blink_dagger"
         },
         {
-          "Id": 33,
+          "Id": 10289,
           "Name": "Blood Rage",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -605,13 +605,13 @@
           "Artist": "Lake Hurwitz",
           "Lore": "",
           "RelatedIds": [
-            34
+            10018
           ],
           "IsSignatureCard": true,
           "FileName": "blood_rage"
         },
         {
-          "Id": 34,
+          "Id": 10018,
           "Name": "Bloodseeker",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -629,13 +629,13 @@
           "Artist": "Lake Hurwitz",
           "Lore": "\"My role is a sacred one. The holy blades and armor I wield allows me to be a conduit to the Flayed Ones... and the blood I spill in combat becomes tribute, given in the name of my people.\" - Bloodseeker",
           "RelatedIds": [
-            33
+            10289
           ],
           "SignatureCard": 33,
           "FileName": "bloodseeker"
         },
         {
-          "Id": 35,
+          "Id": 10353,
           "Name": "Bolt of Damocles",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -647,7 +647,7 @@
           "FileName": "bolt_of_damocles"
         },
         {
-          "Id": 36,
+          "Id": 10235,
           "Name": "Book of the Dead",
           "CardType": "Item",
           "Rarity": "Common",
@@ -673,7 +673,7 @@
           "FileName": "book_of_the_dead"
         },
         {
-          "Id": 37,
+          "Id": 10023,
           "Name": "Bounty Hunter",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -691,13 +691,13 @@
           "Artist": "Erik M. Gist",
           "Lore": "",
           "RelatedIds": [
-            273
+            10416
           ],
           "SignatureCard": 273,
           "FileName": "bounty_hunter"
         },
         {
-          "Id": 38,
+          "Id": 10222,
           "Name": "Bracers of Sacrifice",
           "CardType": "Item",
           "Rarity": "Rare",
@@ -722,7 +722,7 @@
           "FileName": "bracers_of_sacrifice"
         },
         {
-          "Id": 39,
+          "Id": 10030,
           "Name": "Bristleback",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -740,13 +740,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            291
+            10419
           ],
           "SignatureCard": 291,
           "FileName": "bristleback"
         },
         {
-          "Id": 40,
+          "Id": 10215,
           "Name": "Broadsword",
           "CardType": "Item",
           "Rarity": "Common",
@@ -766,7 +766,7 @@
           "FileName": "broadsword"
         },
         {
-          "Id": 41,
+          "Id": 10104,
           "Name": "Bronze Legionnaire",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -780,7 +780,7 @@
           "FileName": "bronze_legionnaire"
         },
         {
-          "Id": 42,
+          "Id": 10174,
           "Name": "Burning Oil",
           "CardType": "Improvement",
           "Rarity": "Uncommon",
@@ -800,7 +800,7 @@
           "FileName": "burning_oil"
         },
         {
-          "Id": 43,
+          "Id": 10359,
           "Name": "Buying Time",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -812,7 +812,7 @@
           "FileName": "buying_time"
         },
         {
-          "Id": 44,
+          "Id": 10335,
           "Name": "Call the Reserves",
           "CardType": "Spell",
           "Color": "Blue",
@@ -825,7 +825,7 @@
           "ManaCost": 6
         },
         {
-          "Id": 45,
+          "Id": 10396,
           "Name": "Caught Unprepared",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -837,7 +837,7 @@
           "FileName": "caught_unprepared"
         },
         {
-          "Id": 46,
+          "Id": 10082,
           "Name": "Centaur Hunter",
           "CardType": "Creep",
           "Rarity": "Uncommon",
@@ -852,7 +852,7 @@
           "FileName": "centaur_hunter"
         },
         {
-          "Id": 47,
+          "Id": 10021,
           "Name": "Centaur Warrunner",
           "CardType": "Hero",
           "Rarity": "Rare",
@@ -870,13 +870,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            83
+            10292
           ],
           "SignatureCard": 83,
           "FileName": "centaur_warrunner"
         },
         {
-          "Id": 48,
+          "Id": 10318,
           "Name": "Chain Frost",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -887,13 +887,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            144
+            10038
           ],
           "IsSignatureCard": true,
           "FileName": "chain_frost"
         },
         {
-          "Id": 49,
+          "Id": 10214,
           "Name": "Chainmail",
           "CardType": "Item",
           "ItemType": "Armor",
@@ -913,7 +913,7 @@
           "FileName": "chainmail"
         },
         {
-          "Id": 50,
+          "Id": 10133,
           "Name": "Champion of the Ancient",
           "CardType": "Creep",
           "Rarity": "Rare",
@@ -935,7 +935,7 @@
           "FileName": "champion_of_the_ancient"
         },
         {
-          "Id": 51,
+          "Id": 10181,
           "Name": "Cheating Death",
           "CardType": "Improvement",
           "Color": "Green",
@@ -955,7 +955,7 @@
           "ManaCost": 5
         },
         {
-          "Id": 52,
+          "Id": 10017,
           "Name": "Chen",
           "CardType": "Hero",
           "Rarity": "Rare",
@@ -974,13 +974,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            113
+            10340
           ],
           "SignatureCard": 113,
           "FileName": "chen"
         },
         {
-          "Id": 53,
+          "Id": 10241,
           "Name": "Claszureme Hourglass",
           "CardType": "Item",
           "ItemType": "Accessory",
@@ -1004,7 +1004,7 @@
           "FileName": "claszureme_hourglass"
         },
         {
-          "Id": 54,
+          "Id": 10238,
           "Name": "Claymore",
           "CardType": "Item",
           "Rarity": "Uncommon",
@@ -1024,7 +1024,7 @@
           "FileName": "claymore"
         },
         {
-          "Id": 55,
+          "Id": 10382,
           "Name": "Cleansing Rite",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -1036,7 +1036,7 @@
           "FileName": "cleansing_rite"
         },
         {
-          "Id": 56,
+          "Id": 10344,
           "Name": "Clear the Deck",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -1048,7 +1048,7 @@
           "FileName": "clear_the_deck"
         },
         {
-          "Id": 57,
+          "Id": 10231,
           "Name": "Cloak of Endless Carnage",
           "CardType": "Item",
           "Rarity": "Rare",
@@ -1073,7 +1073,7 @@
           "FileName": "cloak_of_endless_carnage"
         },
         {
-          "Id": 58,
+          "Id": 10415,
           "Name": "Collateral Damage",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -1085,7 +1085,7 @@
           "FileName": "collateral_damage"
         },
         {
-          "Id": 59,
+          "Id": 10300,
           "Name": "Combat Training",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -1097,7 +1097,7 @@
           "FileName": "combat_training"
         },
         {
-          "Id": 60,
+          "Id": 10391,
           "Name": "Compel",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -1109,7 +1109,7 @@
           "FileName": "compel"
         },
         {
-          "Id": 61,
+          "Id": 10157,
           "Name": "Conflagration",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -1129,7 +1129,7 @@
           "FileName": "conflagration"
         },
         {
-          "Id": 62,
+          "Id": 10361,
           "Name": "Coordinated Assault",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -1141,7 +1141,7 @@
           "FileName": "coordinated_assault"
         },
         {
-          "Id": 63,
+          "Id": 10142,
           "Name": "Corrosive Mist",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -1153,7 +1153,7 @@
           "FileName": "corrosive_mist"
         },
         {
-          "Id": 64,
+          "Id": 10308,
           "Name": "Coup de Grace",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -1163,13 +1163,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            183
+            10047
           ],
           "IsSignatureCard": true,
           "FileName": "coup_de_grace"
         },
         {
-          "Id": 65,
+          "Id": 10421,
           "Name": "Crippling Blow",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -1181,7 +1181,7 @@
           "FileName": "crippling_blow"
         },
         {
-          "Id": 66,
+          "Id": 10064,
           "Name": "Crystal Maiden",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -1199,13 +1199,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            104
+            10277
           ],
           "SignatureCard": 104,
           "FileName": "crystal_maiden"
         },
         {
-          "Id": 67,
+          "Id": 10411,
           "Name": "Cunning Plan",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -1217,7 +1217,7 @@
           "FileName": "cunning_plan"
         },
         {
-          "Id": 68,
+          "Id": 10317,
           "Name": "Curse of Atrophy",
           "CardType": "Spell",
           "Color": "Green",
@@ -1229,7 +1229,7 @@
           "ManaCost": 6
         },
         {
-          "Id": 69,
+          "Id": 10114,
           "Name": "Cursed Satyr",
           "CardType": "Creep",
           "Rarity": "Uncommon",
@@ -1251,7 +1251,7 @@
           "FileName": "cursed_satyr"
         },
         {
-          "Id": 70,
+          "Id": 10068,
           "Name": "Dark Seer",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -1270,13 +1270,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            128
+            10281
           ],
           "SignatureCard": 128,
           "FileName": "dark_seer"
         },
         {
-          "Id": 71,
+          "Id": 4005,
           "Name": "Debbi the Cunning",
           "CardType": "Hero",
           "Rarity": "Basic",
@@ -1294,13 +1294,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            168
+            4007
           ],
           "SignatureCard": 168,
           "FileName": "debbi_the_cunning"
         },
         {
-          "Id": 72,
+          "Id": 10299,
           "Name": "Defend the Weak",
           "CardType": "Spell",
           "Color": "Green",
@@ -1312,7 +1312,7 @@
           "ManaCost": 2
         },
         {
-          "Id": 73,
+          "Id": 10347,
           "Name": "Defensive Bloom",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -1322,13 +1322,13 @@
           "Artist": "Jana Schirmer",
           "Lore": "",
           "RelatedIds": [
-            221
+            10120
           ],
           "IsSignatureCard": true,
           "FileName": "defensive_bloom"
         },
         {
-          "Id": 74,
+          "Id": 10297,
           "Name": "Defensive Stance",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -1340,7 +1340,7 @@
           "FileName": "defensive_stance"
         },
         {
-          "Id": 75,
+          "Id": 10210,
           "Name": "Demagicking Maul",
           "CardType": "Item",
           "Rarity": "Uncommon",
@@ -1366,7 +1366,7 @@
           "FileName": "demagicking_maul"
         },
         {
-          "Id": 76,
+          "Id": 10319,
           "Name": "Diabolic Revelation",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -1378,7 +1378,7 @@
           "FileName": "diabolic_revelation"
         },
         {
-          "Id": 77,
+          "Id": 10355,
           "Name": "Dimensional Portal",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -1390,7 +1390,7 @@
           "FileName": "dimensional_portal"
         },
         {
-          "Id": 78,
+          "Id": 10314,
           "Name": "Dirty Deeds",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -1402,7 +1402,7 @@
           "FileName": "dirty_deeds"
         },
         {
-          "Id": 79,
+          "Id": 10086,
           "Name": "Disciple of Nevermore",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -1424,7 +1424,7 @@
           "FileName": "disciple_of_nevermore"
         },
         {
-          "Id": 80,
+          "Id": 10005,
           "Name": "Divided We Stand",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -1434,13 +1434,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            156
+            10004
           ],
           "IsSignatureCard": true,
           "FileName": "divided_we_stand"
         },
         {
-          "Id": 81,
+          "Id": 10338,
           "Name": "Divine Intervention",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -1452,7 +1452,7 @@
           "FileName": "divine_intervention"
         },
         {
-          "Id": 82,
+          "Id": 10378,
           "Name": "Divine Purpose",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -1464,7 +1464,7 @@
           "FileName": "divine_purpose"
         },
         {
-          "Id": 83,
+          "Id": 10292,
           "Name": "Double Edge",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -1474,15 +1474,15 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            47
+            10021
           ],
           "IsSignatureCard": true,
           "FileName": "double_edge"
         },
         {
-          "Id": 84,
+          "Id": 10032,
           "RelatedIds": [
-            112
+            10339
           ],
           "Name": "Drow Ranger",
           "CardType": "Hero",
@@ -1504,7 +1504,7 @@
           "FileName": "drow_ranger"
         },
         {
-          "Id": 85,
+          "Id": 10341,
           "Name": "Duel",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -1514,13 +1514,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            142
+            10069
           ],
           "IsSignatureCard": true,
           "FileName": "duel"
         },
         {
-          "Id": 86,
+          "Id": 10033,
           "Name": "Earthshaker",
           "CardType": "Hero",
           "Rarity": "Rare",
@@ -1539,13 +1539,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            87
+            10323
           ],
           "SignatureCard": 87,
           "FileName": "earthshaker"
         },
         {
-          "Id": 87,
+          "Id": 10323,
           "Name": "Echo Slam",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -1555,13 +1555,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            86
+            10033
           ],
           "IsSignatureCard": true,
           "FileName": "echo_slam"
         },
         {
-          "Id": 88,
+          "Id": 10007,
           "Name": "Eclipse",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -1571,13 +1571,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            150
+            10006
           ],
           "IsSignatureCard": true,
           "FileName": "eclipse"
         },
         {
-          "Id": 89,
+          "Id": 10096,
           "Name": "Emissary of the Quorum",
           "CardType": "Creep",
           "Color": "Green",
@@ -1600,7 +1600,7 @@
           "ManaCost": 8
         },
         {
-          "Id": 90,
+          "Id": 10280,
           "Name": "Empower",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -1610,13 +1610,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            152
+            10067
           ],
           "IsSignatureCard": true,
           "FileName": "empower"
         },
         {
-          "Id": 91,
+          "Id": 10036,
           "Name": "Enchantress",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -1634,13 +1634,13 @@
           "Artist": "Randy Vargas",
           "Lore": "\"I'm not a fighter. I'm a protector. It's not too late for you to walk away, but if you try to hurt these people, I promise it will not go well for you.\" — Enchantress.",
           "RelatedIds": [
-            286
+            10193
           ],
           "SignatureCard": 286,
           "FileName": "enchantress"
         },
         {
-          "Id": 92,
+          "Id": 10326,
           "Name": "Enough Magic!",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -1652,9 +1652,9 @@
           "FileName": "enough_magic"
         },
         {
-          "Id": 93,
+          "Id": 10282,
           "RelatedIds": [
-            283
+            10070
           ],
           "Name": "Enrage",
           "CardType": "Spell",
@@ -1668,7 +1668,7 @@
           "ManaCost": 4
         },
         {
-          "Id": 94,
+          "Id": 10176,
           "Name": "Escape Route",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -1689,7 +1689,7 @@
           "FileName": "escape_route"
         },
         {
-          "Id": 95,
+          "Id": 4000,
           "Name": "Farvhan the Dreamer",
           "CardType": "Hero",
           "Rarity": "Basic",
@@ -1707,12 +1707,12 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            196
+            4002
           ],
           "FileName": "fahrvhan_the_dreamer"
         },
         {
-          "Id": 96,
+          "Id": 10370,
           "Name": "Fight Through the Pain",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -1725,7 +1725,7 @@
           "FileName": "fight_through_the_pain"
         },
         {
-          "Id": 97,
+          "Id": 4004,
           "Name": "Fighting Instinct",
           "CardType": "Spell",
           "Rarity": "Basic",
@@ -1735,13 +1735,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            135
+            4003
           ],
           "IsSignatureCard": true,
           "FileName": "fighting_instinct"
         },
         {
-          "Id": 98,
+          "Id": 10377,
           "Name": "Fog of War",
           "CardType": "Spell",
           "Color": "Blue",
@@ -1753,7 +1753,7 @@
           "ManaCost": 4
         },
         {
-          "Id": 99,
+          "Id": 10307,
           "Name": "Foresight",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -1765,7 +1765,7 @@
           "FileName": "foresight"
         },
         {
-          "Id": 100,
+          "Id": 10413,
           "Name": "Forward Charge",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -1777,7 +1777,7 @@
           "FileName": "forward_charge"
         },
         {
-          "Id": 101,
+          "Id": 3004,
           "Name": "Fountain Flask",
           "CardType": "Item",
           "ItemType": "Consumable",
@@ -1790,7 +1790,7 @@
           "FileName": "fountain_flask"
         },
         {
-          "Id": 102,
+          "Id": 10148,
           "Name": "Fractured Timeline",
           "CardType": "Improvement",
           "Color": "Blue",
@@ -1810,7 +1810,7 @@
           "ManaCost": 2
         },
         {
-          "Id": 103,
+          "Id": 10360,
           "Name": "Friendly Fire",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -1822,7 +1822,7 @@
           "FileName": "friendly_fire"
         },
         {
-          "Id": 104,
+          "Id": 10277,
           "Name": "Frostbite",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -1832,13 +1832,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            66
+            10064
           ],
           "IsSignatureCard": true,
           "FileName": "frostbite"
         },
         {
-          "Id": 105,
+          "Id": 10213,
           "Name": "Fur-lined Mantle",
           "CardType": "Item",
           "Rarity": "Common",
@@ -1858,7 +1858,7 @@
           "FileName": "fur-lined_mantle"
         },
         {
-          "Id": 106,
+          "Id": 10328,
           "Name": "Gank",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -1871,7 +1871,7 @@
           "FileName": "gank"
         },
         {
-          "Id": 107,
+          "Id": 10187,
           "Name": "Glyph of Confusion",
           "CardType": "Improvement",
           "Color": "Blue",
@@ -1891,9 +1891,9 @@
           "ManaCost": 6
         },
         {
-          "Id": 108,
+          "Id": 10330,
           "RelatedIds": [
-            258
+            10054
           ],
           "Name": "God's Strength",
           "CardType": "Spell",
@@ -1906,7 +1906,7 @@
           "ManaCost": 6
         },
         {
-          "Id": 109,
+          "Id": 10216,
           "Name": "Golden Ticket",
           "Rarity": "Uncommon",
           "CardType": "Item",
@@ -1926,7 +1926,7 @@
           "FileName": "golden_ticket"
         },
         {
-          "Id": 110,
+          "Id": 10178,
           "Name": "Grand Melee",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -1946,7 +1946,7 @@
           "FileName": "grand_melee"
         },
         {
-          "Id": 111,
+          "Id": 10270,
           "Name": "Grazing Shot",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -1959,9 +1959,9 @@
           "FileName": "grazing_shot"
         },
         {
-          "Id": 112,
+          "Id": 10339,
           "RelatedIds": [
-            84
+            10032
           ],
           "Name": "Gust",
           "CardType": "Spell",
@@ -1975,7 +1975,7 @@
           "ManaCost": 4
         },
         {
-          "Id": 113,
+          "Id": 10340,
           "Name": "Hand of God",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -1985,13 +1985,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            52
+            10017
           ],
           "IsSignatureCard": true,
           "FileName": "hand_of_god"
         },
         {
-          "Id": 114,
+          "Id": 3003,
           "Name": "Healing Salve",
           "CardType": "Item",
           "ItemType": "Consumable",
@@ -2004,7 +2004,7 @@
           "FileName": "healing_salve"
         },
         {
-          "Id": 115,
+          "Id": 10274,
           "Name": "Heartstopper Aura",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -2014,13 +2014,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            165
+            10059
           ],
           "IsSignatureCard": true,
           "FileName": "heartstopper_aura"
         },
         {
-          "Id": 116,
+          "Id": 10118,
           "Name": "Hellbear Crippler",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -2042,7 +2042,7 @@
           "FileName": "hellbear_crippler"
         },
         {
-          "Id": 117,
+          "Id": 10224,
           "Name": "Helm of the Dominator",
           "CardType": "Item",
           "Rarity": "Uncommon",
@@ -2062,7 +2062,7 @@
           "FileName": "helm_of_the_dominator"
         },
         {
-          "Id": 118,
+          "Id": 10236,
           "Name": "Hero's Cape",
           "CardType": "Item",
           "ItemType": "Accessory",
@@ -2082,7 +2082,7 @@
           "FileName": "heros_cape"
         },
         {
-          "Id": 119,
+          "Id": 10327,
           "Name": "Heroic Resolve",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -2094,7 +2094,7 @@
           "FileName": "heroic_resolve"
         },
         {
-          "Id": 120,
+          "Id": 10273,
           "Name": "Hip Fire",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -2107,7 +2107,7 @@
           "FileName": "hip_fire"
         },
         {
-          "Id": 121,
+          "Id": 10155,
           "Name": "Homefield Advantage",
           "CardType": "Improvement",
           "Rarity": "Uncommon",
@@ -2127,7 +2127,7 @@
           "FileName": "homefield_advantage"
         },
         {
-          "Id": 122,
+          "Id": 10260,
           "Name": "Horn of the Alpha",
           "CardType": "Item",
           "Rarity": "Rare",
@@ -2153,7 +2153,7 @@
           "FileName": "horn_of_the_alpha"
         },
         {
-          "Id": 123,
+          "Id": 10093,
           "Name": "Hound of War",
           "CardType": "Creep",
           "Rarity": "Uncommon",
@@ -2168,7 +2168,7 @@
           "FileName": "hound_of_war"
         },
         {
-          "Id": 124,
+          "Id": 10171,
           "Name": "Howling Mind",
           "CardType": "Improvement",
           "Rarity": "Uncommon",
@@ -2188,9 +2188,9 @@
           "FileName": "howling_mind"
         },
         {
-          "Id": 125,
+          "Id": 10160,
           "RelatedIds": [
-            175
+            10043
           ],
           "Name": "Ignite",
           "CardType": "Improvement",
@@ -2212,7 +2212,7 @@
           "ManaCost": 3
         },
         {
-          "Id": 126,
+          "Id": 10106,
           "Name": "Incarnation of Selemene",
           "CardType": "Creep",
           "Rarity": "Rare",
@@ -2227,7 +2227,7 @@
           "FileName": "incarnation_of_selemene"
         },
         {
-          "Id": 127,
+          "Id": 10379,
           "Name": "Intimidation",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -2239,7 +2239,7 @@
           "FileName": "intimidation"
         },
         {
-          "Id": 128,
+          "Id": 10281,
           "Name": "Ion Shell",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -2249,13 +2249,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            70
+            10068
           ],
           "IsSignatureCard": true,
           "FileName": "ion_shell"
         },
         {
-          "Id": 129,
+          "Id": 10324,
           "Name": "Iron Branch Protection",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -2268,7 +2268,7 @@
           "FileName": "iron_branch_protection"
         },
         {
-          "Id": 130,
+          "Id": 10165,
           "Name": "Iron Fog Goldmine",
           "CardType": "Improvement",
           "Rarity": "Common",
@@ -2288,7 +2288,7 @@
           "FileName": "iron_fog_goldmine"
         },
         {
-          "Id": 131,
+          "Id": 4008,
           "Name": "J'Muy the Wise",
           "CardType": "Hero",
           "Rarity": "Basic",
@@ -2307,13 +2307,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            25
+            4010
           ],
           "SignatureCard": 25,
           "FileName": "jmuy_the_wise"
         },
         {
-          "Id": 132,
+          "Id": 10256,
           "Name": "Jasper Daggers",
           "CardType": "Item",
           "ItemType": "Weapon",
@@ -2333,7 +2333,7 @@
           "FileName": "jasper_daggers"
         },
         {
-          "Id": 133,
+          "Id": 10365,
           "Name": "Juke",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -2345,7 +2345,7 @@
           "FileName": "juke"
         },
         {
-          "Id": 134,
+          "Id": 10031,
           "Name": "Kanna",
           "CardType": "Hero",
           "Rarity": "Rare",
@@ -2363,13 +2363,13 @@
           "Artist": "Scott M. Fischer",
           "Lore": "",
           "RelatedIds": [
-            194
+            10325
           ],
           "SignatureCard": 194,
           "FileName": "kanna"
         },
         {
-          "Id": 135,
+          "Id": 4003,
           "Name": "Keefe the Bold",
           "CardType": "Hero",
           "Rarity": "Basic",
@@ -2380,13 +2380,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            97
+            4004
           ],
           "SignatureCard": 97,
           "FileName": "keefe_the_bold"
         },
         {
-          "Id": 136,
+          "Id": 10095,
           "Name": "Keenfolk Golem",
           "CardType": "Creep",
           "Rarity": "Rare",
@@ -2408,7 +2408,7 @@
           "FileName": "keenfolk_golem"
         },
         {
-          "Id": 137,
+          "Id": 10218,
           "Name": "Keenfolk Musket",
           "CardType": "Item",
           "Rarity": "Common",
@@ -2434,7 +2434,7 @@
           "FileName": "keenfolk_musket"
         },
         {
-          "Id": 138,
+          "Id": 10259,
           "Name": "Keenfolk Plate",
           "CardType": "Item",
           "ItemType": "Armor",
@@ -2454,7 +2454,7 @@
           "FileName": "keenfolk_plate"
         },
         {
-          "Id": 139,
+          "Id": 10184,
           "Name": "Keenfolk Turret",
           "CardType": "Improvement",
           "Rarity": "Uncommon",
@@ -2475,7 +2475,7 @@
           "FileName": "keenfolk_turret"
         },
         {
-          "Id": 140,
+          "Id": 10290,
           "Name": "Kraken Shell",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -2486,13 +2486,13 @@
           "Artist": "Mike Lim",
           "Lore": "",
           "RelatedIds": [
-            268
+            10024
           ],
           "IsSignatureCard": true,
           "FileName": "kraken_shell"
         },
         {
-          "Id": 141,
+          "Id": 3001,
           "Name": "Leather Armor",
           "CardType": "Item",
           "Rarity": "Basic",
@@ -2512,7 +2512,7 @@
           "FileName": "leather_armor"
         },
         {
-          "Id": 142,
+          "Id": 10069,
           "Name": "Legion Commander",
           "CardType": "Hero",
           "Rarity": "Uncommon",
@@ -2530,13 +2530,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            85
+            10341
           ],
           "SignatureCard": 85,
           "FileName": "legion_commander"
         },
         {
-          "Id": 143,
+          "Id": 10087,
           "Name": "Legion Standard Bearer",
           "CardType": "Creep",
           "Rarity": "Uncommon",
@@ -2558,7 +2558,7 @@
           "FileName": "legion_standard_bearer"
         },
         {
-          "Id": 144,
+          "Id": 10038,
           "Name": "Lich",
           "CardType": "Hero",
           "Rarity": "Rare",
@@ -2577,13 +2577,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            48
+            10318
           ],
           "SignatureCard": 48,
           "FileName": "lich"
         },
         {
-          "Id": 145,
+          "Id": 10352,
           "Name": "Lightning Strike",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -2595,7 +2595,7 @@
           "FileName": "lightning_strike"
         },
         {
-          "Id": 146,
+          "Id": 10060,
           "Name": "Lion",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -2614,13 +2614,13 @@
           "Artist": "Stepan Alekseev",
           "Lore": "The demon's hand grants me not just the ability to snuff out life. But to consume their very essence.",
           "RelatedIds": [
-            153
+            10275
           ],
           "SignatureCard": 153,
           "FileName": "lion"
         },
         {
-          "Id": 147,
+          "Id": 10268,
           "Name": "Lodestone Demolition",
           "CardType": "Spell",
           "Color": "Black",
@@ -2632,7 +2632,7 @@
           "ManaCost": 3
         },
         {
-          "Id": 148,
+          "Id": 10298,
           "Name": "Lost in Time",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -2644,7 +2644,7 @@
           "FileName": "lost_in_time"
         },
         {
-          "Id": 149,
+          "Id": 10136,
           "Name": "Loyal Beast",
           "CardType": "Creep",
           "Rarity": "Basic",
@@ -2667,7 +2667,7 @@
           "FileName": "loyal_beast"
         },
         {
-          "Id": 150,
+          "Id": 10006,
           "Name": "Luna",
           "CardType": "Hero",
           "Rarity": "Uncommon",
@@ -2685,13 +2685,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            88
+            10007
           ],
           "SignatureCard": 88,
           "FileName": "luna"
         },
         {
-          "Id": 151,
+          "Id": 10014,
           "Name": "Lycan",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -2709,13 +2709,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            226
+            10112
           ],
           "SignatureCard": 226,
           "FileName": "lycan"
         },
         {
-          "Id": 152,
+          "Id": 10067,
           "Name": "Magnus",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -2724,7 +2724,7 @@
           "Armor": 1,
           "Health": 9,
           "RelatedIds": [
-            90
+            10280
           ],
           "SignatureCard": 90,
           "Artist": "",
@@ -2732,7 +2732,7 @@
           "FileName": "magnus"
         },
         {
-          "Id": 153,
+          "Id": 10275,
           "Name": "Mana Drain",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -2742,13 +2742,13 @@
           "Artist": "Stepan Alekseev",
           "Lore": "",
           "RelatedIds": [
-            146
+            10060
           ],
           "IsSignatureCard": true,
           "FileName": "mana_drain"
         },
         {
-          "Id": 154,
+          "Id": 10097,
           "Name": "Marrowfell Brawler",
           "CardType": "Creep",
           "Color": "Red",
@@ -2762,7 +2762,7 @@
           "ManaCost": 6
         },
         {
-          "Id": 155,
+          "Id": 10052,
           "Name": "Mazzie",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -2773,13 +2773,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            250
+            10179
           ],
           "SignatureCard": 250,
           "FileName": "mazzie"
         },
         {
-          "Id": 156,
+          "Id": 10004,
           "Name": "Meepo",
           "CardType": "Hero",
           "Rarity": "Rare",
@@ -2803,13 +2803,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            80
+            10005
           ],
           "SignatureCard": 80,
           "FileName": "meepo"
         },
         {
-          "Id": 157,
+          "Id": 1006,
           "Name": "Melee Creep",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -2844,7 +2844,7 @@
           "FileName": "melee_creep_radiant"
         },
         {
-          "Id": 160,
+          "Id": 10094,
           "Name": "Mercenary Exiles",
           "CardType": "Creep",
           "Rarity": "Rare",
@@ -2867,7 +2867,7 @@
           "FileName": "mercenary_exiles"
         },
         {
-          "Id": 161,
+          "Id": 10180,
           "Name": "Messenger Rookery",
           "CardType": "Improvement",
           "Rarity": "Common",
@@ -2886,7 +2886,7 @@
           "FileName": "messenger_rookery"
         },
         {
-          "Id": 162,
+          "Id": 10169,
           "Name": "Mist of Avernus",
           "CardType": "Improvement",
           "Rarity": "Uncommon",
@@ -2906,7 +2906,7 @@
           "FileName": "mist_of_avernus"
         },
         {
-          "Id": 163,
+          "Id": 10332,
           "Name": "Murder Plot",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -2918,7 +2918,7 @@
           "FileName": "murder_plot"
         },
         {
-          "Id": 164,
+          "Id": 10063,
           "Name": "Mystic Flare",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -2928,13 +2928,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            236
+            10062
           ],
           "IsSignatureCard": true,
           "FileName": "mystic_flare"
         },
         {
-          "Id": 165,
+          "Id": 10059,
           "Name": "Necrophos",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -2952,13 +2952,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            115
+            10274
           ],
           "SignatureCard": 115,
           "FileName": "necrophos"
         },
         {
-          "Id": 166,
+          "Id": 10173,
           "Name": "Nether Ward",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -2975,14 +2975,14 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            197
+            10048
           ],
           "CrossLane": true,
           "IsSignatureCard": true,
           "FileName": "nether_ward"
         },
         {
-          "Id": 167,
+          "Id": 10366,
           "Name": "New Orders",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -2994,7 +2994,7 @@
           "FileName": "new_orders"
         },
         {
-          "Id": 168,
+          "Id": 4007,
           "Name": "No Accident",
           "CardType": "Spell",
           "Rarity": "Basic",
@@ -3004,13 +3004,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            71
+            4005
           ],
           "IsSignatureCard": true,
           "FileName": "no_accident"
         },
         {
-          "Id": 169,
+          "Id": 10262,
           "Name": "Nyctasha's Guard",
           "CardType": "Item",
           "ItemType": "Armor",
@@ -3036,7 +3036,7 @@
           "FileName": "nyctashas_guard"
         },
         {
-          "Id": 170,
+          "Id": 10211,
           "Name": "Obliterating Orb",
           "CardType": "Item",
           "Rarity": "Uncommon",
@@ -3056,7 +3056,7 @@
           "FileName": "obliterating_orb"
         },
         {
-          "Id": 171,
+          "Id": 10310,
           "Name": "Oglodi Catapult",
           "CardType": "Creep",
           "Rarity": "Uncommon",
@@ -3078,7 +3078,7 @@
           "FileName": "oglodi_catapult"
         },
         {
-          "Id": 172,
+          "Id": 10092,
           "Name": "Oglodi Vandal",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -3100,7 +3100,7 @@
           "FileName": "oglodi_vandal"
         },
         {
-          "Id": 173,
+          "Id": 10127,
           "Name": "Ogre Conscript",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -3114,7 +3114,7 @@
           "FileName": "ogre_conscript"
         },
         {
-          "Id": 174,
+          "Id": 10103,
           "Name": "Ogre Corpse Tosser",
           "CardType": "Creep",
           "Rarity": "Rare",
@@ -3136,9 +3136,9 @@
           "FileName": "ogre_corpse_tosser"
         },
         {
-          "Id": 175,
+          "Id": 10043,
           "RelatedIds": [
-            125
+            10160
           ],
           "Name": "Ogre Magi",
           "CardType": "Hero",
@@ -3160,7 +3160,7 @@
           "FileName": "ogre_magi"
         },
         {
-          "Id": 176,
+          "Id": 10044,
           "Name": "Omniknight",
           "CardType": "Hero",
           "Rarity": "Rare",
@@ -3179,13 +3179,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            5
+            10348
           ],
           "SignatureCard": 5,
           "FileName": "omniknight"
         },
         {
-          "Id": 177,
+          "Id": 10046,
           "Name": "Outworld Devourer",
           "CardType": "Hero",
           "Rarity": "Uncommon",
@@ -3203,7 +3203,7 @@
             }
           ],
           "RelatedIds": [
-            18
+            10267
           ],
           "SignatureCard": 18,
           "Artist": "",
@@ -3211,7 +3211,7 @@
           "FileName": "outworld_devourer"
         },
         {
-          "Id": 178,
+          "Id": 10153,
           "Name": "Path of the Bold",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -3231,7 +3231,7 @@
           "FileName": "path_of_the_bold"
         },
         {
-          "Id": 179,
+          "Id": 10150,
           "Name": "Path of the Cunning",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -3251,7 +3251,7 @@
           "FileName": "path_of_the_cunning"
         },
         {
-          "Id": 180,
+          "Id": 10152,
           "Name": "Path of the Dreamer",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -3271,7 +3271,7 @@
           "FileName": "path_of_the_dreamer"
         },
         {
-          "Id": 181,
+          "Id": 10151,
           "Name": "Path of the Wise",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -3291,7 +3291,7 @@
           "FileName": "path_of_the_wise"
         },
         {
-          "Id": 182,
+          "Id": 10322,
           "Name": "Payday",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -3303,7 +3303,7 @@
           "FileName": "payday"
         },
         {
-          "Id": 183,
+          "Id": 10047,
           "Name": "Phantom Assassin",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -3321,13 +3321,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            64
+            10308
           ],
           "SignatureCard": 64,
           "FileName": "phantom_assassin"
         },
         {
-          "Id": 184,
+          "Id": 10203,
           "Name": "Phase Boots",
           "CardType": "Item",
           "Rarity": "Uncommon",
@@ -3353,7 +3353,7 @@
           "FileName": "phase_boots"
         },
         {
-          "Id": 185,
+          "Id": 10354,
           "Name": "Pick Off",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -3366,7 +3366,7 @@
           "FileName": "pick_off"
         },
         {
-          "Id": 186,
+          "Id": 10342,
           "Name": "Pick a Fight",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -3378,7 +3378,7 @@
           "FileName": "pick_a_fight"
         },
         {
-          "Id": 187,
+          "Id": 10083,
           "Name": "Pit Fighter of Quoidge",
           "CardType": "Creep",
           "Rarity": "Rare",
@@ -3399,7 +3399,7 @@
           "FileName": "pit_fighter_of_quoidge"
         },
         {
-          "Id": 188,
+          "Id": 10003,
           "Name": "Plague Ward",
           "CardType": "Creep",
           "Rarity": "Uncommon",
@@ -3426,7 +3426,7 @@
           "FileName": "plague_ward"
         },
         {
-          "Id": 189,
+          "Id": 10237,
           "Name": "Platemail",
           "CardType": "Item",
           "ItemType": "Armor",
@@ -3446,7 +3446,7 @@
           "FileName": "platemail"
         },
         {
-          "Id": 190,
+          "Id": 10234,
           "Name": "Poaching Knife",
           "CardType": "Item",
           "Rarity": "Rare",
@@ -3466,7 +3466,7 @@
           "FileName": "poaching_knife"
         },
         {
-          "Id": 191,
+          "Id": 10313,
           "Name": "Poised to Strike",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -3478,7 +3478,7 @@
           "FileName": "poised_to_strike"
         },
         {
-          "Id": 192,
+          "Id": 3005,
           "Name": "Potion of Knowledge",
           "CardType": "Item",
           "ItemType": "Consumable",
@@ -3491,7 +3491,7 @@
           "FileName": "potion_of_knowledge"
         },
         {
-          "Id": 193,
+          "Id": 10053,
           "Name": "Prellex",
           "CardType": "Hero",
           "Rarity": "Uncommon",
@@ -3509,13 +3509,13 @@
           "Artist": "Louis Lasahido",
           "Lore": "",
           "RelatedIds": [
-            24
+            10147
           ],
           "SignatureCard": 24,
           "FileName": "prellex"
         },
         {
-          "Id": 194,
+          "Id": 10325,
           "Name": "Prey on the Weak",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -3525,13 +3525,13 @@
           "Artist": "Scott M. Fischer",
           "Lore": "",
           "RelatedIds": [
-            134
+            10031
           ],
           "IsSignatureCard": true,
           "FileName": "prey_on_the_weak"
         },
         {
-          "Id": 195,
+          "Id": 10293,
           "Name": "Primal Roar",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -3541,13 +3541,13 @@
           "Artist": "Clint Cearley",
           "Lore": "",
           "RelatedIds": [
-            26
+            10029
           ],
           "IsSignatureCard": true,
           "FileName": "primal_roar"
         },
         {
-          "Id": 196,
+          "Id": 4002,
           "Name": "Prowler Vanguard",
           "CardType": "Creep",
           "Rarity": "Basic",
@@ -3567,12 +3567,12 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            95
+            4000
           ],
           "FileName": "prowler_vanguard"
         },
         {
-          "Id": 197,
+          "Id": 10048,
           "Name": "Pugna",
           "CardType": "Hero",
           "Rarity": "Rare",
@@ -3591,13 +3591,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            166
+            10173
           ],
           "SignatureCard": 166,
           "FileName": "pugna"
         },
         {
-          "Id": 198,
+          "Id": 10113,
           "Name": "Rampaging Hellbear",
           "CardType": "Creep",
           "Color": "Green",
@@ -3619,7 +3619,7 @@
           "ManaCost": 4
         },
         {
-          "Id": 199,
+          "Id": 10115,
           "Name": "Ravenhook",
           "CardType": "Creep",
           "Rarity": "Rare",
@@ -3642,7 +3642,7 @@
           "FileName": "ravenhook"
         },
         {
-          "Id": 200,
+          "Id": 10116,
           "Name": "Ravenous Mass",
           "CardType": "Creep",
           "Rarity": "Rare",
@@ -3665,7 +3665,7 @@
           "FileName": "ravenous_mass"
         },
         {
-          "Id": 201,
+          "Id": 10305,
           "Name": "Raze",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -3677,7 +3677,7 @@
           "FileName": "raze"
         },
         {
-          "Id": 202,
+          "Id": 10080,
           "Name": "Rebel Decoy",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -3700,7 +3700,7 @@
           "FileName": "rebel_decoy"
         },
         {
-          "Id": 203,
+          "Id": 10084,
           "Name": "Rebel Instigator",
           "CardType": "Creep",
           "Rarity": "Uncommon",
@@ -3722,7 +3722,7 @@
           "FileName": "rebel_instigator"
         },
         {
-          "Id": 204,
+          "Id": 10223,
           "Name": "Red Mist Maul",
           "CardType": "Item",
           "Rarity": "Common",
@@ -3742,7 +3742,7 @@
           "FileName": "red_mist_maul"
         },
         {
-          "Id": 205,
+          "Id": 10132,
           "Name": "Red Mist Pillager",
           "CardType": "Creep",
           "Rarity": "Uncommon",
@@ -3764,7 +3764,7 @@
           "FileName": "red_mist_pillager"
         },
         {
-          "Id": 206,
+          "Id": 10399,
           "Name": "Relentless Pursuit",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -3777,7 +3777,7 @@
           "FileName": "relentless_pursuit"
         },
         {
-          "Id": 207,
+          "Id": 10090,
           "Name": "Relentless Zombie",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -3799,7 +3799,7 @@
           "FileName": "relentless_zombie"
         },
         {
-          "Id": 208,
+          "Id": 10376,
           "Name": "Remote Detonation",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -3811,7 +3811,7 @@
           "FileName": "remote_detonation"
         },
         {
-          "Id": 209,
+          "Id": 10367,
           "Name": "Rend Armor",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -3823,7 +3823,7 @@
           "FileName": "rend_armor"
         },
         {
-          "Id": 210,
+          "Id": 10358,
           "Name": "Restoration Effort",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -3835,7 +3835,7 @@
           "FileName": "restoration_effort"
         },
         {
-          "Id": 211,
+          "Id": 10091,
           "Name": "Revtel Convoy",
           "CardType": "Creep",
           "Rarity": "Rare",
@@ -3857,7 +3857,7 @@
           "FileName": "revtel_convoy"
         },
         {
-          "Id": 212,
+          "Id": 10164,
           "Name": "Revtel Investments",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -3883,7 +3883,7 @@
           "FileName": "revtel_investments"
         },
         {
-          "Id": 213,
+          "Id": 10207,
           "Name": "Revtel Signet Ring",
           "CardType": "Item",
           "Rarity": "Uncommon",
@@ -3903,7 +3903,7 @@
           "FileName": "revtel_signet_ring"
         },
         {
-          "Id": 214,
+          "Id": 10220,
           "Name": "Ring of Tarrasque",
           "CardType": "Item",
           "Color": "Yellow",
@@ -3923,7 +3923,7 @@
           "FileName": "ring_of_tarrasque"
         },
         {
-          "Id": 215,
+          "Id": 10349,
           "Name": "Rising Anger",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -3935,7 +3935,7 @@
           "FileName": "rising_anger"
         },
         {
-          "Id": 216,
+          "Id": 10230,
           "Name": "Ristul Emblem",
           "CardType": "Item",
           "Rarity": "Rare",
@@ -3955,7 +3955,7 @@
           "FileName": "ristul_emblem"
         },
         {
-          "Id": 217,
+          "Id": 10026,
           "Name": "Rix",
           "CardType": "Hero",
           "Rarity": "Uncommon",
@@ -3973,13 +3973,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            3
+            10420
           ],
           "SignatureCard": 3,
           "FileName": "rix"
         },
         {
-          "Id": 218,
+          "Id": 10198,
           "Name": "Rolling Storm",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -3991,7 +3991,7 @@
           "FileName": "rolling_storm"
         },
         {
-          "Id": 219,
+          "Id": 10117,
           "Name": "Roseleaf Druid",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -4011,12 +4011,12 @@
           "Artist": "Alix Branwyn",
           "Lore": "",
           "RelatedIds": [
-            275
+            10056
           ],
           "FileName": "roseleaf_druid"
         },
         {
-          "Id": 220,
+          "Id": 10134,
           "Name": "Roseleaf Rejuvenator",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -4038,7 +4038,7 @@
           "FileName": "roseleaf_rejuvenator"
         },
         {
-          "Id": 221,
+          "Id": 10120,
           "Name": "Roseleaf Wall",
           "CardType": "Creep",
           "Rarity": "Uncommon",
@@ -4052,13 +4052,13 @@
           "Lore": "",
           "Token": false,
           "RelatedIds": [
-            73
+            10347
           ],
           "SignatureCard": 73,
           "FileName": "roseleaf_wall"
         },
         {
-          "Id": 222,
+          "Id": 10192,
           "Name": "Rumusque Blessing",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -4071,7 +4071,7 @@
           "FileName": "rumusque_blessing"
         },
         {
-          "Id": 223,
+          "Id": 10217,
           "Name": "Rumusque Vestments",
           "CardType": "Item",
           "ItemType": "Armor",
@@ -4097,7 +4097,7 @@
           "FileName": "rumusque_vestments"
         },
         {
-          "Id": 224,
+          "Id": 10111,
           "Name": "Satyr Duelist",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -4119,7 +4119,7 @@
           "FileName": "satyr_duelist"
         },
         {
-          "Id": 225,
+          "Id": 10137,
           "Name": "Satyr Magician",
           "CardType": "Creep",
           "Rarity": "Uncommon",
@@ -4142,7 +4142,7 @@
           "FileName": "satyr_magician"
         },
         {
-          "Id": 226,
+          "Id": 10112,
           "Name": "Savage Wolf",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -4161,12 +4161,12 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            151
+            10014
           ],
           "FileName": "savage_wolf"
         },
         {
-          "Id": 227,
+          "Id": 10168,
           "Name": "Selemene's Favor",
           "CardType": "Improvement",
           "Rarity": "Common",
@@ -4186,7 +4186,7 @@
           "FileName": "selemenes_favor"
         },
         {
-          "Id": 228,
+          "Id": 10302,
           "Name": "Self Sabotage",
           "CardType": "Spell",
           "Color": "Blue",
@@ -4198,7 +4198,7 @@
           "ManaCost": 4
         },
         {
-          "Id": 229,
+          "Id": 10119,
           "Name": "Selfish Cleric",
           "CardType": "Creep",
           "Color": "Green",
@@ -4220,7 +4220,7 @@
           "FileName": "selfish_cleric"
         },
         {
-          "Id": 230,
+          "Id": 10232,
           "Name": "Seraphim Shield",
           "CardType": "Item",
           "Rarity": "Rare",
@@ -4240,7 +4240,7 @@
           "FileName": "seraphim_shield"
         },
         {
-          "Id": 231,
+          "Id": 10242,
           "Name": "Shield of Basilius",
           "CardType": "Item",
           "Rarity": "Common",
@@ -4260,7 +4260,7 @@
           "FileName": "shield_of_basilius"
         },
         {
-          "Id": 232,
+          "Id": 10248,
           "Name": "Shiva's Guard",
           "CardType": "Item",
           "ItemType": "Armor",
@@ -4286,7 +4286,7 @@
           "FileName": "shivas_guard"
         },
         {
-          "Id": 233,
+          "Id": 10255,
           "Name": "Shop Deed",
           "CardType": "Item",
           "Rarity": "Rare",
@@ -4306,7 +4306,7 @@
           "FileName": "shop_deed"
         },
         {
-          "Id": 234,
+          "Id": 3002,
           "Name": "Short Sword",
           "CardType": "Item",
           "Rarity": "Basic",
@@ -4326,7 +4326,7 @@
           "FileName": "short_sword"
         },
         {
-          "Id": 235,
+          "Id": 10077,
           "Name": "Sister of the Veil",
           "CardType": "Creep",
           "Rarity": "Uncommon",
@@ -4349,7 +4349,7 @@
           "FileName": "sister_of_the_veil"
         },
         {
-          "Id": 236,
+          "Id": 10062,
           "Name": "Skywrath Mage",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -4368,13 +4368,13 @@
           "Artist": "Greg Opalinski",
           "Lore": "",
           "RelatedIds": [
-            164
+            10063
           ],
           "SignatureCard": 164,
           "FileName": "skywrath_mage"
         },
         {
-          "Id": 237,
+          "Id": 10410,
           "Name": "Slay",
           "CardType": "Spell",
           "Color": "Black",
@@ -4386,7 +4386,7 @@
           "ManaCost": 3
         },
         {
-          "Id": 238,
+          "Id": 10306,
           "Name": "Smash Their Defenses!",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -4398,7 +4398,7 @@
           "FileName": "smash_their_defenses"
         },
         {
-          "Id": 239,
+          "Id": 10076,
           "Name": "Smeevil Armsmaster",
           "CardType": "Creep",
           "Rarity": "Uncommon",
@@ -4420,7 +4420,7 @@
           "FileName": "smeevil_armsmaster"
         },
         {
-          "Id": 240,
+          "Id": 10079,
           "Name": "Smeevil Blacksmith",
           "CardType": "Creep",
           "Rarity": "Uncommon",
@@ -4442,7 +4442,7 @@
           "FileName": "smeevil_blacksmith"
         },
         {
-          "Id": 241,
+          "Id": 10050,
           "Name": "Sniper",
           "CardType": "Hero",
           "Rarity": "Uncommon",
@@ -4459,7 +4459,7 @@
             }
           ],
           "RelatedIds": [
-            15
+            10272
           ],
           "SignatureCard": 15,
           "Artist": "",
@@ -4467,7 +4467,7 @@
           "FileName": "sniper"
         },
         {
-          "Id": 242,
+          "Id": 10058,
           "Name": "Sorla Khan",
           "CardType": "Hero",
           "Rarity": "Uncommon",
@@ -4485,13 +4485,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            16
+            10177
           ],
           "SignatureCard": 16,
           "FileName": "sorla_khan"
         },
         {
-          "Id": 243,
+          "Id": 10373,
           "Name": "Soul of Spring",
           "CardType": "Spell",
           "Color": "Green",
@@ -4503,7 +4503,7 @@
           "ManaCost": 4
         },
         {
-          "Id": 244,
+          "Id": 10002,
           "Name": "Sow Venom",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -4513,13 +4513,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            284
+            10001
           ],
           "IsSignatureCard": true,
           "FileName": "sow_venom"
         },
         {
-          "Id": 245,
+          "Id": 10316,
           "Name": "Spot Weakness",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -4531,7 +4531,7 @@
           "FileName": "spot_weakness"
         },
         {
-          "Id": 246,
+          "Id": 10417,
           "Name": "Spring the Trap",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -4544,7 +4544,7 @@
           "FileName": "spring_the_trap"
         },
         {
-          "Id": 247,
+          "Id": 10334,
           "Name": "Stars Align",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -4556,7 +4556,7 @@
           "FileName": "stars_align"
         },
         {
-          "Id": 248,
+          "Id": 10403,
           "Name": "Steal Strength",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -4568,7 +4568,7 @@
           "FileName": "steal_strength"
         },
         {
-          "Id": 249,
+          "Id": 10185,
           "Name": "Steam Cannon",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -4589,7 +4589,7 @@
           "FileName": "steam_cannon"
         },
         {
-          "Id": 250,
+          "Id": 10179,
           "Name": "Steel Reinforcement",
           "CardType": "Improvement",
           "Rarity": "Common",
@@ -4605,7 +4605,7 @@
           "ManaCost": 4,
           "CrossLane": true,
           "RelatedIds": [
-            155
+            10052
           ],
           "IsSignatureCard": true,
           "Artist": "",
@@ -4613,7 +4613,7 @@
           "FileName": "steel_reinforcement"
         },
         {
-          "Id": 251,
+          "Id": 10205,
           "Name": "Stonehall Cloak",
           "CardType": "Item",
           "ItemType": "Accessory",
@@ -4638,7 +4638,7 @@
           "FileName": "stonehall_cloak"
         },
         {
-          "Id": 252,
+          "Id": 10131,
           "Name": "Stonehall Elite",
           "CardType": "Creep",
           "Color": "Red",
@@ -4660,7 +4660,7 @@
           "ManaCost": 4
         },
         {
-          "Id": 253,
+          "Id": 10252,
           "Name": "Stonehall Pike",
           "CardType": "Item",
           "ItemType": "Weapon",
@@ -4685,7 +4685,7 @@
           "FileName": "stonehall_pike"
         },
         {
-          "Id": 254,
+          "Id": 10253,
           "Name": "Stonehall Plate",
           "CardType": "Item",
           "Rarity": "Common",
@@ -4705,7 +4705,7 @@
           "FileName": "stonehall_plate"
         },
         {
-          "Id": 255,
+          "Id": 10536,
           "Name": "Storm Spirit",
           "CardType": "Hero",
           "Rarity": "Rare",
@@ -4721,7 +4721,7 @@
             }
           ],
           "RelatedIds": [
-            22
+            10538
           ],
           "SignatureCard": 22,
           "Artist": "",
@@ -4729,7 +4729,7 @@
           "FileName": "storm_spirit"
         },
         {
-          "Id": 256,
+          "Id": 10312,
           "Name": "Strafing Run",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -4741,7 +4741,7 @@
           "FileName": "strafing_run"
         },
         {
-          "Id": 257,
+          "Id": 10350,
           "Name": "Sucker Punch",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -4753,10 +4753,10 @@
           "FileName": "sucker_punch"
         },
         {
-          "Id": 258,
+          "Id": 10054,
           "Name": "Sven",
           "RelatedIds": [
-            108
+            10330
           ],
           "CardType": "Hero",
           "Color": "Red",
@@ -4777,7 +4777,7 @@
           "FileName": "sven"
         },
         {
-          "Id": 259,
+          "Id": 10172,
           "Name": "Temple of War",
           "CardType": "Improvement",
           "Rarity": "Uncommon",
@@ -4797,7 +4797,7 @@
           "FileName": "temple_of_war"
         },
         {
-          "Id": 260,
+          "Id": 10404,
           "Name": "The Cover of Night",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -4810,7 +4810,7 @@
           "FileName": "the_cover_of_night"
         },
         {
-          "Id": 261,
+          "Id": 10182,
           "Name": "The Oath",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -4830,7 +4830,7 @@
           "FileName": "the_oath"
         },
         {
-          "Id": 262,
+          "Id": 10183,
           "Name": "The Omexe Arena",
           "CardType": "Improvement",
           "Color": "Red",
@@ -4850,7 +4850,7 @@
           "ManaCost": 6
         },
         {
-          "Id": 263,
+          "Id": 10154,
           "Name": "The Tyler Estate",
           "CardType": "Improvement",
           "Rarity": "Uncommon",
@@ -4869,7 +4869,7 @@
           "FileName": "the_tyler_estate"
         },
         {
-          "Id": 264,
+          "Id": 10278,
           "Name": "Thundergod's Wrath",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -4879,13 +4879,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            299
+            10065
           ],
           "IsSignatureCard": true,
           "FileName": "thundergods_wrath"
         },
         {
-          "Id": 265,
+          "Id": 10108,
           "Name": "Thunderhide Alpha",
           "CardType": "Creep",
           "Rarity": "Rare",
@@ -4899,7 +4899,7 @@
           "FileName": "thunderhide_alpha"
         },
         {
-          "Id": 266,
+          "Id": 10102,
           "Name": "Thunderhide Pack",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -4921,7 +4921,7 @@
           "FileName": "thunderhide_pack"
         },
         {
-          "Id": 267,
+          "Id": 10412,
           "Name": "Thunderstorm",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -4933,7 +4933,7 @@
           "FileName": "thunderstorm"
         },
         {
-          "Id": 268,
+          "Id": 10024,
           "Name": "Tidehunter",
           "CardType": "Hero",
           "Rarity": "Uncommon",
@@ -4952,15 +4952,15 @@
           "Artist": "Mike Lim",
           "Lore": "",
           "RelatedIds": [
-            140
+            10290
           ],
           "SignatureCard": 140,
           "FileName": "tidehunter"
         },
         {
-          "Id": 269,
+          "Id": 10022,
           "RelatedIds": [
-            293
+            10296
           ],
           "Name": "Timbersaw",
           "CardType": "Hero",
@@ -4982,7 +4982,7 @@
           "FileName": "timbersaw"
         },
         {
-          "Id": 270,
+          "Id": 10425,
           "Name": "Time of Triumph",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -4994,7 +4994,7 @@
           "FileName": "time_of_triumph"
         },
         {
-          "Id": 271,
+          "Id": 10402,
           "Name": "Tower Barrage",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -5006,7 +5006,7 @@
           "FileName": "tower_barrage"
         },
         {
-          "Id": 272,
+          "Id": 3006,
           "Name": "Town Portal Scroll",
           "CardType": "Item",
           "ItemType": "Consumable",
@@ -5019,7 +5019,7 @@
           "FileName": "town_portal_scroll"
         },
         {
-          "Id": 273,
+          "Id": 10416,
           "Name": "Track",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -5029,13 +5029,13 @@
           "Artist": "Erik M. Gist",
           "Lore": "",
           "RelatedIds": [
-            37
+            10023
           ],
           "IsSignatureCard": true,
           "FileName": "track"
         },
         {
-          "Id": 274,
+          "Id": 3000,
           "Name": "Traveler's Cloak",
           "CardType": "Item",
           "Rarity": "Basic",
@@ -5055,7 +5055,7 @@
           "FileName": "travelers_cloak"
         },
         {
-          "Id": 275,
+          "Id": 10056,
           "Name": "Treant Protector",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -5073,13 +5073,13 @@
           "Artist": "Alix Branwyn",
           "Lore": "My feelings on the war in Roseleaf are... complicated. Neither the Bronze Legion nor the Red Mist are threats to my people, and yet my cousins willingly intercede on the Vhoul's behalf. Their fondness for such frail creatures is strange to me.",
           "RelatedIds": [
-            219
+            10117
           ],
           "SignatureCard": 219,
           "FileName": "treant_protector"
         },
         {
-          "Id": 276,
+          "Id": 10161,
           "Name": "Trebuchets",
           "CardType": "Improvement",
           "Rarity": "Common",
@@ -5099,7 +5099,7 @@
           "FileName": "trebuchets"
         },
         {
-          "Id": 277,
+          "Id": 10385,
           "Name": "Tresdin's Standards",
           "CardType": "Spell",
           "Color": "Red",
@@ -5111,7 +5111,7 @@
           "ManaCost": 4
         },
         {
-          "Id": 278,
+          "Id": 10138,
           "Name": "Troll Soothsayer",
           "CardType": "Creep",
           "Rarity": "Uncommon",
@@ -5133,7 +5133,7 @@
           "FileName": "troll_soothsayer"
         },
         {
-          "Id": 279,
+          "Id": 10078,
           "Name": "Tyler Estate Censor",
           "CardType": "Creep",
           "Rarity": "Uncommon",
@@ -5155,7 +5155,7 @@
           "FileName": "tyler_estate_censor"
         },
         {
-          "Id": 280,
+          "Id": 10149,
           "Name": "Unearthed Secrets",
           "CardType": "Improvement",
           "Rarity": "Rare",
@@ -5175,7 +5175,7 @@
           "FileName": "unearthed_secrets"
         },
         {
-          "Id": 281,
+          "Id": 10162,
           "Name": "Unsupervised Artillery",
           "CardType": "Improvement",
           "Rarity": "Uncommon",
@@ -5196,7 +5196,7 @@
           "FileName": "unsupervised_artillery"
         },
         {
-          "Id": 282,
+          "Id": 10128,
           "Name": "Untested Grunt",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -5210,9 +5210,9 @@
           "FileName": "untested_grunt"
         },
         {
-          "Id": 283,
+          "Id": 10070,
           "RelatedIds": [
-            93
+            10282
           ],
           "Name": "Ursa",
           "CardType": "Hero",
@@ -5234,7 +5234,7 @@
           "FileName": "ursa"
         },
         {
-          "Id": 284,
+          "Id": 10001,
           "Name": "Venomancer",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -5259,7 +5259,7 @@
           "FileName": "venomancer"
         },
         {
-          "Id": 285,
+          "Id": 10418,
           "Name": "Ventriloquy",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -5271,7 +5271,7 @@
           "FileName": "ventriloquy"
         },
         {
-          "Id": 286,
+          "Id": 10193,
           "Name": "Verdant Refuge",
           "CardType": "Improvement",
           "Rarity": "Common",
@@ -5288,14 +5288,14 @@
           "Artist": "Chris Rallis",
           "Lore": "",
           "RelatedIds": [
-            91
+            10036
           ],
           "CrossLane": true,
           "IsSignatureCard": true,
           "FileName": "verdant_refuge"
         },
         {
-          "Id": 287,
+          "Id": 10225,
           "Name": "Vesture of the Tyrant",
           "CardType": "Item",
           "ItemType": "Armor",
@@ -5315,7 +5315,7 @@
           "FileName": "vesture_of_the_tyrant"
         },
         {
-          "Id": 288,
+          "Id": 10107,
           "Name": "Vhoul Martyr",
           "CardType": "Creep",
           "Rarity": "Common",
@@ -5337,7 +5337,7 @@
           "FileName": "vhoul_martyr"
         },
         {
-          "Id": 289,
+          "Id": 10028,
           "Name": "Viper",
           "CardType": "Hero",
           "Rarity": "Uncommon",
@@ -5355,13 +5355,13 @@
           "Artist": "Lars Grant-West",
           "Lore": "",
           "RelatedIds": [
-            290
+            10294
           ],
           "SignatureCard": 290,
           "FileName": "viper"
         },
         {
-          "Id": 290,
+          "Id": 10294,
           "Name": "Viper Strike",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -5371,13 +5371,13 @@
           "Artist": "Lars Grant-West",
           "Lore": "",
           "RelatedIds": [
-            289
+            10028
           ],
           "IsSignatureCard": true,
           "FileName": "viper_strike"
         },
         {
-          "Id": 291,
+          "Id": 10419,
           "Name": "Viscous Nasal Goo",
           "CardType": "Spell",
           "Rarity": "Common",
@@ -5387,13 +5387,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            39
+            10030
           ],
           "IsSignatureCard": true,
           "FileName": "viscous_nasal_goo"
         },
         {
-          "Id": 292,
+          "Id": 10194,
           "Name": "Watchtower",
           "CardType": "Improvement",
           "Color": "Blue",
@@ -5413,9 +5413,9 @@
           "ManaCost": 1
         },
         {
-          "Id": 293,
+          "Id": 10296,
           "RelatedIds": [
-            269
+            10022
           ],
           "Name": "Whirling Death",
           "CardType": "Spell",
@@ -5429,7 +5429,7 @@
           "ManaCost": 2
         },
         {
-          "Id": 294,
+          "Id": 10422,
           "Name": "Whispers of Madness",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -5441,7 +5441,7 @@
           "FileName": "whispers_of_madness"
         },
         {
-          "Id": 295,
+          "Id": 10226,
           "Name": "Wingfall Hammer",
           "CardType": "Item",
           "ItemType": "Weapon",
@@ -5467,7 +5467,7 @@
           "FileName": "wingfall_hammer"
         },
         {
-          "Id": 296,
+          "Id": 10010,
           "Name": "Winter Wyvern",
           "CardType": "Hero",
           "Rarity": "Uncommon",
@@ -5486,13 +5486,13 @@
           "Artist": "Sung Choi",
           "Lore": "",
           "RelatedIds": [
-            297
+            10011
           ],
           "SignatureCard": 297,
           "FileName": "winter_wyvern"
         },
         {
-          "Id": 297,
+          "Id": 10011,
           "Name": "Winter's Curse",
           "CardType": "Spell",
           "Rarity": "Uncommon",
@@ -5502,13 +5502,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            296
+            10010
           ],
           "IsSignatureCard": true,
           "FileName": "winters_curse"
         },
         {
-          "Id": 298,
+          "Id": 10331,
           "Name": "Wrath of Gold",
           "CardType": "Spell",
           "Rarity": "Rare",
@@ -5520,7 +5520,7 @@
           "FileName": "wrath_of_gold"
         },
         {
-          "Id": 299,
+          "Id": 10065,
           "Name": "Zeus",
           "CardType": "Hero",
           "Rarity": "Common",
@@ -5538,13 +5538,13 @@
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
-            264
+            10278
           ],
           "SignatureCard": 264,
           "FileName": "zeus"
         },
         {
-          "Id": 300,
+          "Id": 1009,
           "Name": "Zombie",
           "CardType": "Creep",
           "Rarity": "Basic",
