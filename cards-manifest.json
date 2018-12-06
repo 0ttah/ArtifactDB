@@ -1690,7 +1690,7 @@
         },
         {
           "Id": 95,
-          "Name": "Fahrvhan the Dreamer",
+          "Name": "Farvhan the Dreamer",
           "CardType": "Hero",
           "Rarity": "Basic",
           "Color": "Green",
@@ -1701,7 +1701,7 @@
             {
               "Name": "Pack Leadership",
               "Type": "Continuous",
-              "Text": "Fahrvhan the Dreamer's allied neighbors have +1 Armor."
+              "Text": "Farvhan the Dreamer's allied neighbors have +1 Armor."
             }
           ],
           "Artist": "",
