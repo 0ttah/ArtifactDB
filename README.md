@@ -44,7 +44,7 @@ I have tried to future proof the schema of the JSON manifest of changes by inclu
 - **GoldCost** : int : Cost of buying an item.
 - **Abilities** : array : An array of all abilities/effects for the Hero/Creep/Improvement/Item card. For creeps and improvements their **Text** has been parsed into an ability so it is easier to search for abilities.
   - **Name** : string : Name of the ability. For improvements/creeps the ability will be the name of the card + " : Effect" e.g. _Keenfolk Turret : Effect_. 
-  - **Type** : string : **Active/Continuous/Play/Death**
+  - **Type** : string : **Active/Continuous/Play/Death/Equip**
   - **Text** : string : The description of the effect. For improvement/creep/item abilities it will remove the prefix e.g. "_Active 1: Do something._" will become "_Do something._".
   - **Cooldown** : int : Active affect cooldown.
 - **ManaCost** : int : Mana cost for card.

@@ -328,7 +328,7 @@
         },
         {
           "Id": 18,
-          "Name": "Astral Imprisionment",
+          "Name": "Astral Imprisonment",
           "CardType": "Spell",
           "Rarity": "Uncommon",
           "Color": "Blue",
@@ -340,7 +340,7 @@
             177
           ],
           "IsSignatureCard": true,
-          "FileName": "astral_imprisionment"
+          "FileName": "astral_imprisonment"
         },
         {
           "Id": 19,
@@ -372,9 +372,9 @@
           "CardType": "Hero",
           "Rarity": "Rare",
           "Color": "Red",
-          "Attack": 7,
+          "Attack": 6,
           "Armor": 2,
-          "Health": 11,
+          "Health": 10,
           "Artist": "",
           "Lore": "",
           "RelatedIds": [
@@ -601,7 +601,7 @@
           "Rarity": "Common",
           "Color": "Black",
           "Text": "Silence a unit this round. Give that unit +4 Attack this round.",
-          "ManaCost": 5,
+          "ManaCost": 4,
           "Artist": "Lake Hurwitz",
           "Lore": "",
           "RelatedIds": [
@@ -618,7 +618,7 @@
           "Color": "Black",
           "Attack": 7,
           "Armor": 0,
-          "Health": 6,
+          "Health": 7,
           "Abilities": [
             {
               "Name": "Blood Bath",
@@ -1690,7 +1690,7 @@
         },
         {
           "Id": 95,
-          "Name": "Fahrvhan the Dreamer",
+          "Name": "Farvhan the Dreamer",
           "CardType": "Hero",
           "Rarity": "Basic",
           "Color": "Green",
@@ -1701,7 +1701,7 @@
             {
               "Name": "Pack Leadership",
               "Type": "Continuous",
-              "Text": "Fahrvhan the Dreamer's allied neighbors have +1 Armor."
+              "Text": "Farvhan the Dreamer's allied neighbors have +1 Armor."
             }
           ],
           "Artist": "",
@@ -1709,7 +1709,7 @@
           "RelatedIds": [
             196
           ],
-          "FileName": "fahrvhan_the_dreamer"
+          "FileName": "farvhan_the_dreamer"
         },
         {
           "Id": 96,
@@ -1967,7 +1967,7 @@
           "CardType": "Spell",
           "Color": "Green",
           "Rarity": "Rare",
-          "Text": "Silence enemy heroes this round.",
+          "Text": "Silence an enemy hero and its allied neighbors this round.",
           "IsSignatureCard": true,
           "Artist": "",
           "Lore": "",
@@ -2319,15 +2319,20 @@
           "ItemType": "Weapon",
           "Color": "Yellow",
           "Rarity": "Uncommon",
-          "Text": "Equipped hero has +2 Attack and Pierce.",
+          "Text": "Equipped hero has +2 Attack and Pierce. Equip Effect: Purge your opponent's effects from equipped hero.",
           "Abilities": [
             {
               "Name": "Jasper Daggers : Effect",
               "Type": "Continuous",
               "Text": "Equipped hero has +2 Attack and Pierce."
+            },
+            {
+              "Name": "Jasper Daggers : Effect",
+              "Type": "Equip",
+              "Text": "Purge your opponent's effects from equipped hero."
             }
           ],
-          "GoldCost": 7,
+          "GoldCost": 5,
           "Artist": "",
           "Lore": "",
           "FileName": "jasper_daggers"
@@ -2607,7 +2612,7 @@
             {
               "Name": "Finger of Death",
               "Type": "Active",
-              "Text": "Deal 8 piercing damage to a unit.",
+              "Text": "Deal 8 piercing damage to a unit. Quicken.",
               "Cooldown": 4
             }
           ],
@@ -3192,7 +3197,7 @@
           "Color": "Blue",
           "Attack": 4,
           "Armor": 0,
-          "Health": 6,
+          "Health": 7,
           "Text": "After you play a blue card, there is a 50% chance to restore 2 Mana.",
           "Abilities": [
             {
@@ -4973,7 +4978,7 @@
             {
               "Name": "Reactive Armor",
               "Type": "Continuous",
-              "Text": "Timbersaw has +1 Armor for each of its attackers."
+              "Text": "Timbersaw has +1 Armor for each of its attackers. Each of Timbersaw's attackers have -1 Armor."
             }
           ],
           "SignatureCard": 293,
