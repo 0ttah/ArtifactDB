@@ -14,6 +14,9 @@
     "card",
     "game"
   ],
+  "files": [
+    "/lib"
+  ],
   "author": "Theo Ottah",
   "license": "ISC",
   "bugs": {
@@ -21,5 +24,10 @@
   },
   "homepage": "https://github.com/ottah/ArtifactDB#readme",
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {
+    "@open-artifact/api-types": "^0.4.0",
+    "@open-artifact/plough": "^0.2.0",
+    "@types/node": "^10.12.12",
+    "typescript": "^3.1.6"
+  }
 }
